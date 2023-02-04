@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="10">
+  <Entry Index="0">Uh-oh! My Bag is full. There's no space left
+for me to put this in.</Entry>
+  <Entry Index="1">Uh-oh! The Tool Pocket in my Bag is full.
+There isn't any space for me to put this in.</Entry>
+  <Entry Index="2">Whoa, Nelly! I can't go inside while I'm still on my horse.</Entry>
+  <Entry Index="3">This must be something that my pet brought in.</Entry>
+  <Entry Index="4">I can't ship this.</Entry>
+  <Entry Index="5">Found %ls!</Entry>
+  <Entry Index="6">Uh-oh! My Bag is full. Since there's no space
+for fish, I can't go fishing.</Entry>
+  <Entry Index="7">Uh-oh! It looks like I can't dismount here.</Entry>
+  <Entry Index="8">I can't eat now.</Entry>
+  <Entry Index="9">I can't place more than this.</Entry>
+</Entries>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="43">
+  <Entry Index="0">Ah ha! It looks like &lt;string0&gt;
+is pregnant.&lt;wait&gt;</Entry>
+  <Entry Index="1">Huh? Nothing happened.&lt;wait&gt;</Entry>
+  <Entry Index="2">I don't have a Breeding Bin available.&lt;wait&gt;</Entry>
+  <Entry Index="3">My Barn is too full. I can't take in any more animals.&lt;wait&gt;</Entry>
+  <Entry Index="4">&lt;playername&gt;, hello. Do you have a moment?
+I have a favor to ask...&lt;wait&gt;</Entry>
+  <Entry Index="5">You see, this little foal of mine here isn't feeling too well.
+It needs a little extra care.&lt;wait&gt;&lt;page&gt;
+Unfortunately, I don't have the time to give it that care.
+I was hoping you might raise it for me.&lt;wait&gt;</Entry>
+  <Entry Index="6">Ah, but I would truly appreciate your help with this...&lt;wait&gt;</Entry>
+  <Entry Index="7">Or...can you not do it?</Entry>
+  <Entry Index="8">Accept</Entry>
+  <Entry Index="9">Decline</Entry>
+  <Entry Index="10">I see. Well, if you can't, then you can't. I won't bother you
+with this again. Good day.&lt;wait&gt;</Entry>
+  <Entry Index="11">You will? Good, good! I knew I could count on you.&lt;wait&gt;&lt;page&gt;
+Well then, why not give this little one a name?&lt;wait&gt;</Entry>
+  <Entry Index="12">There isn't much to worry yourself over when it comes
+to raising horses.&lt;wait&gt;&lt;page&gt;
+Just give ‘em lots of love and care, and that'll be plenty.&lt;wait&gt;&lt;page&gt;
+Talk to them every day, yeah? They do love
+hearing your voice.&lt;wait&gt;&lt;page&gt;
+Brushing them every day is good for them too.&lt;wait&gt;</Entry>
+  <Entry Index="13">All right, then. I'll take this little one on over
+to your Stable.&lt;wait&gt;</Entry>
+  <Entry Index="14">Once it's grown, I'll come back for it.&lt;wait&gt;&lt;page&gt;
+Take good care of it for me until then.
+I'm counting on you.&lt;wait&gt;</Entry>
+  <Entry Index="15">&lt;playername&gt;, hello. I've come to check in on little
+&lt;string0&gt;.&lt;wait&gt;&lt;page&gt;
+I'm thinking it should be about grown by now.&lt;wait&gt;</Entry>
+  <Entry Index="16">Hrm... Mm-hmm... Mm-hmm...&lt;wait&gt;</Entry>
+  <Entry Index="17">Good, good! I can tell you spent the last 90 days raising
+&lt;string0&gt; with lots of love and care.
+You've done a fine job. You pass.&lt;wait&gt;</Entry>
+  <Entry Index="18">As thanks for your hard work, I don't mind letting you
+keep &lt;string0&gt; as your own.&lt;wait&gt;&lt;page&gt;
+They seem like they're quite fond of you, after all.&lt;wait&gt;&lt;page&gt;
+Well then, keep taking excellent care of little...
+Well, big &lt;string0&gt; now.
+I know I can count on you.&lt;wait&gt;</Entry>
+  <Entry Index="19">Hrm... Mm-hmm... Mm-hmm...&lt;wait&gt;</Entry>
+  <Entry Index="20">No, no, no. This won't do at all, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+It's been an entire year, but you haven't shown
+&lt;string0&gt; enough love.
+I'm afraid I have to fail you.&lt;wait&gt;</Entry>
+  <Entry Index="21">I'll be taking &lt;string0&gt; back home
+with me, then. Good day.&lt;wait&gt;</Entry>
+  <Entry Index="22">&lt;playername&gt;, hello. I can't help but notice you don't
+have a single horse on your farm.&lt;wait&gt;</Entry>
+  <Entry Index="23">This here is one that I raised. I'll let you have it.
+It'll make things seem a bit more farm-y.&lt;wait&gt;&lt;page&gt;
+You can give it a name too, if you'd like.&lt;wait&gt;</Entry>
+  <Entry Index="24">Now then, I'll go take this little one to your barn.&lt;wait&gt;&lt;page&gt;
+Show it lots of love every day, y'hear? Don't forget to
+talk to it and give it a good brushing.&lt;wait&gt;</Entry>
+  <Entry Index="25">I'll leave &lt;myhorsename&gt; in your care, then. Good day.&lt;wait&gt;</Entry>
+  <Entry Index="26">[UNUSED SKIP]</Entry>
+  <Entry Index="27">&lt;string0&gt; is pregnant. She ought to
+give birth soon.&lt;wait&gt;</Entry>
+  <Entry Index="28">&lt;string0&gt; is pregnant. I think she has
+at least &lt;string1&gt; days left to go.&lt;wait&gt;</Entry>
+  <Entry Index="29">[UNUSED SKIP]</Entry>
+  <Entry Index="30">Hey there, &lt;string0&gt;. You're looking
+happy and healthy today.&lt;wait&gt;</Entry>
+  <Entry Index="31">Hey there, &lt;string0&gt;.
+You want this &lt;string1&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="32">There's a good little one.
+Hurry and grow up strong, okay?&lt;wait&gt;</Entry>
+  <Entry Index="33">Uh-oh. It looks like this one is plotting something...&lt;wait&gt;</Entry>
+  <Entry Index="34">The cows here always look so cute and happy.&lt;wait&gt;</Entry>
+  <Entry Index="35">Hello there, Hana. You sure are a cheerful pup, huh?&lt;wait&gt;</Entry>
+  <Entry Index="36">[UNUSED SKIP]</Entry>
+  <Entry Index="37">&lt;string0&gt; is pregnant. She ought to
+give birth any day now.&lt;wait&gt;</Entry>
+  <Entry Index="38">&lt;string0&gt; is pregnant. I think she has
+at least &lt;string1&gt; days left to go.&lt;wait&gt;</Entry>
+  <Entry Index="39">[UNUSED SKIP]</Entry>
+  <Entry Index="40">Hey there, &lt;string0&gt;. You look well
+and in good spirits today.&lt;wait&gt;</Entry>
+  <Entry Index="41">[UNUSED SKIP]</Entry>
+  <Entry Index="42">This animal is pregnant. I should leave her be.</Entry>
+</Entries>

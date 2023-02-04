@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="896">
+  <Entry Index="0"></Entry>
+  <Entry Index="1"></Entry>
+  <Entry Index="2"></Entry>
+  <Entry Index="3"></Entry>
+  <Entry Index="4">Oh dear. You don't seem to have enough gold.&lt;wait&gt;</Entry>
+  <Entry Index="5">Hmmm? You aren't buying?&lt;wait&gt;</Entry>
+  <Entry Index="6">You don't need that?&lt;wait&gt;</Entry>
+  <Entry Index="7">Will you be buying anything else?&lt;wait&gt;</Entry>
+  <Entry Index="8">Thank you! Come again!&lt;wait&gt;&lt;page&gt;
+I'll tell Rick to put the Feed you bought
+in the Feeding Bin on your farm.&lt;wait&gt;</Entry>
+  <Entry Index="9">This much won't fit in the Feeding Bin.&lt;wait&gt;</Entry>
+  <Entry Index="10">Thank you! Come again!&lt;wait&gt;</Entry>
+  <Entry Index="11"></Entry>
+  <Entry Index="12">Thank you! Come again! Hm? It looks like you've got your
+hands full with other stuff.&lt;wait&gt;&lt;page&gt;
+I'll tell Rick to deliver your purchase to you later.&lt;wait&gt;</Entry>
+  <Entry Index="13">Oh dear. It doesn't look like you can hold any more.&lt;wait&gt;</Entry>
+  <Entry Index="14">The Coop on your farm is already full.&lt;wait&gt;</Entry>
+  <Entry Index="15"></Entry>
+  <Entry Index="16">I'll tell Rick to bring the chicken you bought to the Coop
+on your farm.&lt;wait&gt;</Entry>
+  <Entry Index="17">I'll tell Rick to collect the chicken you sold us from the
+Coop on your farm.&lt;wait&gt;</Entry>
+  <Entry Index="18"></Entry>
+  <Entry Index="19">Um... You, uh, don't have enough gold.&lt;wait&gt;</Entry>
+  <Entry Index="20">You can't hold anything else.&lt;wait&gt;</Entry>
+  <Entry Index="21">You can't hold any more equipment, I'm afraid.&lt;wait&gt;</Entry>
+  <Entry Index="22">Thank you very much.&lt;wait&gt;</Entry>
+  <Entry Index="23">Huh? You're sure?&lt;wait&gt;</Entry>
+  <Entry Index="24">Buying anything else?&lt;wait&gt;</Entry>
+  <Entry Index="25">Thank you very much.&lt;wait&gt;&lt;page&gt;
+Huh? Looks like you have a lot of equipment already.
+I'll send this over to you later.&lt;wait&gt;</Entry>
+  <Entry Index="26">Thank you very much.&lt;wait&gt;&lt;page&gt;
+Huh? Looks like it won't fit. I'll send it to you later.&lt;wait&gt;</Entry>
+  <Entry Index="27">Huh? You're sure?&lt;wait&gt;</Entry>
+  <Entry Index="28">Thank you very much.&lt;wait&gt;&lt;page&gt;
+Huh? You look like you've got your hands full already.
+I'll just send this over to you later.&lt;wait&gt;</Entry>
+  <Entry Index="29">Thank you very much.&lt;wait&gt;&lt;page&gt;
+Huh? This isn't going to fit. I'll just send it to you later,
+okay?&lt;wait&gt;</Entry>
+  <Entry Index="30">Ah, you don't have enough gold. We can't give away
+medicine for free, I'm afraid. Sorry.&lt;wait&gt;</Entry>
+  <Entry Index="31">Oh, it doesn't look like you can carry any more.
+Could you free up some space?&lt;wait&gt;</Entry>
+  <Entry Index="32">You don't want to buy anything else?&lt;wait&gt;</Entry>
+  <Entry Index="33">You're not buying anything? If you're tired, you mustn't
+overwork yourself, okay?&lt;wait&gt;</Entry>
+  <Entry Index="34">Buying anything else?&lt;wait&gt;</Entry>
+  <Entry Index="35">Yes, here you are. Take care.&lt;wait&gt;</Entry>
+  <Entry Index="36">Oh, it doesn't look like you can hold any more. I'll send this
+to your house later.&lt;wait&gt;</Entry>
+  <Entry Index="37">Oh, it looks like you don't have room for all of these.
+I'll send the rest to you later.&lt;wait&gt;</Entry>
+  <Entry Index="38">Plain old water.</Entry>
+  <Entry Index="39">Only sold at the Inn during the day.&lt;wait&gt;</Entry>
+  <Entry Index="40">A tall glass of fresh cow Milk.</Entry>
+  <Entry Index="41">Looks like you're short on gold. Try to bring more
+next time.&lt;wait&gt;</Entry>
+  <Entry Index="42">What, you sure? I'll take your order any time.&lt;wait&gt;</Entry>
+  <Entry Index="43">Thanks! Wait just a sec... Here you are!&lt;wait&gt;</Entry>
+  <Entry Index="44">Hmph. Your gold does not add up. You can't pull the wool
+over my eyes!&lt;wait&gt;</Entry>
+  <Entry Index="45">Your hands are quite full of equipment already, yes?
+Being greedy will not get you anywhere.
+&lt;wait&gt;</Entry>
+  <Entry Index="46">You are carrying much as it is, yes? Being greedy will not
+get you anywhere, you know.&lt;wait&gt;</Entry>
+  <Entry Index="47">Is there nothing else that catches your eye? I'll give you
+a special deal!&lt;wait&gt;</Entry>
+  <Entry Index="48">...Are you one of those window-shopper people?&lt;wait&gt;</Entry>
+  <Entry Index="49">Are you going to purchase anything else?&lt;wait&gt;</Entry>
+  <Entry Index="50">My thanks! Gratitude! Xie xie! Come again!&lt;wait&gt;</Entry>
+  <Entry Index="51">My thanks, come again-- Ah! Your Bag is full, yes?&lt;wait&gt;&lt;page&gt;
+I will send it to your home later. How is that for service?&lt;wait&gt;</Entry>
+  <Entry Index="52">My thanks, come again-- Ah! Your Bag is full, yes?&lt;wait&gt;&lt;page&gt;
+I will send it to your home later. How is that for service?&lt;wait&gt;</Entry>
+  <Entry Index="53">My thanks, come again-- Ah!
+It won't all fit in your Bag, yes?&lt;wait&gt;&lt;page&gt;
+I will send it to your home later. How is that for good
+service?&lt;wait&gt;</Entry>
+  <Entry Index="54">My thanks, come again-- Ah!
+It won't all fit in your Bag, yes?&lt;wait&gt;&lt;page&gt;
+I will send it to your home later. How is that for good
+service?&lt;wait&gt;</Entry>
+  <Entry Index="55">My, my. You don't have enough gold. You're a cheeky one,
+aren't you?&lt;wait&gt;</Entry>
+  <Entry Index="56">I'm glad you're buying something, but if you can't carry it,
+there's nothing I can do.&lt;wait&gt;</Entry>
+  <Entry Index="57">Thanks. Be sure to drop by again, you hear!&lt;wait&gt;</Entry>
+  <Entry Index="58">If you want to buy anything, just come tell me.&lt;wait&gt;</Entry>
+  <Entry Index="59">Thanks again.&lt;wait&gt;</Entry>
+  <Entry Index="60">Anything else tickle your fancy?&lt;wait&gt;</Entry>
+  <Entry Index="61">Thanks. Oh? Looks like you have your hands full as it is.&lt;wait&gt;&lt;page&gt;
+That's fine. I'll have my husband bring the rest to
+you later.&lt;wait&gt;</Entry>
+  <Entry Index="62">Thanks. Oh? Looks like you have your hands full as it is.&lt;wait&gt;&lt;page&gt;
+That's fine. I'll have my husband bring the rest to
+you later.&lt;wait&gt;</Entry>
+  <Entry Index="63">A device that plays records.</Entry>
+  <Entry Index="64">Thank you for your patronage. I'll have it delivered to
+your Cabinet later.&lt;wait&gt;</Entry>
+  <Entry Index="65">Will you be buying anything else?&lt;wait&gt;</Entry>
+  <Entry Index="66">Hrm. I'm afraid your funds are a bit lacking at the
+moment.&lt;wait&gt;</Entry>
+  <Entry Index="67">Thank you very much. The Record Player is heavy,
+so I will have it sent to your house.&lt;wait&gt;</Entry>
+  <Entry Index="68">Thank you very much. I hope I can count on your
+continued support.&lt;wait&gt;</Entry>
+  <Entry Index="69">Thank you very much. Ah, a moment. It seems as though
+it won't fit. I will have it sent to your house.&lt;wait&gt;</Entry>
+  <Entry Index="70">Thank you very much.&lt;wait&gt;</Entry>
+  <Entry Index="71">Unfortunately, it seems you're a bit overburdened at the
+moment and have no room for this.&lt;wait&gt;</Entry>
+  <Entry Index="72">An Italian noodle dish.</Entry>
+  <Entry Index="73">A frozen dessert made of finely crushed ice.</Entry>
+  <Entry Index="74">Hold up. You don't got enough gold!&lt;wait&gt;</Entry>
+  <Entry Index="75">All righty, then. Oh, if you want another bite to eat,
+just give me a holler.&lt;wait&gt;</Entry>
+  <Entry Index="76">Okay, just a sec... And here ya go. Sorry for the wait.
+Go on an' eat up!&lt;wait&gt;</Entry>
+  <Entry Index="77">I'll start the expansion work on my own. Pay me no mind.&lt;wait&gt;</Entry>
+  <Entry Index="78">Oh, and anything you've got displayed will just get in my
+way, so I'll set it aside for you.&lt;wait&gt;</Entry>
+  <Entry Index="79"></Entry>
+  <Entry Index="80"></Entry>
+  <Entry Index="81"></Entry>
+  <Entry Index="82"></Entry>
+  <Entry Index="83"></Entry>
+  <Entry Index="84"></Entry>
+  <Entry Index="85"></Entry>
+  <Entry Index="86"></Entry>
+  <Entry Index="87"></Entry>
+  <Entry Index="88"></Entry>
+  <Entry Index="89"></Entry>
+  <Entry Index="90"></Entry>
+  <Entry Index="91"></Entry>
+  <Entry Index="92"></Entry>
+  <Entry Index="93"></Entry>
+  <Entry Index="94"></Entry>
+  <Entry Index="95"></Entry>
+  <Entry Index="96"></Entry>
+  <Entry Index="97"></Entry>
+  <Entry Index="98"></Entry>
+  <Entry Index="99"></Entry>
+  <Entry Index="100"></Entry>
+  <Entry Index="101"></Entry>
+  <Entry Index="102"></Entry>
+  <Entry Index="103"></Entry>
+  <Entry Index="104"></Entry>
+  <Entry Index="105"></Entry>
+  <Entry Index="106"></Entry>
+  <Entry Index="107"></Entry>
+  <Entry Index="108"></Entry>
+  <Entry Index="109">What, you sure?&lt;wait&gt;</Entry>
+  <Entry Index="110"></Entry>
+  <Entry Index="111"></Entry>
+  <Entry Index="112"></Entry>
+  <Entry Index="113"></Entry>
+  <Entry Index="114"></Entry>
+  <Entry Index="115"></Entry>
+  <Entry Index="116">Thanks.&lt;wait&gt;</Entry>
+  <Entry Index="117"></Entry>
+  <Entry Index="118"></Entry>
+  <Entry Index="119"></Entry>
+  <Entry Index="120"></Entry>
+  <Entry Index="121"></Entry>
+  <Entry Index="122"></Entry>
+  <Entry Index="123"></Entry>
+  <Entry Index="124"></Entry>
+  <Entry Index="125"></Entry>
+  <Entry Index="126"></Entry>
+  <Entry Index="127"></Entry>
+  <Entry Index="128"></Entry>
+  <Entry Index="129"></Entry>
+  <Entry Index="130"></Entry>
+  <Entry Index="131"></Entry>
+  <Entry Index="132">You don't have enough gold.&lt;wait&gt;</Entry>
+  <Entry Index="133">Will you be buying something else?&lt;wait&gt;</Entry>
+  <Entry Index="134">Oh, you sure?&lt;wait&gt;</Entry>
+  <Entry Index="135">If you want to buy anything, just come talk to me again,
+all right?&lt;wait&gt;</Entry>
+  <Entry Index="136">All right, I'll put the Fodder in your Silo. Come again.&lt;wait&gt;</Entry>
+  <Entry Index="137">Your Silo is already full of Fodder.&lt;wait&gt;</Entry>
+  <Entry Index="138">Come again. Oh. Looks like you're already full up on
+equipment. I'll send it to your house later.&lt;wait&gt;</Entry>
+  <Entry Index="139">Come again. Oh. Looks like the equipment won't all fit.&lt;wait&gt;&lt;page&gt;
+I'll send it on to your house later, all right?&lt;wait&gt;</Entry>
+  <Entry Index="140">Hrm? Looks like the equipment won't fit.&lt;wait&gt;</Entry>
+  <Entry Index="141">Well then, go on and name it.&lt;wait&gt;</Entry>
+  <Entry Index="142">Then I'll put it in your Barn. Come again.&lt;wait&gt;</Entry>
+  <Entry Index="143">Your Barn is full.&lt;wait&gt;</Entry>
+  <Entry Index="144">You don't have a cow that you can sell.&lt;wait&gt;</Entry>
+  <Entry Index="145">You don't have a sheep that you can sell.&lt;wait&gt;</Entry>
+  <Entry Index="146"></Entry>
+  <Entry Index="147"></Entry>
+  <Entry Index="148"></Entry>
+  <Entry Index="149"></Entry>
+  <Entry Index="150"></Entry>
+  <Entry Index="151">G all right for you?</Entry>
+  <Entry Index="152">Oh yeah?&lt;wait&gt;&lt;page&gt;
+Well then...</Entry>
+  <Entry Index="153">I'll take it from the Barn on your farm.&lt;wait&gt;</Entry>
+  <Entry Index="154"></Entry>
+  <Entry Index="155"></Entry>
+  <Entry Index="156"></Entry>
+  <Entry Index="157">Up to 30 items can fit in this Basket, which you can then ship to your Shipping Bin. This can also be equipped on your horse.&lt;wait&gt;</Entry>
+  <Entry Index="158">Basic Bag</Entry>
+  <Entry Index="159">Capacity:
+16 Items
+8 Tools</Entry>
+  <Entry Index="160">Big Bag</Entry>
+  <Entry Index="161">Capacity:
+24 Items
+12 Tools</Entry>
+  <Entry Index="162">Knife</Entry>
+  <Entry Index="163">Allows you to make food requiring a Knife.</Entry>
+  <Entry Index="164">Frying Pan</Entry>
+  <Entry Index="165">Allows you to make food requiring
+a Frying Pan.</Entry>
+  <Entry Index="166">Pot</Entry>
+  <Entry Index="167">Allows you to make food requiring a Pot.</Entry>
+  <Entry Index="168">Mixer</Entry>
+  <Entry Index="169">Allows you to make food requiring a Mixer.</Entry>
+  <Entry Index="170">Whisk</Entry>
+  <Entry Index="171">Allows you to make food requiring a Whisk.</Entry>
+  <Entry Index="172">Rolling Pin</Entry>
+  <Entry Index="173">Allows you to make food requiring
+a Rolling Pin.</Entry>
+  <Entry Index="174">Oven</Entry>
+  <Entry Index="175">Allows you to make food requiring an Oven.</Entry>
+  <Entry Index="176">Seasoning Set</Entry>
+  <Entry Index="177">Allows you to make food requiring
+a Seasoning Set.</Entry>
+  <Entry Index="178">Power Berry</Entry>
+  <Entry Index="179">Eating it will increase your maximum
+Stamina by 15.</Entry>
+  <Entry Index="180">Copper Hoe</Entry>
+  <Entry Index="181">Tills a larger area than the Hoe from the
+mayor.</Entry>
+  <Entry Index="182">Silver Hoe</Entry>
+  <Entry Index="183">Tills a larger area than the Copper Hoe.</Entry>
+  <Entry Index="184">Golden Hoe</Entry>
+  <Entry Index="185">Tills a larger area than the Silver Hoe.</Entry>
+  <Entry Index="186">Mithril Hoe</Entry>
+  <Entry Index="187">Tills a larger area than the Golden Hoe.</Entry>
+  <Entry Index="188">Mythic Hoe</Entry>
+  <Entry Index="189">Tills a larger area than the
+Cursed/Blessed Hoe.</Entry>
+  <Entry Index="190">Copper Sickle</Entry>
+  <Entry Index="191">Cuts a larger area than the Sickle from the
+mayor.</Entry>
+  <Entry Index="192">Silver Sickle</Entry>
+  <Entry Index="193">Cuts a larger area than the Copper Sickle.</Entry>
+  <Entry Index="194">Golden Sickle</Entry>
+  <Entry Index="195">Cuts a larger area than the Silver Sickle.</Entry>
+  <Entry Index="196">Mithril Sickle</Entry>
+  <Entry Index="197">Cuts a larger area than the Golden Sickle.</Entry>
+  <Entry Index="198">Mythic Sickle</Entry>
+  <Entry Index="199">Cuts a larger area than the Cursed/Blessed
+Sickle.</Entry>
+  <Entry Index="200">Copper Axe</Entry>
+  <Entry Index="201">Can break stumps that the Axe from the
+mayor couldn't.</Entry>
+  <Entry Index="202">Silver Axe</Entry>
+  <Entry Index="203">Breaks stumps faster than the Copper Axe.</Entry>
+  <Entry Index="204">Golden Axe</Entry>
+  <Entry Index="205">Breaks stumps faster than the Silver Axe.</Entry>
+  <Entry Index="206">Mithril Axe</Entry>
+  <Entry Index="207">Breaks stumps faster than the Golden Axe.</Entry>
+  <Entry Index="208">Mythic Axe</Entry>
+  <Entry Index="209">Exhausts half the Stamina of the
+Cursed/Blessed Axe, and breaks all stumps in
+the area in one swing.</Entry>
+  <Entry Index="210">Copper Hammer</Entry>
+  <Entry Index="211">Can break bigger stones than the Hammer
+from the mayor.</Entry>
+  <Entry Index="212">Silver Hammer</Entry>
+  <Entry Index="213">Can break boulders that the Copper Hammer
+couldn't.</Entry>
+  <Entry Index="214">Golden Hammer</Entry>
+  <Entry Index="215">Can break boulders faster than the Silver
+Hammer.</Entry>
+  <Entry Index="216">Mithril Hammer</Entry>
+  <Entry Index="217">Can break boulders faster than the Golden
+Hammer.</Entry>
+  <Entry Index="218">Mythic Hammer</Entry>
+  <Entry Index="219">Destroys everything in the area with one
+swing.</Entry>
+  <Entry Index="220">Copper Watering Can</Entry>
+  <Entry Index="221">Waters a larger area than the Watering Can
+from the mayor.</Entry>
+  <Entry Index="222">Silver Watering Can</Entry>
+  <Entry Index="223">Waters a larger area than the Copper
+Watering Can.</Entry>
+  <Entry Index="224">Golden Watering Can</Entry>
+  <Entry Index="225">Waters a larger area than the Silver
+Watering Can.</Entry>
+  <Entry Index="226">Mithril Watering Can</Entry>
+  <Entry Index="227">Waters a larger area than the Golden
+Watering Can.</Entry>
+  <Entry Index="228">Mythic Watering Can</Entry>
+  <Entry Index="229">Waters a larger area than the
+Cursed/Blessed Watering Can.</Entry>
+  <Entry Index="230">Copper Fishing Rod</Entry>
+  <Entry Index="231">Easier to catch medium-sized fish than with
+the Fishing Rod from Zack.</Entry>
+  <Entry Index="232">Silver Fishing Rod</Entry>
+  <Entry Index="233">Easier to catch medium-sized fish than with
+the Copper Fishing Rod.</Entry>
+  <Entry Index="234">Golden Fishing Rod</Entry>
+  <Entry Index="235">Easier to catch large fish than with the Silver
+Fishing Rod.</Entry>
+  <Entry Index="236">Mithril Fishing Rod</Entry>
+  <Entry Index="237">Easier to catch large fish than with the
+Golden Fishing Rod.</Entry>
+  <Entry Index="238">Mythic Fishing Rod</Entry>
+  <Entry Index="239">Catches Guardian-class fish and rare items
+at twice the rate of the Cursed/Blessed
+Fishing Rod.</Entry>
+  <Entry Index="240"></Entry>
+  <Entry Index="241"></Entry>
+  <Entry Index="242"></Entry>
+  <Entry Index="243"></Entry>
+  <Entry Index="244"></Entry>
+  <Entry Index="245"></Entry>
+  <Entry Index="246"></Entry>
+  <Entry Index="247"></Entry>
+  <Entry Index="248"></Entry>
+  <Entry Index="249"></Entry>
+  <Entry Index="250"></Entry>
+  <Entry Index="251"></Entry>
+  <Entry Index="252"></Entry>
+  <Entry Index="253"></Entry>
+  <Entry Index="254"></Entry>
+  <Entry Index="255"></Entry>
+  <Entry Index="256"></Entry>
+  <Entry Index="257"></Entry>
+  <Entry Index="258"></Entry>
+  <Entry Index="259"></Entry>
+  <Entry Index="260"></Entry>
+  <Entry Index="261"></Entry>
+  <Entry Index="262"></Entry>
+  <Entry Index="263"></Entry>
+  <Entry Index="264"></Entry>
+  <Entry Index="265"></Entry>
+  <Entry Index="266"></Entry>
+  <Entry Index="267"></Entry>
+  <Entry Index="268"></Entry>
+  <Entry Index="269"></Entry>
+  <Entry Index="270"></Entry>
+  <Entry Index="271"></Entry>
+  <Entry Index="272"></Entry>
+  <Entry Index="273"></Entry>
+  <Entry Index="274"></Entry>
+  <Entry Index="275"></Entry>
+  <Entry Index="276"></Entry>
+  <Entry Index="277"></Entry>
+  <Entry Index="278"></Entry>
+  <Entry Index="279"></Entry>
+  <Entry Index="280"></Entry>
+  <Entry Index="281"></Entry>
+  <Entry Index="282"></Entry>
+  <Entry Index="283"></Entry>
+  <Entry Index="284"></Entry>
+  <Entry Index="285"></Entry>
+  <Entry Index="286"></Entry>
+  <Entry Index="287"></Entry>
+  <Entry Index="288"></Entry>
+  <Entry Index="289"></Entry>
+  <Entry Index="290"></Entry>
+  <Entry Index="291"></Entry>
+  <Entry Index="292"></Entry>
+  <Entry Index="293"></Entry>
+  <Entry Index="294"></Entry>
+  <Entry Index="295"></Entry>
+  <Entry Index="296"></Entry>
+  <Entry Index="297"></Entry>
+  <Entry Index="298"></Entry>
+  <Entry Index="299"></Entry>
+  <Entry Index="300">Mayonnaise Maker</Entry>
+  <Entry Index="301">The quality of the Egg used will
+determine the size of the Mayonnaise.</Entry>
+  <Entry Index="302">Cheese Maker</Entry>
+  <Entry Index="303">The quality of the Milk used will
+determine the size of the Cheese.</Entry>
+  <Entry Index="304">Yarn Maker (Coop)</Entry>
+  <Entry Index="305">The quality of the Wool/Fur/Fleece used
+will determine the size of the Yarn.</Entry>
+  <Entry Index="306">Yarn Maker (Barn)</Entry>
+  <Entry Index="307">The quality of the Wool/Fur/Fleece used
+will determine the size of the Yarn.</Entry>
+  <Entry Index="308"></Entry>
+  <Entry Index="309"></Entry>
+  <Entry Index="310">Butter Maker</Entry>
+  <Entry Index="311">Add Milk to make Butter.</Entry>
+  <Entry Index="312">Slightly Bigger House</Entry>
+  <Entry Index="313">A house with a bit more room than the
+current one. Comes with a Kitchen.</Entry>
+  <Entry Index="314">Big House</Entry>
+  <Entry Index="315">A house much bigger than the current
+one. Can fit a Big Bed in it.</Entry>
+  <Entry Index="316">Bathroom</Entry>
+  <Entry Index="317">Going inside will help recover Stamina
+and relieve Fatigue. Takes 30 minutes.</Entry>
+  <Entry Index="318">Coop</Entry>
+  <Entry Index="319">Expand to fit 8 animals.</Entry>
+  <Entry Index="320">Barn</Entry>
+  <Entry Index="321">Expand to fit 16 animals.</Entry>
+  <Entry Index="322">Water Mill</Entry>
+  <Entry Index="323">For storing Chicken/Rabbit Feed.
+Can hold up to 9,999 units.</Entry>
+  <Entry Index="324">Silo</Entry>
+  <Entry Index="325">For storing Fodder.
+Can hold up to 9,999 units.</Entry>
+  <Entry Index="326">Field Level 2</Entry>
+  <Entry Index="327">Increases the chances of harvesting
+higher quality crops.</Entry>
+  <Entry Index="328">Field Level 3</Entry>
+  <Entry Index="329">Increases the chances of harvesting
+higher quality crops more than a Level 2
+field.</Entry>
+  <Entry Index="330">Field Level 4</Entry>
+  <Entry Index="331">Increases the chances of harvesting
+higher quality crops more than a Level 3
+field.</Entry>
+  <Entry Index="332">Field Level 5</Entry>
+  <Entry Index="333">Increases the chances of harvesting
+higher quality crops more than a Level 4
+field.</Entry>
+  <Entry Index="334">Apple Tree</Entry>
+  <Entry Index="335">Produces Apples in summer and autumn.
+Occasionally produces Honey.</Entry>
+  <Entry Index="336">Grape Tree</Entry>
+  <Entry Index="337">Produces Grapes in spring and summer.
+Occasionally produces Honey.</Entry>
+  <Entry Index="338">Orange Tree</Entry>
+  <Entry Index="339">Produces Oranges in autumn and winter.
+Occasionally produces Honey.</Entry>
+  <Entry Index="340">Town Villa</Entry>
+  <Entry Index="341">Can be built in the south part of town.
+It's nice to treat yourself sometimes.</Entry>
+  <Entry Index="342">Square Windows</Entry>
+  <Entry Index="343">Changes Window shape to square.
+Comes with attractive shutters.</Entry>
+  <Entry Index="344">Square Windows</Entry>
+  <Entry Index="345">Changes Window shape to square
+without shutters.</Entry>
+  <Entry Index="346">Round Windows</Entry>
+  <Entry Index="347">Changes Window shape to round.</Entry>
+  <Entry Index="348"></Entry>
+  <Entry Index="349"></Entry>
+  <Entry Index="350"></Entry>
+  <Entry Index="351"></Entry>
+  <Entry Index="352"></Entry>
+  <Entry Index="353"></Entry>
+  <Entry Index="354">Red Mailbox</Entry>
+  <Entry Index="355">Turns your Mailbox red.</Entry>
+  <Entry Index="356">Blue Mailbox</Entry>
+  <Entry Index="357">Turns your Mailbox blue.</Entry>
+  <Entry Index="358">Weird Mailbox</Entry>
+  <Entry Index="359">Turns your Mailbox into a unique shape.</Entry>
+  <Entry Index="360">Clock</Entry>
+  <Entry Index="361">Allows you to check the time.</Entry>
+  <Entry Index="362"></Entry>
+  <Entry Index="363"></Entry>
+  <Entry Index="364">Fridge</Entry>
+  <Entry Index="365">Can store crops and food.</Entry>
+  <Entry Index="366">Big Fridge</Entry>
+  <Entry Index="367">Can store more than the basic Fridge.</Entry>
+  <Entry Index="368">Deluxe Fridge</Entry>
+  <Entry Index="369">Can store even more than the Big Fridge.</Entry>
+  <Entry Index="370">Big Cabinet</Entry>
+  <Entry Index="371">Can store more than the basic Cabinet.</Entry>
+  <Entry Index="372">Deluxe Cabinet</Entry>
+  <Entry Index="373">Can store even more than the Big
+Cabinet.</Entry>
+  <Entry Index="374">Rug</Entry>
+  <Entry Index="375">Lay it on the floor to add a bit of style to
+your home.</Entry>
+  <Entry Index="376">Big Bed</Entry>
+  <Entry Index="377">Necessary to have a bigger family.</Entry>
+  <Entry Index="378">Normal Wallpaper</Entry>
+  <Entry Index="379">Wallpaper that's as basic as it gets.</Entry>
+  <Entry Index="380">Zigzag Wallpaper</Entry>
+  <Entry Index="381">Wallpaper with a playful design.</Entry>
+  <Entry Index="382">Blue Wallpaper</Entry>
+  <Entry Index="383">Wallpaper with a touch of class.</Entry>
+  <Entry Index="384">Normal Floor</Entry>
+  <Entry Index="385">Flooring without much going on.</Entry>
+  <Entry Index="386">Refined Floor</Entry>
+  <Entry Index="387">Flooring with a bit of style.</Entry>
+  <Entry Index="388">Tiled Floor</Entry>
+  <Entry Index="389">Flooring with a chessboard-like pattern.</Entry>
+  <Entry Index="390">LCD TV</Entry>
+  <Entry Index="391">A TV with a large screen. Now you can
+say goodbye to that ancient CRT screen.</Entry>
+  <Entry Index="392"></Entry>
+  <Entry Index="393"></Entry>
+  <Entry Index="394">Water</Entry>
+  <Entry Index="395">Plain old water.</Entry>
+  <Entry Index="396">Daily Special</Entry>
+  <Entry Index="397">Sold at the Inn, but only during the day.</Entry>
+  <Entry Index="398">Milk</Entry>
+  <Entry Index="399">A tall glass of fresh cow Milk.</Entry>
+  <Entry Index="400">Spaghetti</Entry>
+  <Entry Index="401">An Italian noodle dish.</Entry>
+  <Entry Index="402">Shaved Ice</Entry>
+  <Entry Index="403">A frozen dessert made of finely crushed ice.</Entry>
+  <Entry Index="404">Chicken</Entry>
+  <Entry Index="405">Lays an Egg every day.</Entry>
+  <Entry Index="406">Brown Chicken</Entry>
+  <Entry Index="407">A chicken with dark plumage. Lays an Egg
+every day.</Entry>
+  <Entry Index="408">Angora Rabbit</Entry>
+  <Entry Index="409">A rabbit with a long coat. When you shear
+it, you'll get Fur.</Entry>
+  <Entry Index="410">Rabbit Breeding Kit</Entry>
+  <Entry Index="411">Makes adult Angora rabbits pregnant.</Entry>
+  <Entry Index="412">Calf</Entry>
+  <Entry Index="413">Once it matures, it'll start producing Milk.</Entry>
+  <Entry Index="414">Coffee Calf</Entry>
+  <Entry Index="415">Once it matures, it'll start producing
+Coffee Milk.</Entry>
+  <Entry Index="416">Strawberry Calf</Entry>
+  <Entry Index="417">Once it matures, it'll start producing
+Strawberry Milk.</Entry>
+  <Entry Index="418">Fruit Calf</Entry>
+  <Entry Index="419">Once it matures, it'll start producing
+Fruit Milk.</Entry>
+  <Entry Index="420">Sheep</Entry>
+  <Entry Index="421">Shear it to get Wool.</Entry>
+  <Entry Index="422">Alpaca</Entry>
+  <Entry Index="423">Shear it to get Fleece.</Entry>
+  <Entry Index="424">Record Player</Entry>
+  <Entry Index="425">A device that plays records. Once you buy
+it, you can put it in your house.</Entry>
+  <Entry Index="426">All BGM</Entry>
+  <Entry Index="427">Enables you to listen to all of the
+background music.</Entry>
+  <Entry Index="428">Mineral Dog</Entry>
+  <Entry Index="429">A unique-looking dog.</Entry>
+  <Entry Index="430">Black Shiba</Entry>
+  <Entry Index="431">A Shiba Inu with a black coat.</Entry>
+  <Entry Index="432">Papillon</Entry>
+  <Entry Index="433">A dog with distinctive ears and long fur.</Entry>
+  <Entry Index="434">American Shorthair</Entry>
+  <Entry Index="435">A cat notable for the M-pattern on its
+forehead.</Entry>
+  <Entry Index="436">Bengal</Entry>
+  <Entry Index="437">A cat with a distinctive spotted coat.</Entry>
+  <Entry Index="438">Calico</Entry>
+  <Entry Index="439">A cat with white, brown, and black fur.</Entry>
+  <Entry Index="440">Penguin</Entry>
+  <Entry Index="441">An aquatic, flightless bird with blue
+coloring.</Entry>
+  <Entry Index="442">Navy Penguin</Entry>
+  <Entry Index="443">An aquatic, flightless bird with navy
+coloring.</Entry>
+  <Entry Index="444">Capybara</Entry>
+  <Entry Index="445">A large rodent with short brown fur.</Entry>
+  <Entry Index="446">White Capybara</Entry>
+  <Entry Index="447">A large rodent with short white fur.</Entry>
+  <Entry Index="448"></Entry>
+  <Entry Index="449"></Entry>
+  <Entry Index="450"></Entry>
+  <Entry Index="451"></Entry>
+  <Entry Index="452"></Entry>
+  <Entry Index="453"></Entry>
+  <Entry Index="454"></Entry>
+  <Entry Index="455"></Entry>
+  <Entry Index="456">Item Pocket</Entry>
+  <Entry Index="457">Seeds</Entry>
+  <Entry Index="458">Products</Entry>
+  <Entry Index="459">Buy an animal</Entry>
+  <Entry Index="460">Sell an animal</Entry>
+  <Entry Index="461">Wrap</Entry>
+  <Entry Index="462">Unwrap</Entry>
+  <Entry Index="463">Enter a name via the keyboard.</Entry>
+  <Entry Index="464"></Entry>
+  <Entry Index="465">Renovations</Entry>
+  <Entry Index="466">Upgrade Tools</Entry>
+  <Entry Index="467">Commissions</Entry>
+  <Entry Index="468">Food</Entry>
+  <Entry Index="469"></Entry>
+  <Entry Index="470"></Entry>
+  <Entry Index="471"></Entry>
+  <Entry Index="472"></Entry>
+  <Entry Index="473"></Entry>
+  <Entry Index="474"></Entry>
+  <Entry Index="475"></Entry>
+  <Entry Index="476"></Entry>
+  <Entry Index="477"></Entry>
+  <Entry Index="478"></Entry>
+  <Entry Index="479"></Entry>
+  <Entry Index="480"></Entry>
+  <Entry Index="481"></Entry>
+  <Entry Index="482"></Entry>
+  <Entry Index="483"></Entry>
+  <Entry Index="484"></Entry>
+  <Entry Index="485"></Entry>
+  <Entry Index="486"></Entry>
+  <Entry Index="487">Buy</Entry>
+  <Entry Index="488">Quit</Entry>
+  <Entry Index="489">Yes</Entry>
+  <Entry Index="490">No</Entry>
+  <Entry Index="491">Simple Mode</Entry>
+  <Entry Index="492">Normal Mode</Entry>
+  <Entry Index="493">Confirm</Entry>
+  <Entry Index="494">Confirm Selection</Entry>
+  <Entry Index="495">Sell</Entry>
+  <Entry Index="496"></Entry>
+  <Entry Index="497"></Entry>
+  <Entry Index="498"></Entry>
+  <Entry Index="499"></Entry>
+  <Entry Index="500"></Entry>
+  <Entry Index="501"></Entry>
+  <Entry Index="502"></Entry>
+  <Entry Index="503"></Entry>
+  <Entry Index="504"></Entry>
+  <Entry Index="505"></Entry>
+  <Entry Index="506"></Entry>
+  <Entry Index="507"></Entry>
+  <Entry Index="508">Owned</Entry>
+  <Entry Index="509">Able to Raise</Entry>
+  <Entry Index="510">You can't sell any animals.</Entry>
+  <Entry Index="511"></Entry>
+  <Entry Index="512">Buy this one?</Entry>
+  <Entry Index="513">Sell this one?</Entry>
+  <Entry Index="514">Gold</Entry>
+  <Entry Index="515">What name would you like?</Entry>
+  <Entry Index="516">Are you sure you want to sell it?</Entry>
+  <Entry Index="517">A lot of farms want healthy animals. I'll find a good home
+for it, so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="518">Oh? You're not selling after all?&lt;wait&gt;</Entry>
+  <Entry Index="519">Oh dear. One of your animals is about to give birth, so you
+won't have any room in your Coop. </Entry>
+  <Entry Index="520">Oh dear. Your Coop is already full up with animals
+and an incubating Egg.</Entry>
+  <Entry Index="521">Oh dear. You've got animals ready to give birth and an
+Egg incubating. There's no room in your Coop.</Entry>
+  <Entry Index="522"></Entry>
+  <Entry Index="523"></Entry>
+  <Entry Index="524"></Entry>
+  <Entry Index="525"></Entry>
+  <Entry Index="526"></Entry>
+  <Entry Index="527">Character Selection</Entry>
+  <Entry Index="528">Play the game with this character?</Entry>
+  <Entry Index="529">Character Information</Entry>
+  <Entry Index="530">Choose a name.</Entry>
+  <Entry Index="531">What name do you want?</Entry>
+  <Entry Index="532">Choose a birthday.</Entry>
+  <Entry Index="533">Main character created!</Entry>
+  <Entry Index="534">Skin Type</Entry>
+  <Entry Index="535">Boy</Entry>
+  <Entry Index="536">Girl</Entry>
+  <Entry Index="537">Name</Entry>
+  <Entry Index="538">Birthday</Entry>
+  <Entry Index="539">Difficulty</Entry>
+  <Entry Index="540">Simple Mode</Entry>
+  <Entry Index="541">Normal Mode</Entry>
+  <Entry Index="542">- Start with a lot of gold.
+- Items sell for a little more gold.
+- Easier to raise affection with people.
+- Start with 18 Turnips in the field.</Entry>
+  <Entry Index="543">- None of the features from Simple
+   Mode that make the game easier.
+- Offers a satisfying challenge.</Entry>
+  <Entry Index="544">Spring</Entry>
+  <Entry Index="545">Summer</Entry>
+  <Entry Index="546">Autumn</Entry>
+  <Entry Index="547">Winter</Entry>
+  <Entry Index="548"></Entry>
+  <Entry Index="549"></Entry>
+  <Entry Index="550"></Entry>
+  <Entry Index="551"></Entry>
+  <Entry Index="552"></Entry>
+  <Entry Index="553"></Entry>
+  <Entry Index="554"></Entry>
+  <Entry Index="555"></Entry>
+  <Entry Index="556"></Entry>
+  <Entry Index="557"></Entry>
+  <Entry Index="558">Buy this?</Entry>
+  <Entry Index="559">Wrap it?</Entry>
+  <Entry Index="560">Unwrap it?</Entry>
+  <Entry Index="561">Continue and wrap it?</Entry>
+  <Entry Index="562">You don't have anything I can wrap, though.&lt;wait&gt;</Entry>
+  <Entry Index="563">Which do you want unwrapped?</Entry>
+  <Entry Index="564">You don't have anything to unwrap.</Entry>
+  <Entry Index="565">Huh? Looks like you're carrying a lot of stuff. You might
+want to throw away some items you don't need in the
+Plaza's trash bin first!&lt;wait&gt;</Entry>
+  <Entry Index="566">There are products lined up for sale.</Entry>
+  <Entry Index="567"></Entry>
+  <Entry Index="568">Thank you very much.&lt;wait&gt;</Entry>
+  <Entry Index="569">Your Bag is full. I'll send the rest to the Fridge
+in your house.&lt;wait&gt;</Entry>
+  <Entry Index="570">Your Bag is full. I'll send the rest to the Cabinet
+in your house.&lt;wait&gt;</Entry>
+  <Entry Index="571">Your Tool Pocket is full. I'll send the rest
+to the Tool Box in your house.&lt;wait&gt;</Entry>
+  <Entry Index="572">Your Bag is full, and it seems like your Fridge is too.
+Free up some space first, okay?&lt;wait&gt;</Entry>
+  <Entry Index="573">Your Bag is full, and it seems like your Cabinet is too.
+Free up some space first, okay?&lt;wait&gt;</Entry>
+  <Entry Index="574">Your Tool Pocket is full, and it seems like your Tool Box is
+too. Free up some space first, okay?&lt;wait&gt;</Entry>
+  <Entry Index="575">Your Bag is full. Free up some space first, okay?&lt;wait&gt;</Entry>
+  <Entry Index="576"></Entry>
+  <Entry Index="577"></Entry>
+  <Entry Index="578"></Entry>
+  <Entry Index="579"></Entry>
+  <Entry Index="580"></Entry>
+  <Entry Index="581"></Entry>
+  <Entry Index="582"></Entry>
+  <Entry Index="583"></Entry>
+  <Entry Index="584"></Entry>
+  <Entry Index="585"></Entry>
+  <Entry Index="586"></Entry>
+  <Entry Index="587"></Entry>
+  <Entry Index="588"></Entry>
+  <Entry Index="589"></Entry>
+  <Entry Index="590"></Entry>
+  <Entry Index="591">Hrm. Your Bag's full up. Guess I'll send the rest to your
+Fridge for you.&lt;wait&gt;</Entry>
+  <Entry Index="592">Hrm. Your Bag's full up. Guess I'll send the rest to your
+Cabinet for you.&lt;wait&gt;</Entry>
+  <Entry Index="593">Hrm. Your Tool Pocket is full. Guess I'll send the rest to
+your Tool Box for you.&lt;wait&gt;</Entry>
+  <Entry Index="594">Oh? Seems like your Bag and Fridge are full. Organize
+your stuff, you hear? Then come talk to me.&lt;wait&gt;</Entry>
+  <Entry Index="595">Seems like your Bag and Cabinet are full. Organize your
+stuff, you hear? Then come talk to me.&lt;wait&gt;</Entry>
+  <Entry Index="596">Seems like your Tool Pocket and your Tool Box are full.
+Sort your stuff, then speak to me.&lt;wait&gt;</Entry>
+  <Entry Index="597">Come again, you hear?&lt;wait&gt;</Entry>
+  <Entry Index="598"></Entry>
+  <Entry Index="599"></Entry>
+  <Entry Index="600"></Entry>
+  <Entry Index="601"></Entry>
+  <Entry Index="602"></Entry>
+  <Entry Index="603">Hey, your Bag's full! I'll send the rest to the Cabinet at
+your house, all right?&lt;wait&gt;</Entry>
+  <Entry Index="604"></Entry>
+  <Entry Index="605"></Entry>
+  <Entry Index="606">Hey, your Bag's full, and so's your Cabinet. Organize your
+stuff!&lt;wait&gt;</Entry>
+  <Entry Index="607"></Entry>
+  <Entry Index="608"></Entry>
+  <Entry Index="609"></Entry>
+  <Entry Index="610"></Entry>
+  <Entry Index="611"></Entry>
+  <Entry Index="612"></Entry>
+  <Entry Index="613">Oh my. It seems your Bag is full. I'll send the rest to your
+Fridge for you, okay?&lt;wait&gt;</Entry>
+  <Entry Index="614">Oh my. It seems your Bag is full. I'll send the rest to your
+Cabinet for you, okay?&lt;wait&gt;</Entry>
+  <Entry Index="615">Oh my. It seems your Tool Pocket is full. I'll send the rest
+to your Tool Box for you, okay?&lt;wait&gt;</Entry>
+  <Entry Index="616">Oh my. Your Bag is full and your Fridge as well. Could you
+free up some space first?&lt;wait&gt;</Entry>
+  <Entry Index="617">Oh my. Your Bag is full and your Cabinet, as well.
+Could you free up some space first?&lt;wait&gt;</Entry>
+  <Entry Index="618">Oh my. Your Tool Pocket is full and your Tool Box, as well.
+Could you free up some space?&lt;wait&gt;</Entry>
+  <Entry Index="619"></Entry>
+  <Entry Index="620"></Entry>
+  <Entry Index="621"></Entry>
+  <Entry Index="622"></Entry>
+  <Entry Index="623"></Entry>
+  <Entry Index="624">Hmm. Looks like your Bag is full. Don't worry, I'll have
+the rest sent to your Fridge.&lt;wait&gt;</Entry>
+  <Entry Index="625">Hmm. Looks like your Bag is full. Don't worry, I'll have
+the rest sent to your Cabinet.&lt;wait&gt;</Entry>
+  <Entry Index="626">Hmm. Looks like your Tool Pocket is full. Don't worry,
+I'll send the rest to your Tool Box.&lt;wait&gt;</Entry>
+  <Entry Index="627">Oh dear. Your Bag AND your Fridge are full. You need to
+free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="628">Oh dear. Your Bag AND your Cabinet are full. You need
+to free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="629">Oh dear. Your Tool Pocket AND your Tool Box are full.
+You need to free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="630"></Entry>
+  <Entry Index="631"></Entry>
+  <Entry Index="632"></Entry>
+  <Entry Index="633"></Entry>
+  <Entry Index="634">Thank you! Wait just a moment. There you are!&lt;wait&gt;</Entry>
+  <Entry Index="635"></Entry>
+  <Entry Index="636"></Entry>
+  <Entry Index="637"></Entry>
+  <Entry Index="638"></Entry>
+  <Entry Index="639"></Entry>
+  <Entry Index="640"></Entry>
+  <Entry Index="641"></Entry>
+  <Entry Index="642"></Entry>
+  <Entry Index="643"></Entry>
+  <Entry Index="644"></Entry>
+  <Entry Index="645">Okay, gimme a sec. Here you are. Dig in!&lt;wait&gt;</Entry>
+  <Entry Index="646"></Entry>
+  <Entry Index="647"></Entry>
+  <Entry Index="648"></Entry>
+  <Entry Index="649"></Entry>
+  <Entry Index="650"></Entry>
+  <Entry Index="651"></Entry>
+  <Entry Index="652"></Entry>
+  <Entry Index="653"></Entry>
+  <Entry Index="654"></Entry>
+  <Entry Index="655"></Entry>
+  <Entry Index="656"></Entry>
+  <Entry Index="657">Your Bag is full, yes? I will send the rest to your Fridge.
+How is that for service?&lt;wait&gt;</Entry>
+  <Entry Index="658">Your Bag is full, yes? I will send the rest to your Cabinet.
+How is that for service?&lt;wait&gt;</Entry>
+  <Entry Index="659">Your Tool Pocket is full, yes? I will send the rest to your
+Tool Box. How is that for service?&lt;wait&gt;</Entry>
+  <Entry Index="660">Oh dear! It seems your Bag and your Fridge are full.
+You must organize your things first, yes?&lt;wait&gt;</Entry>
+  <Entry Index="661">Oh dear! It seems your Bag and your Cabinet are full.
+You must organize your things first, yes?&lt;wait&gt;</Entry>
+  <Entry Index="662">Oh dear! It seems your Tool Pocket and your Tool Box
+are full. Organize your things first, yes?&lt;wait&gt;</Entry>
+  <Entry Index="663"></Entry>
+  <Entry Index="664"></Entry>
+  <Entry Index="665"></Entry>
+  <Entry Index="666"></Entry>
+  <Entry Index="667"></Entry>
+  <Entry Index="668">Oh dear. It looks like your Bag is full.&lt;wait&gt;&lt;page&gt;
+I'll tell Rick to bring the rest to your Fridge later.&lt;wait&gt;</Entry>
+  <Entry Index="669">Oh dear. It looks like your Bag is full.&lt;wait&gt;&lt;page&gt;
+I'll tell Rick to bring the rest to your Cabinet later.&lt;wait&gt;</Entry>
+  <Entry Index="670">Oh dear. It looks like your Tool Pocket is full.&lt;wait&gt;&lt;page&gt;
+I'll tell Rick to bring the rest to your Tool Box later.&lt;wait&gt;</Entry>
+  <Entry Index="671">Oh dear. Your Coop is already full of animals.</Entry>
+  <Entry Index="672">Oh my... Your Bag is full and so is your Cabinet.
+Would you mind freeing up some space first?&lt;wait&gt;</Entry>
+  <Entry Index="673">Oh my... Your Tool Pocket and your Tool Box is full. Would
+you free up some space first?&lt;wait&gt;</Entry>
+  <Entry Index="674">Well then, please give it a name.&lt;wait&gt;</Entry>
+  <Entry Index="675">Oh dear. It looks like your Bag is full.&lt;wait&gt;&lt;page&gt;
+I'll tell Rick to bring the rest to your Water Mill later.&lt;wait&gt;</Entry>
+  <Entry Index="676">Oh dear. It looks like your Bag and your Water Mill
+are full.&lt;wait&gt;&lt;page&gt;
+Would you mind freeing up some space first?&lt;wait&gt;</Entry>
+  <Entry Index="677">A lot of farms want healthy animals. I'll find a good home
+for it, so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="678">Oh dear. One of your animals is about to give birth, so you
+won't have any room in your Coop. </Entry>
+  <Entry Index="679">Oh dear. Your Coop is already full up with animals and an
+incubating Egg.</Entry>
+  <Entry Index="680">Oh dear. You've got animals ready to give birth and an
+Egg incubating. There's no room in your Coop.</Entry>
+  <Entry Index="681">Your Bag's full. I'll send the rest to your Fridge.&lt;wait&gt;</Entry>
+  <Entry Index="682">Your Bag's full. I'll send the rest to your Cabinet.&lt;wait&gt;</Entry>
+  <Entry Index="683">Your Tool Pocket is already chock-full. I'll send the rest
+to your Tool Box.&lt;wait&gt;</Entry>
+  <Entry Index="684">Oh, lookie there. Your Barn's already full of animals.</Entry>
+  <Entry Index="685">Oh, it looks like both your Bag and Cabinet are full.&lt;wait&gt;&lt;page&gt;
+Sort your stuff first, then come talk to me again.&lt;wait&gt;</Entry>
+  <Entry Index="686">Oh, it looks like both your Tool Pocket and your Tool Box
+are full.&lt;wait&gt;&lt;page&gt;
+Sort your stuff first, then come talk to me again.&lt;wait&gt;</Entry>
+  <Entry Index="687">Then give it a name, would you?&lt;wait&gt;</Entry>
+  <Entry Index="688">Your Bag's full, so I'll send the rest to your Silo.&lt;wait&gt;</Entry>
+  <Entry Index="689">Oh, it looks like both your Bag and Silo are full.&lt;wait&gt;&lt;page&gt;
+Sort your stuff first, then come talk to me again.&lt;wait&gt;</Entry>
+  <Entry Index="690">A lot of farms would be happy to have another healthy
+animal. I'll find a good home. Don't you worry.&lt;wait&gt;</Entry>
+  <Entry Index="691">Oh? One of your animals is pregnant, so you don't have
+enough room in your Barn.</Entry>
+  <Entry Index="692">Ah, it seems your Bag is full. I'll have the rest sent to
+your Fridge.&lt;wait&gt;</Entry>
+  <Entry Index="693">Ah, it seems your Bag is full. I'll have the rest sent to
+your Cabinet.&lt;wait&gt;</Entry>
+  <Entry Index="694">Ah, your Tool Pocket is full. I'll have the rest sent to your
+Tool Box.&lt;wait&gt;</Entry>
+  <Entry Index="695">Oh? Not only is your Bag full, but your Fridge is as well.
+I must ask that you free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="696">Oh? Not only is your Bag full, but your Cabinet is as well.
+I must ask that you free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="697">Oh? Not only is your Tool Pocket full, but your Tool Box is
+too. I must ask that you free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="698"></Entry>
+  <Entry Index="699"></Entry>
+  <Entry Index="700"></Entry>
+  <Entry Index="701"></Entry>
+  <Entry Index="702"></Entry>
+  <Entry Index="703">Ah, it seems your Bag is full. I'll have the rest sent
+to your Fridge.&lt;wait&gt;</Entry>
+  <Entry Index="704">Ah, it seems your Bag is full. I'll have the rest sent
+to your Cabinet.&lt;wait&gt;</Entry>
+  <Entry Index="705">Ah, your Tool Pocket is full. I'll have the rest sent
+to your Tool Box.&lt;wait&gt;</Entry>
+  <Entry Index="706">Oh? Not only is your Bag full, but your Fridge is as well.
+I must ask that you free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="707">Oh? Not only is your Bag full, but your Cabinet is as well.
+I must ask that you free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="708">Oh? Not only is your Tool Pocket full, but your Tool Box
+is too. I must ask that you free up some space first.&lt;wait&gt;</Entry>
+  <Entry Index="709"></Entry>
+  <Entry Index="710"></Entry>
+  <Entry Index="711"></Entry>
+  <Entry Index="712"></Entry>
+  <Entry Index="713"></Entry>
+  <Entry Index="714"></Entry>
+  <Entry Index="715"></Entry>
+  <Entry Index="716"></Entry>
+  <Entry Index="717"></Entry>
+  <Entry Index="718"></Entry>
+  <Entry Index="719"></Entry>
+  <Entry Index="720"></Entry>
+  <Entry Index="721"></Entry>
+  <Entry Index="722"></Entry>
+  <Entry Index="723"></Entry>
+  <Entry Index="724"></Entry>
+  <Entry Index="725"></Entry>
+  <Entry Index="726"></Entry>
+  <Entry Index="727"></Entry>
+  <Entry Index="728"></Entry>
+  <Entry Index="729"></Entry>
+  <Entry Index="730"></Entry>
+  <Entry Index="731"></Entry>
+  <Entry Index="732"></Entry>
+  <Entry Index="733"></Entry>
+  <Entry Index="734"></Entry>
+  <Entry Index="735"></Entry>
+  <Entry Index="736"></Entry>
+  <Entry Index="737"></Entry>
+  <Entry Index="738">Ahem! I'm going to start working now. Could you leave?&lt;wait&gt;</Entry>
+  <Entry Index="739"></Entry>
+  <Entry Index="740"></Entry>
+  <Entry Index="741"></Entry>
+  <Entry Index="742"></Entry>
+  <Entry Index="743"></Entry>
+  <Entry Index="744"></Entry>
+  <Entry Index="745">Which tool will you upgrade?</Entry>
+  <Entry Index="746">Request this tool be upgraded?</Entry>
+  <Entry Index="747"></Entry>
+  <Entry Index="748"></Entry>
+  <Entry Index="749"></Entry>
+  <Entry Index="750"></Entry>
+  <Entry Index="751"></Entry>
+  <Entry Index="752"></Entry>
+  <Entry Index="753"></Entry>
+  <Entry Index="754"></Entry>
+  <Entry Index="755">Handed over &lt;string0&gt;, &lt;string1&gt;,
+and &lt;string2&gt; for the &lt;string3&gt;
+upgrade.&lt;wait&gt;</Entry>
+  <Entry Index="756">Hammer</Entry>
+  <Entry Index="757">Hoe</Entry>
+  <Entry Index="758">Sickle</Entry>
+  <Entry Index="759">Watering Can</Entry>
+  <Entry Index="760">Axe</Entry>
+  <Entry Index="761">Fishing Rod</Entry>
+  <Entry Index="762"></Entry>
+  <Entry Index="763">Copper</Entry>
+  <Entry Index="764">Silver</Entry>
+  <Entry Index="765">Golden</Entry>
+  <Entry Index="766">Mithril</Entry>
+  <Entry Index="767">Mythic</Entry>
+  <Entry Index="768">Sickle</Entry>
+  <Entry Index="769">Hoe</Entry>
+  <Entry Index="770">Axe</Entry>
+  <Entry Index="771">Hammer</Entry>
+  <Entry Index="772">Watering Can</Entry>
+  <Entry Index="773">Fishing Rod</Entry>
+  <Entry Index="774">Days to Finish</Entry>
+  <Entry Index="775">-</Entry>
+  <Entry Index="776">1</Entry>
+  <Entry Index="777">2</Entry>
+  <Entry Index="778">3</Entry>
+  <Entry Index="779">4</Entry>
+  <Entry Index="780">5</Entry>
+  <Entry Index="781">6</Entry>
+  <Entry Index="782">7</Entry>
+  <Entry Index="783"></Entry>
+  <Entry Index="784"></Entry>
+  <Entry Index="785"></Entry>
+  <Entry Index="786"></Entry>
+  <Entry Index="787"></Entry>
+  <Entry Index="788">Request ore processing?</Entry>
+  <Entry Index="789">Ahem! I'm going to start working now. Could you leave?&lt;wait&gt;&lt;page&gt;
+Come back to get the &lt;string0&gt; once
+the specified time has passed.&lt;wait&gt;</Entry>
+  <Entry Index="790">Very good. This is the Adamantite and payment I need for
+the job.&lt;wait&gt;&lt;page&gt;
+Once it's finished, I will put the Mayonnaise Maker in
+your Coop, so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="791">Very good. This is the Adamantite and payment I need for
+the job.&lt;wait&gt;&lt;page&gt;
+Once it's finished, I will put the Cheese Maker in your
+Barn, so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="792">Very good. This is the Adamantite and payment I need for
+the job.&lt;wait&gt;&lt;page&gt;
+Once it's finished, I will put the Yarn Maker in your Coop,
+so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="793">Very good. This is the Adamantite and payment I need for
+the job.&lt;wait&gt;&lt;page&gt;
+Once it's finished, I will put the Yarn Maker in your Barn,
+so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="794">Very good. This is the Adamantite and payment I need for
+the job.&lt;wait&gt;&lt;page&gt;
+Once it's finished, I will put the Jam Maker in your house,
+so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="795">Very good. This is the Adamantite and payment I need for
+the job.&lt;wait&gt;&lt;page&gt;
+Once it's finished, I will put the Butter Maker in your
+Barn, so don't worry.&lt;wait&gt;</Entry>
+  <Entry Index="796">EXP</Entry>
+  <Entry Index="797">Undergoing
+Work</Entry>
+  <Entry Index="798">Owned</Entry>
+  <Entry Index="799">Material Cost</Entry>
+  <Entry Index="800">Handed over the &lt;string0&gt; and
+&lt;string1&gt; for the &lt;string2&gt; commission.&lt;wait&gt;</Entry>
+  <Entry Index="801">That tool ain't ready to be upgraded.&lt;wait&gt;</Entry>
+  <Entry Index="802">You don't have the necessary ore to upgrade that tool.
+You can get some in the Spring Mine.&lt;wait&gt;</Entry>
+  <Entry Index="803">It looks like you don't have the
+&lt;string0&gt; &lt;string1&gt; on
+you. Bring the tool you want upgraded.&lt;wait&gt;</Entry>
+  <Entry Index="804">Hey, looks like you don't have any ore that I can process.
+If you're lookin' for some, check out the Spring Mine.&lt;wait&gt;</Entry>
+  <Entry Index="805">Request this addition?</Entry>
+  <Entry Index="806">Constructing</Entry>
+  <Entry Index="807">Required Materials</Entry>
+  <Entry Index="808">------G</Entry>
+  <Entry Index="809">Hey, you don't got enough Lumber.&lt;wait&gt;</Entry>
+  <Entry Index="810">Hey, you don't got enough Material Stone.&lt;wait&gt;</Entry>
+  <Entry Index="811">Hmmm... It'll take &lt;string0&gt; until I'm
+finished. That okay?&lt;wait&gt;</Entry>
+  <Entry Index="812">Then I'll start workin' on it first thing tomorrow.&lt;wait&gt;</Entry>
+  <Entry Index="813">Hey, you don't got enough gold.&lt;wait&gt;</Entry>
+  <Entry Index="814">Hey, looks like you can't hold anythin' else.&lt;wait&gt;</Entry>
+  <Entry Index="815">Need anythin' else?&lt;wait&gt;</Entry>
+  <Entry Index="816">Sorry. Can't take on another job till I've finished the one
+I'm doin'. That's just my way.&lt;wait&gt;</Entry>
+  <Entry Index="817">That's exactly like what you've got.&lt;wait&gt;</Entry>
+  <Entry Index="818">Hey, looks like you can't plant any more.&lt;wait&gt;</Entry>
+  <Entry Index="819"></Entry>
+  <Entry Index="820"></Entry>
+  <Entry Index="821"></Entry>
+  <Entry Index="822"></Entry>
+  <Entry Index="823"></Entry>
+  <Entry Index="824"></Entry>
+  <Entry Index="825"></Entry>
+  <Entry Index="826"></Entry>
+  <Entry Index="827"></Entry>
+  <Entry Index="828">Buy animals</Entry>
+  <Entry Index="829">Buy kits and goods</Entry>
+  <Entry Index="830">Sell animals</Entry>
+  <Entry Index="831">Buy animals</Entry>
+  <Entry Index="832">Buy kits and goods</Entry>
+  <Entry Index="833">Sell animals</Entry>
+  <Entry Index="834">Upgrade tools</Entry>
+  <Entry Index="835">Buy tools</Entry>
+  <Entry Index="836">Commissions</Entry>
+  <Entry Index="837">Renovations</Entry>
+  <Entry Index="838">Buy</Entry>
+  <Entry Index="839">Nothing</Entry>
+  <Entry Index="840"></Entry>
+  <Entry Index="841"></Entry>
+  <Entry Index="842"></Entry>
+  <Entry Index="843"></Entry>
+  <Entry Index="844"></Entry>
+  <Entry Index="845"></Entry>
+  <Entry Index="846"></Entry>
+  <Entry Index="847"></Entry>
+  <Entry Index="848"></Entry>
+  <Entry Index="849">Van's Store</Entry>
+  <Entry Index="850">Pet Shop</Entry>
+  <Entry Index="851">Your Current Pets</Entry>
+  <Entry Index="852">Choose this one?</Entry>
+  <Entry Index="853"></Entry>
+  <Entry Index="854"></Entry>
+  <Entry Index="855"></Entry>
+  <Entry Index="856"></Entry>
+  <Entry Index="857"></Entry>
+  <Entry Index="858"></Entry>
+  <Entry Index="859"></Entry>
+  <Entry Index="860"></Entry>
+  <Entry Index="861"></Entry>
+  <Entry Index="862"></Entry>
+  <Entry Index="863"></Entry>
+  <Entry Index="864"></Entry>
+  <Entry Index="865"></Entry>
+  <Entry Index="866"></Entry>
+  <Entry Index="867"></Entry>
+  <Entry Index="868"></Entry>
+  <Entry Index="869"></Entry>
+  <Entry Index="870"></Entry>
+  <Entry Index="871"></Entry>
+  <Entry Index="872"></Entry>
+  <Entry Index="873"></Entry>
+  <Entry Index="874"></Entry>
+  <Entry Index="875"></Entry>
+  <Entry Index="876"></Entry>
+  <Entry Index="877"></Entry>
+  <Entry Index="878"></Entry>
+  <Entry Index="879">Go home and check your Record Player.
+The music's all there!&lt;wait&gt;</Entry>
+  <Entry Index="880">Your current house is too small to keep more than
+one pet.&lt;wait&gt;&lt;page&gt;
+You may have room for more once you expand your house.&lt;wait&gt;</Entry>
+  <Entry Index="881">Your current house is too small to keep more than
+three pets.&lt;wait&gt;&lt;page&gt;
+You may have room for more once you expand your house.&lt;wait&gt;</Entry>
+  <Entry Index="882"></Entry>
+  <Entry Index="883"></Entry>
+  <Entry Index="884"></Entry>
+  <Entry Index="885"></Entry>
+  <Entry Index="886"></Entry>
+  <Entry Index="887">Hmmm... Could I ask you to come again once you've become
+a little more used to being a pet owner?&lt;wait&gt;</Entry>
+  <Entry Index="888">You cannot have any more pets.</Entry>
+  <Entry Index="889"></Entry>
+  <Entry Index="890"></Entry>
+  <Entry Index="891">Application</Entry>
+  <Entry Index="892">Choose a pet</Entry>
+  <Entry Index="893">You want this one?</Entry>
+  <Entry Index="894">You're sure you want to quit?</Entry>
+  <Entry Index="895">Hey, I can't do that with what you've got.&lt;wait&gt;</Entry>
+</Entries>

@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="525">
+  <Entry Index="0">Mineral Town</Entry>
+  <Entry Index="1">Your new life in Mineral Town has just begun!</Entry>
+  <Entry Index="2">There are lots of interesting people living here and many
+shops that sell everything you need to begin your farming
+adventure!</Entry>
+  <Entry Index="3">The nearby mountain is covered in nature's bounties,
+and it has the most wonderful view from its peak.</Entry>
+  <Entry Index="4">As a new farmer, you can try all sorts of things:
+raising crops and livestock, foraging and mining
+for items, and more!</Entry>
+  <Entry Index="5">If you're not sure where to start, try talking to the
+townsfolk and seeing what advice they have to give.</Entry>
+  <Entry Index="6">We hope you enjoy your wonderful new life as a farmer
+in this beautiful little town.</Entry>
+  <Entry Index="7">dummy</Entry>
+  <Entry Index="8">dummy</Entry>
+  <Entry Index="9">dummy</Entry>
+  <Entry Index="10">dummy</Entry>
+  <Entry Index="11">dummy</Entry>
+  <Entry Index="12">dummy</Entry>
+  <Entry Index="13">dummy</Entry>
+  <Entry Index="14">dummy</Entry>
+  <Entry Index="15">dummy</Entry>
+  <Entry Index="16">dummy</Entry>
+  <Entry Index="17">dummy</Entry>
+  <Entry Index="18">dummy</Entry>
+  <Entry Index="19">dummy</Entry>
+  <Entry Index="20">dummy</Entry>
+  <Entry Index="21">Stamina &amp; Fatigue</Entry>
+  <Entry Index="22">Your character has two main stats: Stamina and Fatigue.</Entry>
+  <Entry Index="23">The red berries in the upper-left corner of the screen
+represent your Stamina. It goes down when you do things
+like use tools.</Entry>
+  <Entry Index="24">Do work like using tools while your Stamina is 0 and you
+will build Fatigue.</Entry>
+  <Entry Index="25">Fatigue also builds when you do things like work outside
+late at night or in poor weather.</Entry>
+  <Entry Index="26">The face icon in the upper-left corner of the screen
+denotes your level of Fatigue. It changes the more
+Fatigue you build.</Entry>
+  <Entry Index="27">Build up too much Fatigue and you will collapse and be
+sent to the Clinic. Pay careful attention to prevent that!</Entry>
+  <Entry Index="28">You can restore Stamina and relieve Fatigue by taking
+baths and eating food, but the best cure is a good night's
+sleep.</Entry>
+  <Entry Index="29">dummy</Entry>
+  <Entry Index="30">dummy</Entry>
+  <Entry Index="31">dummy</Entry>
+  <Entry Index="32">dummy</Entry>
+  <Entry Index="33">dummy</Entry>
+  <Entry Index="34">dummy</Entry>
+  <Entry Index="35">dummy</Entry>
+  <Entry Index="36">dummy</Entry>
+  <Entry Index="37">dummy</Entry>
+  <Entry Index="38">dummy</Entry>
+  <Entry Index="39">dummy</Entry>
+  <Entry Index="40">dummy</Entry>
+  <Entry Index="41">dummy</Entry>
+  <Entry Index="42">Shipping Items</Entry>
+  <Entry Index="43">Put livestock byproducts and harvested crops into the
+Shipping Bin to ship them and earn money.</Entry>
+  <Entry Index="44">At 5:00 PM Zack will come to collect any items in the
+Shipping Bin and offer your payment. He comes most
+days, except for festival days.</Entry>
+  <Entry Index="45">In addition to the one in your field, you will find
+Shipping Bins in your Barn and Coop.</Entry>
+  <Entry Index="46">To put an item in your Shipping Bin, first hold it in your
+hands, and then examine the Shipping Bin.</Entry>
+  <Entry Index="47">You can put in multiple items from your Bag at once by
+examining the Shipping Bin while you are not holding
+anything.</Entry>
+  <Entry Index="48">Be careful, though! Once an item goes in the Shipping Bin,
+you can't take it back out again.</Entry>
+  <Entry Index="49">dummy</Entry>
+  <Entry Index="50">dummy</Entry>
+  <Entry Index="51">dummy</Entry>
+  <Entry Index="52">dummy</Entry>
+  <Entry Index="53">dummy</Entry>
+  <Entry Index="54">dummy</Entry>
+  <Entry Index="55">dummy</Entry>
+  <Entry Index="56">dummy</Entry>
+  <Entry Index="57">dummy</Entry>
+  <Entry Index="58">dummy</Entry>
+  <Entry Index="59">dummy</Entry>
+  <Entry Index="60">dummy</Entry>
+  <Entry Index="61">dummy</Entry>
+  <Entry Index="62">dummy</Entry>
+  <Entry Index="63">Raising Crops</Entry>
+  <Entry Index="64">To grow crops, first you must till the land with a Hoe.
+Equip a Hoe and press the Tool Button.</Entry>
+  <Entry Index="65">Land with objects on it can't be tilled. To clear the
+ground, cut Weeds with a Sickle, or pull them by pressing
+the Confirm Button.</Entry>
+  <Entry Index="66">Equip a Hammer to crush Stones and an Axe to cut
+Branches. Smaller debris can also be cleared by
+picking up and moving them.</Entry>
+  <Entry Index="67">Boulders and Stumps cannot be moved by hand. These can
+be broken with tools upgraded at the Forge.</Entry>
+  <Entry Index="68">Once the land has been tilled, use a seed bag on it to plant
+seeds. Ground that hasn't been tilled cannot be seeded.</Entry>
+  <Entry Index="69">Once the seeds have been planted, the next step is to
+water them using a Watering Can.</Entry>
+  <Entry Index="70">To use a Watering Can, first it must be filled with water.
+Stand next to a water source and equip the Watering
+Can to fill it.</Entry>
+  <Entry Index="71">Water your fields once a day for several days to grow
+your crops. Keep watering them every day until they're
+ripe.</Entry>
+  <Entry Index="72">Some crops can only be raised during certain seasons.
+The General Store will sell seeds in their proper season.</Entry>
+  <Entry Index="73">Be careful! If you plant seeds out of season,
+they won't grow.</Entry>
+  <Entry Index="74">Some types of crops are "vine crops." These crops
+produce multiple yields, and once harvested can be
+watered again to grow more.</Entry>
+  <Entry Index="75">dummy</Entry>
+  <Entry Index="76">dummy</Entry>
+  <Entry Index="77">dummy</Entry>
+  <Entry Index="78">dummy</Entry>
+  <Entry Index="79">dummy</Entry>
+  <Entry Index="80">dummy</Entry>
+  <Entry Index="81">dummy</Entry>
+  <Entry Index="82">dummy</Entry>
+  <Entry Index="83">dummy</Entry>
+  <Entry Index="84">Mines</Entry>
+  <Entry Index="85">Ores and jewels can be found in mines. Ores are needed to
+upgrade tools, and jewels can be sold for money.</Entry>
+  <Entry Index="86">To find things in a mine, a Hammer and a Hoe are
+required.</Entry>
+  <Entry Index="87">Use a Hammer to break rocks and find items. Use a Hoe
+to uncover the ladder leading downwards. Occasionally,
+rare items may be found.</Entry>
+  <Entry Index="88">The deeper the level of the mine, the higher the chance of
+finding rare ores and valuable jewels.</Entry>
+  <Entry Index="89">Sometimes holes may be uncovered in the floor. Falling
+down one takes Stamina, but it's also a way to move many
+floors at once.</Entry>
+  <Entry Index="90">These holes can be uncovered using a Hoe, but take care!
+You may not find them before you fall into them...</Entry>
+  <Entry Index="91">By going down a ladder you can descend one floor at
+a time. Going up a ladder will take you straight to the
+top floor.</Entry>
+  <Entry Index="92">Be aware, though! You can't use any of your tools' charge
+skills while you're in the mines.</Entry>
+  <Entry Index="93">Recipes can be learned from townsfolk or by watching TV. Recipes can sometimes also be learned just by combining the right ingredients.</Entry>
+  <Entry Index="94">Once you have a recipe, you will need the required ingredients and utensils to cook the food.</Entry>
+  <Entry Index="95">Recipes can be set to use ingredients starting at "lowest quality" or "highest quality" first.</Entry>
+  <Entry Index="96">dummy</Entry>
+  <Entry Index="97">dummy</Entry>
+  <Entry Index="98">dummy</Entry>
+  <Entry Index="99">dummy</Entry>
+  <Entry Index="100">dummy</Entry>
+  <Entry Index="101">dummy</Entry>
+  <Entry Index="102">dummy</Entry>
+  <Entry Index="103">dummy</Entry>
+  <Entry Index="104">dummy</Entry>
+  <Entry Index="105">Cooking</Entry>
+  <Entry Index="106">To cook food in the Kitchen you need a recipe and
+ingredients. Some recipes require certain utensils too.</Entry>
+  <Entry Index="107">Recipes can be learned from townsfolk or by watching
+TV. Recipes can sometimes also be learned just by
+combining the right ingredients.</Entry>
+  <Entry Index="108">Once you have a recipe, you will need the required
+ingredients and utensils to cook the food.</Entry>
+  <Entry Index="109">Recipes can be set to use ingredients starting at "lowest
+quality" or "highest quality" first.</Entry>
+  <Entry Index="110">dummy</Entry>
+  <Entry Index="111">dummy</Entry>
+  <Entry Index="112">dummy</Entry>
+  <Entry Index="113">dummy</Entry>
+  <Entry Index="114">dummy</Entry>
+  <Entry Index="115">dummy</Entry>
+  <Entry Index="116">dummy</Entry>
+  <Entry Index="117">dummy</Entry>
+  <Entry Index="118">dummy</Entry>
+  <Entry Index="119">dummy</Entry>
+  <Entry Index="120">dummy</Entry>
+  <Entry Index="121">dummy</Entry>
+  <Entry Index="122">dummy</Entry>
+  <Entry Index="123">dummy</Entry>
+  <Entry Index="124">dummy</Entry>
+  <Entry Index="125">dummy</Entry>
+  <Entry Index="126">Dating 101</Entry>
+  <Entry Index="127">If you would like to date a certain special someone,
+first you must confess to them.</Entry>
+  <Entry Index="128">To confess, equip the Preserved Flower item and then
+give it to them. However, not all confessions go well.</Entry>
+  <Entry Index="129">To increase your chance of success, you can raise their
+affection for you through viewing their events.</Entry>
+  <Entry Index="130">The heart gauge, which shows their affection for you,
+is displayed for both men and women.</Entry>
+  <Entry Index="131">The heart gauge, which shows their affection for you,
+is displayed for both men and women.</Entry>
+  <Entry Index="132">dummy</Entry>
+  <Entry Index="133">dummy</Entry>
+  <Entry Index="134">dummy</Entry>
+  <Entry Index="135">dummy</Entry>
+  <Entry Index="136">dummy</Entry>
+  <Entry Index="137">dummy</Entry>
+  <Entry Index="138">dummy</Entry>
+  <Entry Index="139">dummy</Entry>
+  <Entry Index="140">dummy</Entry>
+  <Entry Index="141">dummy</Entry>
+  <Entry Index="142">dummy</Entry>
+  <Entry Index="143">dummy</Entry>
+  <Entry Index="144">dummy</Entry>
+  <Entry Index="145">dummy</Entry>
+  <Entry Index="146">dummy</Entry>
+  <Entry Index="147">Marriage 101</Entry>
+  <Entry Index="148">If you would like to marry your special someone, first you
+must propose to them.</Entry>
+  <Entry Index="149">To propose, equip the Blue Feather item and then give it
+to them. However, a walk down the aisle is not
+guaranteed.</Entry>
+  <Entry Index="150">If you want to succeed, you have to view their events to
+raise their affection. You'll also need a Big Bed in your
+house.</Entry>
+  <Entry Index="151">Both men and women can be proposed to, but keep in mind
+that you only get to marry one person. Choose carefully!</Entry>
+  <Entry Index="152">dummy</Entry>
+  <Entry Index="153">dummy</Entry>
+  <Entry Index="154">dummy</Entry>
+  <Entry Index="155">dummy</Entry>
+  <Entry Index="156">dummy</Entry>
+  <Entry Index="157">dummy</Entry>
+  <Entry Index="158">dummy</Entry>
+  <Entry Index="159">dummy</Entry>
+  <Entry Index="160">dummy</Entry>
+  <Entry Index="161">dummy</Entry>
+  <Entry Index="162">dummy</Entry>
+  <Entry Index="163">dummy</Entry>
+  <Entry Index="164">dummy</Entry>
+  <Entry Index="165">dummy</Entry>
+  <Entry Index="166">dummy</Entry>
+  <Entry Index="167">dummy</Entry>
+  <Entry Index="168">Raising Chickens</Entry>
+  <Entry Index="169">When raising chickens be sure to feed them every day.
+Collect Chicken/Rabbit Feed from the Dispenser and put
+it in a Feeding Bin.</Entry>
+  <Entry Index="170">Put enough Feed in the Feeding Bins for each chicken.
+If you forget to feed them, they won't grow or lay Eggs.</Entry>
+  <Entry Index="171">You can also give your chickens their Feed directly.
+It's important to show your animals love and care
+as you raise them.</Entry>
+  <Entry Index="172">Stand near a chicken and press the Confirm Button
+to talk to them.</Entry>
+  <Entry Index="173">As long as your chickens are properly fed they will lay
+one Egg a day.</Entry>
+  <Entry Index="174">And the more the chicken likes you, the better the quality
+that Egg will be.</Entry>
+  <Entry Index="175">Put an Egg in the Incubator and in a few days it will
+hatch into a chick.</Entry>
+  <Entry Index="176">Chicks born on your farm will grow to like you more
+quickly than chickens that are bought.</Entry>
+  <Entry Index="177">Ring the Bell outside your Coop to send your chickens out
+to pasture.</Entry>
+  <Entry Index="178">Leave them in the pasture for several hours and they will
+find their own food, so you won't need to feed them.</Entry>
+  <Entry Index="179">At 8:00 PM, chickens out in the pasture will
+automatically return to the Coop.</Entry>
+  <Entry Index="180">dummy</Entry>
+  <Entry Index="181">dummy</Entry>
+  <Entry Index="182">dummy</Entry>
+  <Entry Index="183">dummy</Entry>
+  <Entry Index="184">dummy</Entry>
+  <Entry Index="185">dummy</Entry>
+  <Entry Index="186">dummy</Entry>
+  <Entry Index="187">dummy</Entry>
+  <Entry Index="188">dummy</Entry>
+  <Entry Index="189">Raising Angora Rabbits</Entry>
+  <Entry Index="190">When raising Angora rabbits be sure to feed them every
+day. Collect Chicken/Rabbit Feed from the Dispenser
+and put it in a Feeding Bin.</Entry>
+  <Entry Index="191">Put enough Feed in the Bins for each rabbit.
+If you forget to feed them, they won't grow as quickly.</Entry>
+  <Entry Index="192">You can also give your rabbits their Feed directly.
+It's important to show your animals love and care
+as you raise them.</Entry>
+  <Entry Index="193">Stand near an Angora rabbit and press the Confirm
+Button to talk to them.</Entry>
+  <Entry Index="194">You can shear your Angora rabbit's fur. Simply equip the
+Clippers, stand next to it, and press the Confirm Button.</Entry>
+  <Entry Index="195">Any Angora rabbit with a fully grown coat can be
+sheared.</Entry>
+  <Entry Index="196">The more your rabbits like you, the higher the quality Fur
+you will get.</Entry>
+  <Entry Index="197">Angora rabbits can be bred simply by standing next
+to one with a fully grown coat and using the
+Rabbit Breeding Kit.</Entry>
+  <Entry Index="198">Once bred, your Angora rabbit will have a kit after a few
+days. The Rabbit Breeding Kit can be bought at
+PoPoultry.</Entry>
+  <Entry Index="199">Once bred, feed the rabbit by putting its Feed in the
+Breeding Bin. In five days, a kit will be born.</Entry>
+  <Entry Index="200">Kits born on your farm will grow to like you more quickly
+than rabbits that are bought.</Entry>
+  <Entry Index="201">Ring the Bell outside your Coop to send your Angora
+rabbits out to pasture.</Entry>
+  <Entry Index="202">Leave them in the pasture for several hours and they will
+find their own food, so you won't need to feed them.</Entry>
+  <Entry Index="203">At 8:00 PM, Angora rabbits out in the pasture will
+automatically return to the Coop.</Entry>
+  <Entry Index="204">dummy</Entry>
+  <Entry Index="205">dummy</Entry>
+  <Entry Index="206">dummy</Entry>
+  <Entry Index="207">dummy</Entry>
+  <Entry Index="208">dummy</Entry>
+  <Entry Index="209">dummy</Entry>
+  <Entry Index="210">Raising Cows</Entry>
+  <Entry Index="211">When raising cows be sure to feed them every day.
+Pick up Fodder from the Dispenser and put it in their
+Feeding Bin.</Entry>
+  <Entry Index="212">Put Fodder in the Bins for each cow. If you forget
+to feed them, they won't grow or give Milk.</Entry>
+  <Entry Index="213">You can also give your cows their Fodder directly.
+It's important to show your animals love and care
+as you raise them.</Entry>
+  <Entry Index="214">Stand near a cow and press the Confirm Button to talk
+to them.</Entry>
+  <Entry Index="215">Equip a Brush to groom your cows.</Entry>
+  <Entry Index="216">To milk your cows, equip a Milker and use it on your cow.</Entry>
+  <Entry Index="217">As long as your cows are properly fed you will be able to
+milk them once a day.</Entry>
+  <Entry Index="218">The more your cows like you, the higher the quality their
+Milk will be.</Entry>
+  <Entry Index="219">There are four different types of cow, all of which
+produce different types of Milk.</Entry>
+  <Entry Index="220">Cows can be bred simply by standing next to a mature
+cow and using a Cow Breeding Kit.</Entry>
+  <Entry Index="221">Once bred, your cow will have a calf in a few weeks' time.
+The Cow Breeding Kit can be bought at Yodel Ranch.</Entry>
+  <Entry Index="222">Once bred, feed the cow by putting its Fodder in the
+Breeding Bin. In about three weeks, a calf will be born.</Entry>
+  <Entry Index="223">Calves born on your farm will grow to like you more
+quickly than cows that are bought.</Entry>
+  <Entry Index="224">Ring the Bell outside your Barn to send your cows out
+to pasture.</Entry>
+  <Entry Index="225">Leave them in the pasture for several hours and they will
+eat any fully grown Grass, provided you planted some.</Entry>
+  <Entry Index="226">At 8:00 PM, cows out in the pasture will automatically
+return to the Barn.</Entry>
+  <Entry Index="227">dummy</Entry>
+  <Entry Index="228">dummy</Entry>
+  <Entry Index="229">dummy</Entry>
+  <Entry Index="230">dummy</Entry>
+  <Entry Index="231">Raising Sheep</Entry>
+  <Entry Index="232">When raising sheep be sure to feed them every day.
+Pick up Fodder from the Dispenser and put it in their
+Feeding Bin.</Entry>
+  <Entry Index="233">Put Fodder in the Bins for each sheep. If you forget
+to feed them, they won't grow.</Entry>
+  <Entry Index="234">You can also give your sheep their Fodder directly.
+It's important to show your animals love and care
+as you raise them.</Entry>
+  <Entry Index="235">Stand near a sheep and press the Confirm Button to talk
+to them.</Entry>
+  <Entry Index="236">Equip a Brush to groom your sheep.</Entry>
+  <Entry Index="237">To shear your sheep, equip the Clippers and use them on
+your sheep.</Entry>
+  <Entry Index="238">Any sheep with a fully grown coat can be sheared.</Entry>
+  <Entry Index="239">The more your sheep like you, the higher the quality their
+Wool will be.</Entry>
+  <Entry Index="240">Sheep can be bred simply by standing next to one with
+a fully grown coat and using the Sheep Breeding Kit.</Entry>
+  <Entry Index="241">Once bred, your sheep will have a lamb in a few weeks'
+time. The Sheep Breeding Kit can be bought at Yodel
+Ranch.</Entry>
+  <Entry Index="242">Once bred, feed the sheep by putting its Fodder in the
+Breeding Bin. In about three weeks, a lamb will be born.</Entry>
+  <Entry Index="243">Lambs born on your farm will grow to like you more
+quickly than sheep that are bought.</Entry>
+  <Entry Index="244">Ring the Bell outside your Barn to send your sheep out
+to pasture.</Entry>
+  <Entry Index="245">Leave them in the pasture for several hours and they will
+eat any fully grown Grass, provided you planted some.</Entry>
+  <Entry Index="246">At 8:00 PM, the sheep out in the pasture will
+automatically return to the Barn.</Entry>
+  <Entry Index="247">dummy</Entry>
+  <Entry Index="248">dummy</Entry>
+  <Entry Index="249">dummy</Entry>
+  <Entry Index="250">dummy</Entry>
+  <Entry Index="251">dummy</Entry>
+  <Entry Index="252">Raising Alpacas</Entry>
+  <Entry Index="253">When raising alpacas be sure to feed them every day.
+Pick up Fodder from the Dispenser and put it in their
+Feeding Bin.</Entry>
+  <Entry Index="254">Put Fodder in the Bins for each alpaca. If you forget
+to feed them, they won't grow.</Entry>
+  <Entry Index="255">You can also give your alpacas their Fodder directly.
+It's important to show your animals love and care
+as you raise them.</Entry>
+  <Entry Index="256">Stand near an alpaca and press the Confirm Button
+to talk to them.</Entry>
+  <Entry Index="257">Equip a Brush to groom your alpaca.</Entry>
+  <Entry Index="258">To shear your alpaca, equip the Clippers and use them on
+your alpaca.</Entry>
+  <Entry Index="259">Any alpaca with a fully grown coat can be sheared.</Entry>
+  <Entry Index="260">The more your alpaca likes you, the higher the quality
+their Fleece will be.</Entry>
+  <Entry Index="261">You can breed your alpaca simply by standing next
+to one with a fully grown coat and using an
+Alpaca Breeding Kit.</Entry>
+  <Entry Index="262">Once bred, your alpaca will have a cria in a few weeks'
+time. The Alpaca Breeding Kit can be bought at Yodel
+Ranch.</Entry>
+  <Entry Index="263">Once bred, feed the alpaca by putting its Fodder in the
+Breeding Bin. In about three weeks, a cria will be born.</Entry>
+  <Entry Index="264">Crias born on your farm will grow to like you more
+quickly than alpacas that are bought.</Entry>
+  <Entry Index="265">Ring the Bell outside your Barn to send your alpacas out
+to pasture.</Entry>
+  <Entry Index="266">Leave them in the pasture for several hours and they will
+eat any fully grown Grass, provided you planted some.</Entry>
+  <Entry Index="267">At 8:00 PM, the alpacas out in the pasture will
+automatically return to the Barn.</Entry>
+  <Entry Index="268">dummy</Entry>
+  <Entry Index="269">dummy</Entry>
+  <Entry Index="270">dummy</Entry>
+  <Entry Index="271">dummy</Entry>
+  <Entry Index="272">dummy</Entry>
+  <Entry Index="273">[UNUSED SKIP]</Entry>
+  <Entry Index="274">[UNUSED SKIP]</Entry>
+  <Entry Index="275">[UNUSED SKIP]</Entry>
+  <Entry Index="276">[UNUSED SKIP]</Entry>
+  <Entry Index="277">[UNUSED SKIP]</Entry>
+  <Entry Index="278">[UNUSED SKIP]</Entry>
+  <Entry Index="279">dummy</Entry>
+  <Entry Index="280">dummy</Entry>
+  <Entry Index="281">dummy</Entry>
+  <Entry Index="282">dummy</Entry>
+  <Entry Index="283">dummy</Entry>
+  <Entry Index="284">dummy</Entry>
+  <Entry Index="285">dummy</Entry>
+  <Entry Index="286">dummy</Entry>
+  <Entry Index="287">dummy</Entry>
+  <Entry Index="288">dummy</Entry>
+  <Entry Index="289">dummy</Entry>
+  <Entry Index="290">dummy</Entry>
+  <Entry Index="291">dummy</Entry>
+  <Entry Index="292">dummy</Entry>
+  <Entry Index="293">dummy</Entry>
+  <Entry Index="294">Raising Foals</Entry>
+  <Entry Index="295">You don't need to feed the foals you are raising any
+Fodder, but you can give them Pet Treats.</Entry>
+  <Entry Index="296">Stand near a foal and press the Confirm Button to talk
+to them.</Entry>
+  <Entry Index="297">Equip a Brush to groom your foal.</Entry>
+  <Entry Index="298">After about 90 days, the foal will become a fully grown
+horse. Show your foals lots of love as you raise them.</Entry>
+  <Entry Index="299">dummy</Entry>
+  <Entry Index="300">dummy</Entry>
+  <Entry Index="301">dummy</Entry>
+  <Entry Index="302">dummy</Entry>
+  <Entry Index="303">dummy</Entry>
+  <Entry Index="304">dummy</Entry>
+  <Entry Index="305">dummy</Entry>
+  <Entry Index="306">dummy</Entry>
+  <Entry Index="307">dummy</Entry>
+  <Entry Index="308">dummy</Entry>
+  <Entry Index="309">dummy</Entry>
+  <Entry Index="310">dummy</Entry>
+  <Entry Index="311">dummy</Entry>
+  <Entry Index="312">dummy</Entry>
+  <Entry Index="313">dummy</Entry>
+  <Entry Index="314">dummy</Entry>
+  <Entry Index="315">Horses</Entry>
+  <Entry Index="316">Your character can ride a fully grown horse to travel
+from place to place.</Entry>
+  <Entry Index="317">To mount your horse or speed them up, press the Confirm
+Button. To dismount, press the Cancel Button.</Entry>
+  <Entry Index="318">You can leave your farm while mounted on a horse,
+but be aware that sometimes you can't return to it while
+still mounted.</Entry>
+  <Entry Index="319">[UNUSED SKIP]</Entry>
+  <Entry Index="320">[UNUSED SKIP]</Entry>
+  <Entry Index="321">dummy</Entry>
+  <Entry Index="322">dummy</Entry>
+  <Entry Index="323">dummy</Entry>
+  <Entry Index="324">dummy</Entry>
+  <Entry Index="325">dummy</Entry>
+  <Entry Index="326">dummy</Entry>
+  <Entry Index="327">dummy</Entry>
+  <Entry Index="328">dummy</Entry>
+  <Entry Index="329">dummy</Entry>
+  <Entry Index="330">dummy</Entry>
+  <Entry Index="331">dummy</Entry>
+  <Entry Index="332">dummy</Entry>
+  <Entry Index="333">dummy</Entry>
+  <Entry Index="334">dummy</Entry>
+  <Entry Index="335">dummy</Entry>
+  <Entry Index="336">Fishing</Entry>
+  <Entry Index="337">To fish, equip the Fishing Rod and press the Tool Button
+to cast the fishing line straight in front of you.</Entry>
+  <Entry Index="338">Once the line is cast, simply sit back and wait for a fish
+to bite.</Entry>
+  <Entry Index="339">When a fish bites, the bobber will move violently.
+Press the Tool Button at that moment to reel in your
+fish.</Entry>
+  <Entry Index="340">If the fish escapes, simply wait until the next fish comes
+along and bites.</Entry>
+  <Entry Index="341">If your timing is off, you may only reel in an empty hook.
+But don't give up! Cast your line and try again.</Entry>
+  <Entry Index="342">If there aren't any fish where you're fishing,
+no matter how long you wait you won't get a bite.
+Try somewhere else.</Entry>
+  <Entry Index="343">Different fish can be caught depending on where you fish
+and what season it is. Try fishing at various places and
+times!</Entry>
+  <Entry Index="344">Sometimes you may even reel in giant Guardian-class fish,
+or rare items!</Entry>
+  <Entry Index="345">dummy</Entry>
+  <Entry Index="346">dummy</Entry>
+  <Entry Index="347">dummy</Entry>
+  <Entry Index="348">dummy</Entry>
+  <Entry Index="349">dummy</Entry>
+  <Entry Index="350">dummy</Entry>
+  <Entry Index="351">dummy</Entry>
+  <Entry Index="352">dummy</Entry>
+  <Entry Index="353">dummy</Entry>
+  <Entry Index="354">dummy</Entry>
+  <Entry Index="355">dummy</Entry>
+  <Entry Index="356">dummy</Entry>
+  <Entry Index="357">Harvesting Crops</Entry>
+  <Entry Index="358">Try to harvest as many Turnips as you can within the
+time limit.</Entry>
+  <Entry Index="359">Press the Confirm Button repeatedly to have the Nature
+Sprite harvest Turnips.</Entry>
+  <Entry Index="360">Press too fast, and the Nature Sprite will try too hard
+and start to sweat. If this goes on for too long, they will
+fail.</Entry>
+  <Entry Index="361">When they start sweating, slow down the speed at which
+you press the button and let the Nature Sprite rest.</Entry>
+  <Entry Index="362">dummy</Entry>
+  <Entry Index="363">dummy</Entry>
+  <Entry Index="364">dummy</Entry>
+  <Entry Index="365">dummy</Entry>
+  <Entry Index="366">dummy</Entry>
+  <Entry Index="367">dummy</Entry>
+  <Entry Index="368">dummy</Entry>
+  <Entry Index="369">dummy</Entry>
+  <Entry Index="370">dummy</Entry>
+  <Entry Index="371">dummy</Entry>
+  <Entry Index="372">dummy</Entry>
+  <Entry Index="373">dummy</Entry>
+  <Entry Index="374">dummy</Entry>
+  <Entry Index="375">dummy</Entry>
+  <Entry Index="376">dummy</Entry>
+  <Entry Index="377">dummy</Entry>
+  <Entry Index="378">Watering Crops</Entry>
+  <Entry Index="379">Memorize the places that are marked and water them
+in the correct order.</Entry>
+  <Entry Index="380">The example pattern will play out first. Memorize the
+places watered and the order they are watered in. </Entry>
+  <Entry Index="381">Next, use the Directional Buttons and Confirm Button
+to water in the pattern shown by the example.
+This will repeat three times.</Entry>
+  <Entry Index="382">You will get more points for watering in the same order
+as the example. This will also make the seeds sprout.</Entry>
+  <Entry Index="383">If you mess up the order even once, the seeds will no
+longer sprout.</Entry>
+  <Entry Index="384">Be careful not to water the places the example didn't
+water, and be sure not to water the same spot twice.</Entry>
+  <Entry Index="385">dummy</Entry>
+  <Entry Index="386">dummy</Entry>
+  <Entry Index="387">dummy</Entry>
+  <Entry Index="388">dummy</Entry>
+  <Entry Index="389">dummy</Entry>
+  <Entry Index="390">dummy</Entry>
+  <Entry Index="391">dummy</Entry>
+  <Entry Index="392">dummy</Entry>
+  <Entry Index="393">dummy</Entry>
+  <Entry Index="394">dummy</Entry>
+  <Entry Index="395">dummy</Entry>
+  <Entry Index="396">dummy</Entry>
+  <Entry Index="397">dummy</Entry>
+  <Entry Index="398">dummy</Entry>
+  <Entry Index="399">Feeding Chickens</Entry>
+  <Entry Index="400">Try to feed as many chickens as you can within the
+time limit.</Entry>
+  <Entry Index="401">Use the Directional Buttons to move the Nature Sprite
+and the Confirm Button to put food in the Bins.</Entry>
+  <Entry Index="402">Putting food in a full Bin will upset the chickens.
+Only put new food in a Bin that's partly or totally empty.</Entry>
+  <Entry Index="403">When its Bin is partly empty, the chicken will fidget.
+If their Bin is totally empty, they'll leave the Coop.</Entry>
+  <Entry Index="404">Once they leave, the chicken will not return for some
+time.</Entry>
+  <Entry Index="405">Pay close attention to the chickens' behavior and feed
+them as efficiently as you can.</Entry>
+  <Entry Index="406">dummy</Entry>
+  <Entry Index="407">dummy</Entry>
+  <Entry Index="408">dummy</Entry>
+  <Entry Index="409">dummy</Entry>
+  <Entry Index="410">dummy</Entry>
+  <Entry Index="411">dummy</Entry>
+  <Entry Index="412">dummy</Entry>
+  <Entry Index="413">dummy</Entry>
+  <Entry Index="414">dummy</Entry>
+  <Entry Index="415">dummy</Entry>
+  <Entry Index="416">dummy</Entry>
+  <Entry Index="417">dummy</Entry>
+  <Entry Index="418">dummy</Entry>
+  <Entry Index="419">dummy</Entry>
+  <Entry Index="420">Spring &amp; Autumn Derbies</Entry>
+  <Entry Index="421">Pay close attention to your horse's stamina while racing
+as fast as you can to finish first.</Entry>
+  <Entry Index="422">Press the Confirm Button repeatedly to speed up your
+horse. But be aware: the faster they run, the faster
+they'll lose stamina.</Entry>
+  <Entry Index="423">You can gauge your horse's stamina by the color of their
+bubble. If it's green, they have plenty of stamina.</Entry>
+  <Entry Index="424">As their stamina goes down, the bubble will turn yellow.
+Keep pouring on the speed and eventually it will turn red.</Entry>
+  <Entry Index="425">When the bubble is red, no matter how fast you press the
+Confirm Button, your horse won't speed up.</Entry>
+  <Entry Index="426">Your horse will recover stamina whenever you are not
+pressing the button.</Entry>
+  <Entry Index="427">Balance your horse's stamina carefully by pressing the
+button at just the right time and race to first place.</Entry>
+  <Entry Index="428">dummy</Entry>
+  <Entry Index="429">dummy</Entry>
+  <Entry Index="430">dummy</Entry>
+  <Entry Index="431">dummy</Entry>
+  <Entry Index="432">dummy</Entry>
+  <Entry Index="433">dummy</Entry>
+  <Entry Index="434">dummy</Entry>
+  <Entry Index="435">dummy</Entry>
+  <Entry Index="436">dummy</Entry>
+  <Entry Index="437">dummy</Entry>
+  <Entry Index="438">dummy</Entry>
+  <Entry Index="439">dummy</Entry>
+  <Entry Index="440">dummy</Entry>
+  <Entry Index="441">The Cluck-Cluck Clash</Entry>
+  <Entry Index="442">Cheer on your chicken while they vie to push the other
+chicken out of the ring. Win three times to claim the
+crown!</Entry>
+  <Entry Index="443">Press the Confirm Button to cheer on your chicken.
+Cheering for them when they cluck may startle the other
+chicken.</Entry>
+  <Entry Index="444">If the other bird is in front of yours when you startle
+them, they will 'chicken out' and flee the ring.</Entry>
+  <Entry Index="445">But if you cheer on your chicken when they're facing the
+edge of the ring, they might just run out themselves.</Entry>
+  <Entry Index="446">dummy</Entry>
+  <Entry Index="447">dummy</Entry>
+  <Entry Index="448">dummy</Entry>
+  <Entry Index="449">dummy</Entry>
+  <Entry Index="450">dummy</Entry>
+  <Entry Index="451">dummy</Entry>
+  <Entry Index="452">dummy</Entry>
+  <Entry Index="453">dummy</Entry>
+  <Entry Index="454">dummy</Entry>
+  <Entry Index="455">dummy</Entry>
+  <Entry Index="456">dummy</Entry>
+  <Entry Index="457">dummy</Entry>
+  <Entry Index="458">dummy</Entry>
+  <Entry Index="459">dummy</Entry>
+  <Entry Index="460">dummy</Entry>
+  <Entry Index="461">dummy</Entry>
+  <Entry Index="462">The Fetch Fest</Entry>
+  <Entry Index="463">Throw the Disc for your pet to catch! Adjust the
+distance and try to throw it as far as your pet can reach.</Entry>
+  <Entry Index="464">When the game begins, the cursor will start to move.
+Press the Confirm Button at just the right time to
+stop it.</Entry>
+  <Entry Index="465">The green section of the "throw gauge" is your pet's
+catching range. Though even then, it's not a guarantee
+that they will catch the Disc.</Entry>
+  <Entry Index="466">The red part of the gauge is too far for your pet to
+catch the Disc.</Entry>
+  <Entry Index="467">Try to pick just the right spot on the green part of the
+gauge, and throw the Disc as far as your pet can catch.</Entry>
+  <Entry Index="468">You can practice throwing the Disc with your pet to
+increase the range in which they can catch it.</Entry>
+  <Entry Index="469">But if you play too many times in one day, your pet
+will get bored and they won't want to play any more
+that day.</Entry>
+  <Entry Index="470">The more your pet likes you, the more often they will
+want to play in a day.</Entry>
+  <Entry Index="471">dummy</Entry>
+  <Entry Index="472">dummy</Entry>
+  <Entry Index="473">dummy</Entry>
+  <Entry Index="474">dummy</Entry>
+  <Entry Index="475">dummy</Entry>
+  <Entry Index="476">dummy</Entry>
+  <Entry Index="477">dummy</Entry>
+  <Entry Index="478">dummy</Entry>
+  <Entry Index="479">dummy</Entry>
+  <Entry Index="480">dummy</Entry>
+  <Entry Index="481">dummy</Entry>
+  <Entry Index="482">dummy</Entry>
+  <Entry Index="483">The Nature Sprites</Entry>
+  <Entry Index="484">Make friends with the Nature Sprites and they will help
+you with your chores and even play with you.</Entry>
+  <Entry Index="485">To make friends with them, give them presents! You can
+make friends with each individual Nature Sprite.</Entry>
+  <Entry Index="486">Once you are good friends with the Nature Sprites they
+will help you with three different chores.</Entry>
+  <Entry Index="487">1. Watering Crops
+They will water the crops you are raising on your farm.</Entry>
+  <Entry Index="488">2. Harvesting
+They will harvest any ripe crops on your farm and put
+them into the Shipping Bin.</Entry>
+  <Entry Index="489">3. Livestock Care
+They will feed and brush your animals as well as ship any
+of their byproducts.</Entry>
+  <Entry Index="490">The more the Nature Sprites help you with certain
+chores, the better and faster they will get at them.</Entry>
+  <Entry Index="491">You can also choose to play with the Nature Sprites to
+give them practice with specific chores.</Entry>
+  <Entry Index="492">dummy</Entry>
+  <Entry Index="493">dummy</Entry>
+  <Entry Index="494">dummy</Entry>
+  <Entry Index="495">dummy</Entry>
+  <Entry Index="496">dummy</Entry>
+  <Entry Index="497">dummy</Entry>
+  <Entry Index="498">dummy</Entry>
+  <Entry Index="499">dummy</Entry>
+  <Entry Index="500">dummy</Entry>
+  <Entry Index="501">dummy</Entry>
+  <Entry Index="502">dummy</Entry>
+  <Entry Index="503">dummy</Entry>
+  <Entry Index="504">Tending Livestock</Entry>
+  <Entry Index="505">There are lots of animals available in Mineral Town.
+Raise them with love and you will gain much from them.</Entry>
+  <Entry Index="506">There are five different types of animals you can raise:
+cows, sheep, alpacas, chickens, and Angora rabbits.</Entry>
+  <Entry Index="507">Cows, sheep, and alpacas live in Barns.
+Chickens and Angora rabbits live in Coops.</Entry>
+  <Entry Index="508">You can purchase new animals from a store, or breed
+your current animals and raise the babies.</Entry>
+  <Entry Index="509">It's important to feed your animals every day, brush
+them, talk to them, and put them out to pasture on
+nice days.</Entry>
+  <Entry Index="510">The more love you show them, the better byproducts
+they will produce, so make sure to take very good care
+of them!</Entry>
+  <Entry Index="511">dummy</Entry>
+  <Entry Index="512">dummy</Entry>
+  <Entry Index="513">dummy</Entry>
+  <Entry Index="514">dummy</Entry>
+  <Entry Index="515">dummy</Entry>
+  <Entry Index="516">dummy</Entry>
+  <Entry Index="517">dummy</Entry>
+  <Entry Index="518">dummy</Entry>
+  <Entry Index="519">dummy</Entry>
+  <Entry Index="520">dummy</Entry>
+  <Entry Index="521">dummy</Entry>
+  <Entry Index="522">dummy</Entry>
+  <Entry Index="523">dummy</Entry>
+  <Entry Index="524">dummy</Entry>
+</Entries>

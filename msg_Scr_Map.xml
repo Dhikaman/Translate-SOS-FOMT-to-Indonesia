@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="1291">
+  <Entry Index="0">Oops! I'm headed into the Hot Spring.
+I can't go in if I'm holding something.&lt;wait&gt;</Entry>
+  <Entry Index="1">Aha! I found a Power Berry!&lt;wait&gt;</Entry>
+  <Entry Index="2">...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="3">There's nothing there now.&lt;wait&gt;</Entry>
+  <Entry Index="4">Bucket&lt;wait&gt;</Entry>
+  <Entry Index="5">Straw&lt;wait&gt;</Entry>
+  <Entry Index="6">Tool&lt;wait&gt;</Entry>
+  <Entry Index="7">Water Trough&lt;wait&gt;</Entry>
+  <Entry Index="8">Aha! There's a Truth Jewel at the bottom of this water
+trough.&lt;wait&gt;</Entry>
+  <Entry Index="9">Aha! There's a Truth Jewel at the bottom of this
+water trough.&lt;wait&gt;&lt;page&gt;
+...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="10">Aha! There's a Truth Jewel at the bottom of this water
+trough.&lt;wait&gt;&lt;page&gt;
+...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="11">Wooden Box&lt;wait&gt;</Entry>
+  <Entry Index="12">Bench&lt;wait&gt;</Entry>
+  <Entry Index="13">Parasol&lt;wait&gt;</Entry>
+  <Entry Index="14">Potted Plant&lt;wait&gt;</Entry>
+  <Entry Index="15">Snowman&lt;wait&gt;</Entry>
+  <Entry Index="16">Boat&lt;wait&gt;</Entry>
+  <Entry Index="17">Ya ready t'kick off the Fetch Fest?&lt;wait&gt;</Entry>
+  <Entry Index="18">Yeah! Let's do it!</Entry>
+  <Entry Index="19">Hang on a sec...</Entry>
+  <Entry Index="20">All right! Then let's get this show on the road!&lt;wait&gt;</Entry>
+  <Entry Index="21">Sure thing. Just come talk to me when you're ready
+t'get started.&lt;wait&gt;</Entry>
+  <Entry Index="22">Counter&lt;wait&gt;</Entry>
+  <Entry Index="23">It's locked...&lt;wait&gt;</Entry>
+  <Entry Index="24">The Fireworks Festival is just about to start.
+Where are you going?&lt;wait&gt;</Entry>
+  <Entry Index="25">Whoa, whoa! Where're ya goin'? We're just about t'start
+the Fetch Fest.&lt;wait&gt;</Entry>
+  <Entry Index="26">Ahhh, that was fun. Welp, back to work...&lt;wait&gt;</Entry>
+  <Entry Index="27">Log Pile&lt;wait&gt;</Entry>
+  <Entry Index="28">Chair&lt;wait&gt;</Entry>
+  <Entry Index="29">Kitchen&lt;wait&gt;</Entry>
+  <Entry Index="30">Fridge&lt;wait&gt;</Entry>
+  <Entry Index="31">Shelves&lt;wait&gt;</Entry>
+  <Entry Index="32">Sofa&lt;wait&gt;</Entry>
+  <Entry Index="33">Stove&lt;wait&gt;</Entry>
+  <Entry Index="34">Table&lt;wait&gt;</Entry>
+  <Entry Index="35">Where do you think you're going?&lt;wait&gt;</Entry>
+  <Entry Index="36">Oh, that area's off limits right now, sweetie. The second
+floor is just a terrible mess at the moment.&lt;wait&gt;</Entry>
+  <Entry Index="37">Ah, could you stay down here, please? The second floor is
+pretty messy right now.&lt;wait&gt;</Entry>
+  <Entry Index="38">Could you not go upstairs, please?&lt;wait&gt;</Entry>
+  <Entry Index="39">I'm sorry, sweetie, but please don't go up there. Okay?&lt;wait&gt;</Entry>
+  <Entry Index="40">It's just too embarrassing to let people see a room I'm in
+the middle of cleaning. Please don't go up there.&lt;wait&gt;</Entry>
+  <Entry Index="41">Hey! No going upstairs, okay?&lt;wait&gt;</Entry>
+  <Entry Index="42">Bed&lt;wait&gt;</Entry>
+  <Entry Index="43">Bookshelf&lt;wait&gt;</Entry>
+  <Entry Index="44">Flower Painting&lt;wait&gt;</Entry>
+  <Entry Index="45">Lamp&lt;wait&gt;</Entry>
+  <Entry Index="46">Mountain Painting&lt;wait&gt;</Entry>
+  <Entry Index="47">Photograph&lt;wait&gt;</Entry>
+  <Entry Index="48">Dresser&lt;wait&gt;</Entry>
+  <Entry Index="49">Candlestick&lt;wait&gt;</Entry>
+  <Entry Index="50">Is something the matter?&lt;wait&gt;</Entry>
+  <Entry Index="51">Is there anything else I can help you with?&lt;wait&gt;</Entry>
+  <Entry Index="52">Unequip a cursed tool.</Entry>
+  <Entry Index="53">Make a confession.</Entry>
+  <Entry Index="54">Just saying hi.</Entry>
+  <Entry Index="55">I'm afraid I must ask for a donation of 1,000G before
+I can do that. Is that agreeable?&lt;wait&gt;</Entry>
+  <Entry Index="56">Sure</Entry>
+  <Entry Index="57">No thanks</Entry>
+  <Entry Index="58">Now then, let us pray. Goddess above...&lt;wait&gt;&lt;page&gt;
+This poor lamb has met with misfortune and fallen under
+a curse. Please bless them and free them from this evil.&lt;wait&gt;</Entry>
+  <Entry Index="59">Unfortunately, it seems like you're a bit low on funds.
+I'm afraid I can't perform the necessary blessing.&lt;wait&gt;</Entry>
+  <Entry Index="60">Oh? You don't mind?&lt;wait&gt;</Entry>
+  <Entry Index="61">Please be careful when equipping tools. Evil can take
+many forms.&lt;wait&gt;</Entry>
+  <Entry Index="62">I'm afraid I can only hear one confession a day.&lt;wait&gt;</Entry>
+  <Entry Index="63">Now, pray tell me, what is it that weighs upon your mind?&lt;wait&gt;</Entry>
+  <Entry Index="64">I hardly sleep.</Entry>
+  <Entry Index="65">I overwork the Nature Sprites.</Entry>
+  <Entry Index="66">I want to marry Kappa.</Entry>
+  <Entry Index="67">Getting a proper amount of sleep is very important for
+your health.&lt;wait&gt;&lt;page&gt;
+I understand you're busy, but I highly recommend taking
+some time to recharge physically and mentally.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="68">What do you mean you hardly sleep?! The rhythms of
+waking and resting are a natural process set by the
+heavens!&lt;wait&gt;&lt;page&gt;
+Do you mean to desecrate that holy order by refusing to
+partake in it?! Blasphemy, I say! Blasphemy!&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="69">The Nature Sprites are benevolent creatures that give
+help out of the goodness of their hearts.&lt;wait&gt;&lt;page&gt;
+Perhaps you ought to return the favor with a thank-you
+gift to show your appreciation for all that they do.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="70">What? You're ABUSING the good will of the Nature
+Sprites and overworking them?! How dare you!&lt;wait&gt;&lt;page&gt;
+"We help you out of the goodness of our hearts," I can
+hear them say. "Making us work without saying thank
+you is mean!"&lt;wait&gt;&lt;page&gt;
+I would be utterly unsurprised if they are absolutely
+furious.&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!&lt;wait&gt;&lt;page&gt;
+Hrm! Ahem! ...Goodness, their high voices are quite the
+workout for one's vocal cords.&lt;wait&gt;</Entry>
+  <Entry Index="71">You want to marry Kappa...? My, I wasn't aware you had
+such strong feelings for it.&lt;wait&gt;&lt;page&gt;
+I'm sure that Kappa is aware of how powerfully you care
+for it as well.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="72">Wh-What...? You want to marry Kappa?! What in
+Heaven's name are you saying?!&lt;wait&gt;&lt;page&gt;
+Kappa is not human! It is a guardian spirit of the lake,
+nearly divine in its own right!&lt;wait&gt;&lt;page&gt;
+Why, I've lamented many a time over my inability to
+marry the Harvest Goddess, but--&lt;wait&gt;&lt;page&gt;
+AHEM! Erm! Yes! Please forget I said that. Anyway!&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="73">I don't care for my animals.</Entry>
+  <Entry Index="74">I worked myself to collapse.</Entry>
+  <Entry Index="75">The townsfolk don't like me.</Entry>
+  <Entry Index="76">The animals you keep provide you with that which you
+can eat, drink, and sell from their own bodies because
+they care for you.&lt;wait&gt;&lt;page&gt;
+Please consider their care as well, if only to repay them
+for all that they freely give to you.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="77">What on earth do you think your animals are? Machines?&lt;wait&gt;&lt;page&gt;
+They are giving their Milk and their Wool--parts of
+themselves--to you out of care and love for you!&lt;wait&gt;&lt;page&gt;
+Don't you feel the least desire to show any love and care
+to them in return?&lt;wait&gt;&lt;page&gt;
+I must say, I have nothing but pity for the poor creatures
+kept by someone so heartless and cruel.&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="78">That is quite the work ethic you have if you are toiling
+until collapse. But please, you must think of your health.&lt;wait&gt;&lt;page&gt;
+If you fainted, that means you have pushed your body far
+beyond the limits of what is good and healthy.&lt;wait&gt;&lt;page&gt;
+Next time you tire, I highly recommend you re-energize
+yourself with food and rest before working again.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="79">My word! Have you no respect at all for the body that
+your parents gifted you with?&lt;wait&gt;&lt;page&gt;
+Do you enjoy torturing yourself? Is ruining your health
+fun? Take better care of your sacred vessel!&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="80">The people of this town would not turn against you for no
+good reason. There must be a cause.&lt;wait&gt;&lt;page&gt;
+Look deep within your heart and see if you have an idea
+what it may be. If you do, repent and apologize.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="81">How funny. I find that I dislike being around you as well.
+Let's wrap this up quickly, shall we?&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="82">I picked on an animal.</Entry>
+  <Entry Index="83">I overslept.</Entry>
+  <Entry Index="84">I littered on the road.</Entry>
+  <Entry Index="85">The human heart is a fragile thing. Thus, at times, we are
+seized with a need to put down others to feel better
+about ourselves.&lt;wait&gt;&lt;page&gt;
+But such actions are proof of our weakness. Those who
+can't realize that will forever be a slave to insecurity.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="86">H-How could you...?! I did not take you for such a cruel
+and cold individual.&lt;wait&gt;&lt;page&gt;
+Did you enjoy tormenting that poor creature?
+Was it fun to lord it over them?&lt;wait&gt;&lt;page&gt;
+If you did feel that way, then I am afraid there is no hope
+of salvation for you.&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="87">Unlike the human heart, the human body is very
+forthright. Oversleeping is not a sin in and of itself.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="88">Oversleeping is a sign of poor discipline and lack of
+devotion to your daily responsibilities.&lt;wait&gt;&lt;page&gt;
+There are those whose schedules may be disrupted when
+you oversleep. No one likes a person who isn't punctual.&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="89">If you have generated some sort of waste, it is only
+natural that you put that garbage in a proper
+receptacle.&lt;wait&gt;&lt;page&gt;
+If it is garbage generated by someone else, it is a kindness
+to put it in a bin for them.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="90">...&lt;wait&gt;&lt;page&gt;
+I am so flabbergasted I don't know what to say.
+What would you think if someone littered in
+your home?&lt;wait&gt;&lt;page&gt;
+You would be upset, would you not? This is the same thing.&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you.
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="91">I think that will be enough for today.&lt;wait&gt;</Entry>
+  <Entry Index="92">Ah, hello.&lt;wait&gt;</Entry>
+  <Entry Index="93">Please feel free to come again whenever you like.&lt;wait&gt;</Entry>
+  <Entry Index="94">It's locked...&lt;wait&gt;</Entry>
+  <Entry Index="95">Yay! The hex on the Cursed Hoe has been dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="96">Yay! The hex on the Cursed Watering Can has been
+dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="97">Organ&lt;wait&gt;</Entry>
+  <Entry Index="98">&lt;playername&gt;, no. You mustn't go outside now.&lt;wait&gt;</Entry>
+  <Entry Index="99">Window&lt;wait&gt;</Entry>
+  <Entry Index="100">Barrel&lt;wait&gt;</Entry>
+  <Entry Index="101">Basket&lt;wait&gt;</Entry>
+  <Entry Index="102">I wonder who the person in this one photograph is...&lt;wait&gt;</Entry>
+  <Entry Index="103">There's a photograph of Lillia.&lt;wait&gt;</Entry>
+  <Entry Index="104">[Fruit Tree]
+Collect fruit from this tree during certain seasons.
+Honey can be harvested all year round.&lt;wait&gt;</Entry>
+  <Entry Index="105">&lt;mydogname&gt;'s house.</Entry>
+  <Entry Index="106">Aha! There's a Truth Jewel behind the statue of the
+Harvest Goddess.&lt;wait&gt;</Entry>
+  <Entry Index="107">Aha! There's a Truth Jewel behind the statue of the
+Harvest Goddess.&lt;wait&gt;&lt;page&gt;
+...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="108">Aha! There's a Truth Jewel behind the statue of the
+Harvest Goddess.&lt;wait&gt;&lt;page&gt;
+...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="109">Material Storage&lt;wait&gt;</Entry>
+  <Entry Index="110">There isn't anything in here.&lt;wait&gt;</Entry>
+  <Entry Index="111">Choose fish to take out.</Entry>
+  <Entry Index="112">&lt;string0&gt; Large Fish.&lt;wait&gt;</Entry>
+  <Entry Index="113">&lt;string0&gt; Medium Fish.&lt;wait&gt;</Entry>
+  <Entry Index="114">&lt;string0&gt; Small Fish.&lt;wait&gt;</Entry>
+  <Entry Index="115">Quit</Entry>
+  <Entry Index="116">It's empty.&lt;wait&gt;</Entry>
+  <Entry Index="117">Oops! Looks like the pond is full.&lt;wait&gt;</Entry>
+  <Entry Index="118">Huh...? There's a ring hidden in the back of my Mailbox.&lt;wait&gt;</Entry>
+  <Entry Index="119">Yay! I got a ring!&lt;wait&gt;</Entry>
+  <Entry Index="120">Pan paka paaan!&lt;wait&gt;&lt;page&gt;
+You've collected all seven rings! Congratulations!!!&lt;wait&gt;&lt;page&gt;
+...What? Yes, that's it. No, there isn't any special prize.
+That's really all you get. Be grateful I did my special
+cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="121">Hmm... Nope. There's no new mail today.&lt;wait&gt;</Entry>
+  <Entry Index="122">Aha! There's a ring in here too.&lt;wait&gt;</Entry>
+  <Entry Index="123">Ooh! It looks like my package has arrived.&lt;wait&gt;</Entry>
+  <Entry Index="124">Fish Food Storage Sign&lt;wait&gt;</Entry>
+  <Entry Index="125">Stable&lt;wait&gt;</Entry>
+  <Entry Index="126">Materials
+&lt;string0&gt; Pieces&lt;wait&gt;</Entry>
+  <Entry Index="127">Fish Pond&lt;wait&gt;</Entry>
+  <Entry Index="128">Shipping Bin&lt;wait&gt;</Entry>
+  <Entry Index="129">[Silo]
+Store Fodder here.
+Total Bushels: &lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="130">[Water Mill]
+Put Corn in here to grind up to 30 bags of Feed.
+Total Bags: &lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="131">You can't leave while still mounted on your horse.&lt;wait&gt;</Entry>
+  <Entry Index="132">You can't leave while holding a chicken.&lt;wait&gt;</Entry>
+  <Entry Index="133">You can't go in there while still mounted on your horse.&lt;wait&gt;</Entry>
+  <Entry Index="134">Log Pile&lt;wait&gt;</Entry>
+  <Entry Index="135">Vase&lt;wait&gt;</Entry>
+  <Entry Index="136">Dustbin&lt;wait&gt;</Entry>
+  <Entry Index="137">Painting of Kappa&lt;wait&gt;</Entry>
+  <Entry Index="138">Why am I looking over here? I have to check where the
+products are shelved if I want to buy anything.&lt;wait&gt;</Entry>
+  <Entry Index="139">Shelves&lt;wait&gt;</Entry>
+  <Entry Index="140">Pamphlets&lt;wait&gt;</Entry>
+  <Entry Index="141">Poster&lt;wait&gt;</Entry>
+  <Entry Index="142">Feeding Bin&lt;wait&gt;</Entry>
+  <Entry Index="143">This Bin is completely empty.&lt;wait&gt;</Entry>
+  <Entry Index="144">There's already an Egg incubating in here. I can't wait
+until it hatches!&lt;wait&gt;</Entry>
+  <Entry Index="145">[Incubator]
+Put an Egg in here and in a few days a new baby chick
+will be born.&lt;wait&gt;</Entry>
+  <Entry Index="146">I don't have space for any more animals...&lt;wait&gt;</Entry>
+  <Entry Index="147">[Mayonnaise Maker]
+Put Eggs in here to make Mayonnaise.&lt;wait&gt;</Entry>
+  <Entry Index="148">Chicken/Rabbit Feed
+Total Bags: &lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="149">Should I call it a night?</Entry>
+  <Entry Index="150">Yes</Entry>
+  <Entry Index="151">No</Entry>
+  <Entry Index="152">[Bed]
+Examine it on the left side when you want to go to sleep.&lt;wait&gt;</Entry>
+  <Entry Index="153">Aha! There's a Truth Jewel behind the Calendar.&lt;wait&gt;</Entry>
+  <Entry Index="154">Aha! There's a Truth Jewel behind the Calendar.&lt;wait&gt;&lt;page&gt;
+...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="155">Aha! There's a Truth Jewel behind the Calendar.&lt;wait&gt;&lt;page&gt;
+...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="156">Spring</Entry>
+  <Entry Index="157">Summer</Entry>
+  <Entry Index="158">Autumn</Entry>
+  <Entry Index="159">Winter</Entry>
+  <Entry Index="160">Sunday</Entry>
+  <Entry Index="161">Monday</Entry>
+  <Entry Index="162">Tuesday</Entry>
+  <Entry Index="163">Wednesday</Entry>
+  <Entry Index="164">Thursday</Entry>
+  <Entry Index="165">Friday</Entry>
+  <Entry Index="166">Saturday</Entry>
+  <Entry Index="167">Year &lt;string0&gt;
+&lt;string1&gt; &lt;string2&gt;, &lt;string3&gt;&lt;wait&gt;</Entry>
+  <Entry Index="168">&lt;string0&gt;:0&lt;string1&gt; AM&lt;wait&gt;</Entry>
+  <Entry Index="169">&lt;string0&gt;:&lt;string1&gt; AM&lt;wait&gt;</Entry>
+  <Entry Index="170">&lt;string0&gt;:0&lt;string1&gt; AM&lt;wait&gt;</Entry>
+  <Entry Index="171">&lt;string0&gt;:&lt;string1&gt; AM&lt;wait&gt;</Entry>
+  <Entry Index="172">&lt;string0&gt;:0&lt;string1&gt; PM&lt;wait&gt;</Entry>
+  <Entry Index="173">&lt;string0&gt;:&lt;string1&gt; PM&lt;wait&gt;</Entry>
+  <Entry Index="174">&lt;string0&gt;:0&lt;string1&gt; PM&lt;wait&gt;</Entry>
+  <Entry Index="175">&lt;string0&gt;:&lt;string1&gt; PM&lt;wait&gt;</Entry>
+  <Entry Index="176">The wind is way too strong to go outside today...&lt;wait&gt;</Entry>
+  <Entry Index="177">It's snowing way too much to go outside today...&lt;wait&gt;</Entry>
+  <Entry Index="178">This photo! Where did you find it?!&lt;wait&gt;</Entry>
+  <Entry Index="179">Oh... Huh. So you told Ran and the others.&lt;wait&gt;&lt;page&gt;
+The people in this picture are my mother and little sister.&lt;wait&gt;</Entry>
+  <Entry Index="180">I...hated the town where I grew up, so I left. I ran away
+and abandoned my mother and sister.&lt;wait&gt;&lt;page&gt;
+When I came back, they were gone. My mother had
+passed away, and my sister had disappeared.&lt;wait&gt;&lt;page&gt;
+It felt like I'd completely lost myself...&lt;wait&gt;&lt;page&gt;
+So I wandered around on my own with nowhere to go
+until I arrived here.&lt;wait&gt;&lt;page&gt;
+It's...a lot like my hometown.&lt;wait&gt;</Entry>
+  <Entry Index="181">Ah! Sorry! I'm sure you don't want to hear about all that.&lt;wait&gt;&lt;page&gt;
+Thank you...for finding this picture.&lt;wait&gt;</Entry>
+  <Entry Index="182">Cliff is sleeping soundly.&lt;wait&gt;</Entry>
+  <Entry Index="183">Please don't go upstairs.&lt;wait&gt;</Entry>
+  <Entry Index="184">Desk&lt;wait&gt;</Entry>
+  <Entry Index="185">Liquor Shelf&lt;wait&gt;</Entry>
+  <Entry Index="186">Large Kitchen&lt;wait&gt;</Entry>
+  <Entry Index="187">Microwave&lt;wait&gt;</Entry>
+  <Entry Index="188">Where are you off to? Aren't you going to have a bite to
+eat before you go?&lt;wait&gt;</Entry>
+  <Entry Index="189">Sorry! I haven't finished cleaning up there yet.
+Couldja stay down here for now?&lt;wait&gt;</Entry>
+  <Entry Index="190">Sorry, but that area is off-limits at the moment.&lt;wait&gt;</Entry>
+  <Entry Index="191">[UNUSED SKIP]</Entry>
+  <Entry Index="192">Telephone&lt;wait&gt;</Entry>
+  <Entry Index="193">I can pay 10G to make a phone call here.</Entry>
+  <Entry Index="194">Make a call.</Entry>
+  <Entry Index="195">Don't make a call.</Entry>
+  <Entry Index="196">I need to have 10G before I can make a call.&lt;wait&gt;</Entry>
+  <Entry Index="197">Hello! Thank you for calling TV Shopping!&lt;wait&gt;</Entry>
+  <Entry Index="198">The Clock is 2,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="199">☆Clock: 2,000G</Entry>
+  <Entry Index="200">Buy</Entry>
+  <Entry Index="201">Don't buy</Entry>
+  <Entry Index="202">The Mirror is 1,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="203">☆Mirror: 1,000G</Entry>
+  <Entry Index="204">The Fridge is 2,500G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="205">☆Fridge: 2,500G</Entry>
+  <Entry Index="206">The Cabinet is 2,500G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="207">☆Cabinet: 2,500G</Entry>
+  <Entry Index="208">The Kitchen is 4,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="209">☆Kitchen: 4,000G</Entry>
+  <Entry Index="210">The Rug is 5,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="211">☆Rug: 5,000G</Entry>
+  <Entry Index="212">The Big Bed is 10,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="213">☆Big Bed: 10,000G</Entry>
+  <Entry Index="214">The Knife is 1,500G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="215">☆Knife: 1,500G</Entry>
+  <Entry Index="216">The Frying Pan is 1,200G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="217">☆Frying Pan: 1,200G</Entry>
+  <Entry Index="218">The Pot is 1,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="219">☆Pot: 1,000G</Entry>
+  <Entry Index="220">The Mixer is 1,200G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="221">☆Mixer: 1,200G</Entry>
+  <Entry Index="222">The Whisk is 500G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="223">☆Whisk: 500G</Entry>
+  <Entry Index="224">The Rolling Pin is 750G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="225">☆Rolling Pin: 750G</Entry>
+  <Entry Index="226">The Oven is 2,500G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="227">☆Oven: 2,500G</Entry>
+  <Entry Index="228">The Seasoning Set is 2,500G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="229">☆Seasoning Set: 2,500G</Entry>
+  <Entry Index="230">The Power Berry is 10,000G. Would you like to purchase it?&lt;wait&gt;</Entry>
+  <Entry Index="231">☆Power Berry: 10,000G</Entry>
+  <Entry Index="232">But I'm afraid we don't have anything for sale right now. Please call again later!&lt;wait&gt;</Entry>
+  <Entry Index="233">Thank you for your business! Your product should arrive in two to three days.&lt;wait&gt;</Entry>
+  <Entry Index="234">...Oops, wait a minute. It looks like I don't have enough money. I'll have to hold off on buying that.&lt;wait&gt;</Entry>
+  <Entry Index="235">We always have a selection of useful and convenient items for sale. Please call again! Have a nice day.&lt;wait&gt;</Entry>
+  <Entry Index="236">Ladder&lt;wait&gt;</Entry>
+  <Entry Index="237">I'm still organizing the books on the second floor.
+Please don't go up there right now.&lt;wait&gt;</Entry>
+  <Entry Index="238">I haven't finished cleaning the second floor.
+Could you please not go up there?&lt;wait&gt;</Entry>
+  <Entry Index="239">Ah-aah. No going up to the second floor, please.&lt;wait&gt;</Entry>
+  <Entry Index="240">   １／２８</Entry>
+  <Entry Index="241">←</Entry>
+  <Entry Index="242">Card: Cliff 1</Entry>
+  <Entry Index="243">Card: Cliff 2</Entry>
+  <Entry Index="244">→</Entry>
+  <Entry Index="245">Card: Cliff &amp; Ran</Entry>
+  <Entry Index="246">Quit</Entry>
+  <Entry Index="247">   ２／２８</Entry>
+  <Entry Index="248">Card: Doctor &amp; Elly</Entry>
+  <Entry Index="249">Card: Doctor 1</Entry>
+  <Entry Index="250">Card: Doctor 1</Entry>
+  <Entry Index="251">Card: PoPoultry 1</Entry>
+  <Entry Index="252">   ３／２８</Entry>
+  <Entry Index="253">Card: PoPoultry 2</Entry>
+  <Entry Index="254">Card: PoPoultry 3</Entry>
+  <Entry Index="255">Card: PoPoultry 4</Entry>
+  <Entry Index="256">Card: PoPoultry 5</Entry>
+  <Entry Index="257">   ４／２８</Entry>
+  <Entry Index="258">Card: Gray 1</Entry>
+  <Entry Index="259">Card: Gray 2</Entry>
+  <Entry Index="260">Card: Kai</Entry>
+  <Entry Index="261">Card: Kai &amp; Popuri</Entry>
+  <Entry Index="262">   ５／２８</Entry>
+  <Entry Index="263">Card: Jeff</Entry>
+  <Entry Index="264">Card: Sasha</Entry>
+  <Entry Index="265">Card: Dudley 1</Entry>
+  <Entry Index="266">Card: Dudley 2</Entry>
+  <Entry Index="267">   ６／２８</Entry>
+  <Entry Index="268">Card: Kai</Entry>
+  <Entry Index="269">Card: Basil &amp; Anna</Entry>
+  <Entry Index="270">Card: Mei &amp; Mugi</Entry>
+  <Entry Index="271">Card: Thomas &amp; Harris 1</Entry>
+  <Entry Index="272">   ７／２８</Entry>
+  <Entry Index="273">Card: Thomas &amp; Harris 2</Entry>
+  <Entry Index="274">Card: Duke &amp; Manna</Entry>
+  <Entry Index="275">Card: Ellen</Entry>
+  <Entry Index="276">Card: Nature Sprites</Entry>
+  <Entry Index="277">   ８／２８</Entry>
+  <Entry Index="278">Card: Popuri</Entry>
+  <Entry Index="279">Card: Ran</Entry>
+  <Entry Index="280">Card: Karen</Entry>
+  <Entry Index="281">Card: Elly</Entry>
+  <Entry Index="282">   ９／２８</Entry>
+  <Entry Index="283">Card: Marie</Entry>
+  <Entry Index="284">Change in Hours</Entry>
+  <Entry Index="285">Birthday: Popuri</Entry>
+  <Entry Index="286">Birthday: Ran</Entry>
+  <Entry Index="287">   10／２８</Entry>
+  <Entry Index="288">Birthday: Karen</Entry>
+  <Entry Index="289">Birthday: Elly</Entry>
+  <Entry Index="290">Birthday: Marie</Entry>
+  <Entry Index="291">Birthday: Kai</Entry>
+  <Entry Index="292">   11／２８</Entry>
+  <Entry Index="293">Birthday: Cliff</Entry>
+  <Entry Index="294">Birthday: Doctor</Entry>
+  <Entry Index="295">Birthday: Kai &amp; Popuri</Entry>
+  <Entry Index="296">Birthday: Cliff &amp; Ran</Entry>
+  <Entry Index="297">   12／２８</Entry>
+  <Entry Index="298">Birthday: Rick &amp; Karen</Entry>
+  <Entry Index="299">Birthday: Doctor &amp; Elly</Entry>
+  <Entry Index="300">Birthday: Gray &amp; Marie</Entry>
+  <Entry Index="301">Birthday: Thomas &amp; Harris</Entry>
+  <Entry Index="302">１３／２８</Entry>
+  <Entry Index="303">Strawberry Seeds</Entry>
+  <Entry Index="304">Pumpkin Seeds</Entry>
+  <Entry Index="305">Spinach</Entry>
+  <Entry Index="306">Blue Feather</Entry>
+  <Entry Index="307">１４／２８</Entry>
+  <Entry Index="308">Big Bag</Entry>
+  <Entry Index="309">Stamina Booster XL</Entry>
+  <Entry Index="310">Super Caffeine</Entry>
+  <Entry Index="311">Brush</Entry>
+  <Entry Index="312">１５／２８</Entry>
+  <Entry Index="313">Milker</Entry>
+  <Entry Index="314">Clippers</Entry>
+  <Entry Index="315">Change in Hours</Entry>
+  <Entry Index="316">From Harvest Goddess</Entry>
+  <Entry Index="317">１６／２８</Entry>
+  <Entry Index="318">1 Billion Steps</Entry>
+  <Entry Index="319">All Items Shipped</Entry>
+  <Entry Index="320">All Fish Caught</Entry>
+  <Entry Index="321">Ore Items</Entry>
+  <Entry Index="322">１７／２８</Entry>
+  <Entry Index="323">BF255</Entry>
+  <Entry Index="324">TV Programs</Entry>
+  <Entry Index="325">Rock-Paper-Scissors</Entry>
+  <Entry Index="326">Next Number</Entry>
+  <Entry Index="327">１８／２８</Entry>
+  <Entry Index="328">1 Billion Shipped</Entry>
+  <Entry Index="329">1 Billion Fish Caught</Entry>
+  <Entry Index="330">1 Billion Gold</Entry>
+  <Entry Index="331">Year 200</Entry>
+  <Entry Index="332">１９／２８ </Entry>
+  <Entry Index="333">Cooking</Entry>
+  <Entry Index="334">Fetch Fest</Entry>
+  <Entry Index="335">Cluck-Cluck Clash</Entry>
+  <Entry Index="336">Moo-Moo Festival</Entry>
+  <Entry Index="337">２０／２８</Entry>
+  <Entry Index="338">Fluffy Festival</Entry>
+  <Entry Index="339">Derbies</Entry>
+  <Entry Index="340">Cooking Exhibition</Entry>
+  <Entry Index="341">1st Anniversary</Entry>
+  <Entry Index="342">２１／２８</Entry>
+  <Entry Index="343">2nd Anniversary</Entry>
+  <Entry Index="344">3rd Anniversary</Entry>
+  <Entry Index="345">4th Anniversary</Entry>
+  <Entry Index="346">5th Anniversary</Entry>
+  <Entry Index="347">２２／２８</Entry>
+  <Entry Index="348">6th Anniversary</Entry>
+  <Entry Index="349">7th Anniversary</Entry>
+  <Entry Index="350">8th Anniversary</Entry>
+  <Entry Index="351">9th Anniversary</Entry>
+  <Entry Index="352">２３／２８</Entry>
+  <Entry Index="353">10th Anniversary</Entry>
+  <Entry Index="354">11th Anniversary</Entry>
+  <Entry Index="355">12th Anniversary</Entry>
+  <Entry Index="356">13th Anniversary</Entry>
+  <Entry Index="357">２４／２８</Entry>
+  <Entry Index="358">14th Anniversary</Entry>
+  <Entry Index="359">15th Anniversary</Entry>
+  <Entry Index="360">20th Anniversary</Entry>
+  <Entry Index="361">25th Anniversary</Entry>
+  <Entry Index="362">２５／２８ </Entry>
+  <Entry Index="363">30th Anniversary</Entry>
+  <Entry Index="364">35th Anniversary</Entry>
+  <Entry Index="365">40th Anniversary</Entry>
+  <Entry Index="366">45th Anniversary</Entry>
+  <Entry Index="367">２６／２８</Entry>
+  <Entry Index="368">50th Anniversary</Entry>
+  <Entry Index="369">55th Anniversary</Entry>
+  <Entry Index="370">60th Anniversary</Entry>
+  <Entry Index="371">75th Anniversary</Entry>
+  <Entry Index="372">２７／２８</Entry>
+  <Entry Index="373">Present</Entry>
+  <Entry Index="374">Starlight Night Rick</Entry>
+  <Entry Index="375">Starlight Night Cliff</Entry>
+  <Entry Index="376">Starlight Night Doctor</Entry>
+  <Entry Index="377">２８／２８</Entry>
+  <Entry Index="378">White Day Kai</Entry>
+  <Entry Index="379">Starlight Night Gray</Entry>
+  <Entry Index="380">Sprite Invitations</Entry>
+  <Entry Index="381">   １／２０</Entry>
+  <Entry Index="382">Mini-game 1</Entry>
+  <Entry Index="383">Mini-game 2</Entry>
+  <Entry Index="384">Controls</Entry>
+  <Entry Index="385">Quit</Entry>
+  <Entry Index="386">   ２／２０</Entry>
+  <Entry Index="387">TV</Entry>
+  <Entry Index="388">Messages</Entry>
+  <Entry Index="389">Account Book</Entry>
+  <Entry Index="390">Town Map</Entry>
+  <Entry Index="391">   ３／２０</Entry>
+  <Entry Index="392">Farm Map</Entry>
+  <Entry Index="393">Equipment &amp; Items</Entry>
+  <Entry Index="394">Raising Crops</Entry>
+  <Entry Index="395">How Crops Grow</Entry>
+  <Entry Index="396">   ４／２０</Entry>
+  <Entry Index="397">The Mines</Entry>
+  <Entry Index="398">Cooking</Entry>
+  <Entry Index="399">Stamina &amp; Fatigue</Entry>
+  <Entry Index="400">Shipping Value</Entry>
+  <Entry Index="401">   ５／２０</Entry>
+  <Entry Index="402">Tool Uses</Entry>
+  <Entry Index="403">Fishing</Entry>
+  <Entry Index="404">Livestock 101</Entry>
+  <Entry Index="405">Takakura</Entry>
+  <Entry Index="406">   ６／２０</Entry>
+  <Entry Index="407">Romana</Entry>
+  <Entry Index="408">Lumina</Entry>
+  <Entry Index="409">Sebastian</Entry>
+  <Entry Index="410">Sully</Entry>
+  <Entry Index="411">   ７／２０</Entry>
+  <Entry Index="412">Chris</Entry>
+  <Entry Index="413">Hugh</Entry>
+  <Entry Index="414">Grat</Entry>
+  <Entry Index="415">Sam</Entry>
+  <Entry Index="416">   ８／２０</Entry>
+  <Entry Index="417">Kate</Entry>
+  <Entry Index="418">Gary</Entry>
+  <Entry Index="419">Nina</Entry>
+  <Entry Index="420">Daryl</Entry>
+  <Entry Index="421">   ９／２０</Entry>
+  <Entry Index="422">Gustafa</Entry>
+  <Entry Index="423">Gordy</Entry>
+  <Entry Index="424">Kesaran</Entry>
+  <Entry Index="425">Basaran</Entry>
+  <Entry Index="426">   10／２０</Entry>
+  <Entry Index="427">Moe</Entry>
+  <Entry Index="428">Ty</Entry>
+  <Entry Index="429">Lou</Entry>
+  <Entry Index="430">Nami</Entry>
+  <Entry Index="431">   11／２０</Entry>
+  <Entry Index="432">Rock</Entry>
+  <Entry Index="433">Griff</Entry>
+  <Entry Index="434">MuuMuu</Entry>
+  <Entry Index="435">Carter</Entry>
+  <Entry Index="436">   12／２０</Entry>
+  <Entry Index="437">Flora</Entry>
+  <Entry Index="438">Vesta</Entry>
+  <Entry Index="439">Matthew</Entry>
+  <Entry Index="440">Sabrina</Entry>
+  <Entry Index="441">１３／２０</Entry>
+  <Entry Index="442">Barding</Entry>
+  <Entry Index="443">Van</Entry>
+  <Entry Index="444">MukuMuku</Entry>
+  <Entry Index="445">Son</Entry>
+  <Entry Index="446">１４／２０</Entry>
+  <Entry Index="447">David</Entry>
+  <Entry Index="448">Ebony</Entry>
+  <Entry Index="449">Furatto</Entry>
+  <Entry Index="450">Main Character</Entry>
+  <Entry Index="451">１５／２０</Entry>
+  <Entry Index="452">Recipe Book 1</Entry>
+  <Entry Index="453">Recipe Book 2</Entry>
+  <Entry Index="454">Recipe Book 3</Entry>
+  <Entry Index="455">Recipe Book 4</Entry>
+  <Entry Index="456">１６／２０</Entry>
+  <Entry Index="457">Kitchen How-to</Entry>
+  <Entry Index="458">Sprite Service</Entry>
+  <Entry Index="459">The Forge</Entry>
+  <Entry Index="460">The General Store</Entry>
+  <Entry Index="461">１７／２０</Entry>
+  <Entry Index="462">The Workshop</Entry>
+  <Entry Index="463">The Clinic</Entry>
+  <Entry Index="464">The Vineyard</Entry>
+  <Entry Index="465">The Inn</Entry>
+  <Entry Index="466">１８／２０</Entry>
+  <Entry Index="467">The Beach Cafe</Entry>
+  <Entry Index="468">PoPoultry Farm</Entry>
+  <Entry Index="469">Yodel Ranch</Entry>
+  <Entry Index="470">Huang</Entry>
+  <Entry Index="471">１９／２０</Entry>
+  <Entry Index="472">Van</Entry>
+  <Entry Index="473">Records</Entry>
+  <Entry Index="474">Baths</Entry>
+  <Entry Index="475">Vases</Entry>
+  <Entry Index="476">２０／２０</Entry>
+  <Entry Index="477">Fridge</Entry>
+  <Entry Index="478">Cabinet</Entry>
+  <Entry Index="479">Staff</Entry>
+  <Entry Index="480">Handy Controls</Entry>
+  <Entry Index="481">There are no books of interest here.&lt;wait&gt;</Entry>
+  <Entry Index="482">Previous Page</Entry>
+  <Entry Index="483">Next Page</Entry>
+  <Entry Index="484">I can't find it...&lt;wait&gt;</Entry>
+  <Entry Index="485">Forge</Entry>
+  <Entry Index="486">General Store</Entry>
+  <Entry Index="487">Workshop</Entry>
+  <Entry Index="488">Clinic</Entry>
+  <Entry Index="489">Vineyard</Entry>
+  <Entry Index="490">Other</Entry>
+  <Entry Index="491">Inn</Entry>
+  <Entry Index="492">Beach Cafe</Entry>
+  <Entry Index="493">PoPoultry</Entry>
+  <Entry Index="494">Yodel Ranch</Entry>
+  <Entry Index="495">Merchant</Entry>
+  <Entry Index="496">Quit</Entry>
+  <Entry Index="497">Bookshelf&lt;wait&gt;</Entry>
+  <Entry Index="498">Aha! There's a Truth Jewel hiding at the back of this
+shelf.&lt;wait&gt;</Entry>
+  <Entry Index="499">Aha! There's a Truth Jewel hiding at the back of this
+shelf.&lt;wait&gt;&lt;page&gt;
+...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="500">Aha! There's a Truth Jewel hiding at the back of this
+shelf.&lt;wait&gt;&lt;page&gt;
+...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="501">Clock&lt;wait&gt;</Entry>
+  <Entry Index="502">Fridge&lt;wait&gt;</Entry>
+  <Entry Index="503">Aha! There's a Truth Jewel hiding inside this fridge.&lt;wait&gt;</Entry>
+  <Entry Index="504">Aha! There's a Truth Jewel hiding inside the fridge.&lt;wait&gt;&lt;page&gt;
+...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="505">Aha! There's a Truth Jewel hiding inside the fridge.&lt;wait&gt;&lt;page&gt;
+...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="506">Basement Stairs&lt;wait&gt;</Entry>
+  <Entry Index="507">Huh? &lt;nickname&gt;, where are you going? Are you
+leaving? I wanna give you your present first.&lt;wait&gt;</Entry>
+  <Entry Index="508">&lt;nickname&gt;, are you going somewhere? Couldja
+take your present before you go?&lt;wait&gt;</Entry>
+  <Entry Index="509">&lt;nickname&gt;, where are you going? Aren't you going
+to take your present?&lt;wait&gt;</Entry>
+  <Entry Index="510">Huh? You going somewhere, &lt;nickname&gt;? Could you
+take your present first, at least?&lt;wait&gt;</Entry>
+  <Entry Index="511">Hm? &lt;nickname&gt;, are you leaving? If you don't mind,
+could take your present first?&lt;wait&gt;</Entry>
+  <Entry Index="512">&lt;playername&gt;? Where are you going? Don't you
+want your present?&lt;wait&gt;</Entry>
+  <Entry Index="513">Whoa! &lt;nickname&gt;, where're you off to? Couldja
+take your present first?&lt;wait&gt;</Entry>
+  <Entry Index="514">&lt;nickname&gt;, where are you going? Don't you want
+your present?&lt;wait&gt;</Entry>
+  <Entry Index="515">Hm? &lt;nickname&gt;, are you going somewhere?
+Could you please take your present?&lt;wait&gt;</Entry>
+  <Entry Index="516">Where are you going, &lt;nickname&gt;? Aren't you
+going to take your present?&lt;wait&gt;</Entry>
+  <Entry Index="517">What, got somewhere to be? I kinda want you to take
+this before you go.&lt;wait&gt;</Entry>
+  <Entry Index="518">&lt;nickname&gt;, where are you off to?&lt;wait&gt;</Entry>
+  <Entry Index="519">&lt;playername&gt;, where are you going?&lt;wait&gt;</Entry>
+  <Entry Index="520">...Where go?&lt;wait&gt;</Entry>
+  <Entry Index="521">Where are you going, leaving poor &lt;childname&gt;
+behind?&lt;wait&gt;</Entry>
+  <Entry Index="522">&lt;nickname&gt;, where're you off to?&lt;wait&gt;</Entry>
+  <Entry Index="523">&lt;nickname&gt;, where are you going?&lt;wait&gt;</Entry>
+  <Entry Index="524">What are you doing?&lt;wait&gt;</Entry>
+  <Entry Index="525">Take a bath?</Entry>
+  <Entry Index="526">Heavenly Voice</Entry>
+  <Entry Index="527">Go through the door.&lt;wait&gt;</Entry>
+  <Entry Index="528">Come back through the door.&lt;wait&gt;</Entry>
+  <Entry Index="529">Not right now...&lt;wait&gt;</Entry>
+  <Entry Index="530">Sorry. I'm not in the mood to chat.&lt;wait&gt;</Entry>
+  <Entry Index="531">Sorry. I'm beat right now.&lt;wait&gt;</Entry>
+  <Entry Index="532">...I'm sleepy.&lt;wait&gt;</Entry>
+  <Entry Index="533">I'm trying to sleep. Stop buggin' me.&lt;wait&gt;</Entry>
+  <Entry Index="534">I'm sorry, but I need to sleep now.&lt;wait&gt;</Entry>
+  <Entry Index="535">Time for sleep now, yes?&lt;wait&gt;</Entry>
+  <Entry Index="536">I would like to sleep, thank you. Please do not disturb me.&lt;wait&gt;</Entry>
+  <Entry Index="537">C'mon. Let me sleep.&lt;wait&gt;</Entry>
+  <Entry Index="538">Ugh. What?&lt;wait&gt;</Entry>
+  <Entry Index="539">What do you want?&lt;wait&gt;</Entry>
+  <Entry Index="540">C'mon, I'm tired. Knock it off.&lt;wait&gt;</Entry>
+  <Entry Index="541">A proper night's sleep is vital to good health.
+Please don't disturb me.&lt;wait&gt;</Entry>
+  <Entry Index="542">What is it? You need something?&lt;wait&gt;</Entry>
+  <Entry Index="543">...&lt;wait&gt;</Entry>
+  <Entry Index="544">Welp, if I'm going to be rested for tomorrow, I'd better
+get to bed.&lt;wait&gt;</Entry>
+  <Entry Index="545">Phew! I sure wore myself out today. I'm gonna
+hit the sack.&lt;wait&gt;</Entry>
+  <Entry Index="546">Tomorrow's right around the corner. I'm going to go to
+sleep, okay?&lt;wait&gt;</Entry>
+  <Entry Index="547">I'm tired, so I'm gonna hit the hay. G'night. See ya in the
+morning.&lt;wait&gt;</Entry>
+  <Entry Index="548">One needs sleep to rest and recover from the day's
+exertions. I recommend getting at least several hours.&lt;wait&gt;</Entry>
+  <Entry Index="549">I am very tired, yes? Good night.&lt;wait&gt;</Entry>
+  <Entry Index="550">Good night.&lt;wait&gt;</Entry>
+  <Entry Index="551">I'm tired. Save it for tomorrow, okay?&lt;wait&gt;</Entry>
+  <Entry Index="552">Ugh. What? I'm tired!&lt;wait&gt;</Entry>
+  <Entry Index="553">Can it wait for tomorrow?&lt;wait&gt;</Entry>
+  <Entry Index="554">I wanna go to sleep, y'know.&lt;wait&gt;</Entry>
+  <Entry Index="555">If you have work to do, I won't force you, but I really do
+recommend it.&lt;wait&gt;</Entry>
+  <Entry Index="556">&lt;nickname&gt;, will you not sleep?&lt;wait&gt;</Entry>
+  <Entry Index="557">I said good night. That was a hint.&lt;wait&gt;</Entry>
+  <Entry Index="558">&lt;nickname&gt;, aren't you going to sleep? It's not
+good to stay up too late and all.&lt;wait&gt;</Entry>
+  <Entry Index="559">&lt;nickname&gt;, aren't you going to sleep? It's not
+good to stay up too late and all.&lt;wait&gt;</Entry>
+  <Entry Index="560">G'night, &lt;nickname&gt;. I'd better get to bed, too.&lt;wait&gt;</Entry>
+  <Entry Index="561">Good night, &lt;nickname&gt;. Work really takes it out
+of you, huh?&lt;wait&gt;</Entry>
+  <Entry Index="562">Night. Today sure was busy, huh?&lt;wait&gt;</Entry>
+  <Entry Index="563">Good night. I'm off to bed.&lt;wait&gt;</Entry>
+  <Entry Index="564">Good night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="565">Good night and fair dreams to end another
+productive day.&lt;wait&gt;</Entry>
+  <Entry Index="566">I hope it's a nice day tomorrow. See you in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="567">C'mon, &lt;nickname&gt;. Don't let work keep you up so
+late. It can wait. Get some sleep.&lt;wait&gt;</Entry>
+  <Entry Index="568">Being tired after a hard day of work isn't a bad thing,
+you know.&lt;wait&gt;</Entry>
+  <Entry Index="569">Tomorrow'll come earlier than you think. Better get
+some sleep.&lt;wait&gt;</Entry>
+  <Entry Index="570">Don't stay up too late, all right?&lt;wait&gt;</Entry>
+  <Entry Index="571">I am going to sleep.&lt;wait&gt;&lt;page&gt;
+&lt;nickname&gt;, you go to sleep soon too, yes?&lt;wait&gt;</Entry>
+  <Entry Index="572">Let us save our discussion for tomorrow. Delicious sleep
+awaits.&lt;wait&gt;</Entry>
+  <Entry Index="573">G'night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="574">Night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="575">Good night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="576">Night, &lt;nickname&gt;. See you in the morn.&lt;wait&gt;</Entry>
+  <Entry Index="577">Good night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="578">Good night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="579">Good night and restful slumber after another day well
+done.&lt;wait&gt;</Entry>
+  <Entry Index="580">You really burn the midnight oil, don't you,
+&lt;nickname&gt;?&lt;wait&gt;</Entry>
+  <Entry Index="581">Y'know, waking up next to you is something real special,
+&lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="582">Do you always work this late, &lt;nickname&gt;?
+That's impressive.&lt;wait&gt;</Entry>
+  <Entry Index="583">Y'know, it's a nice feeling being married. Knowing you'll
+always be there just makes me so happy.&lt;wait&gt;</Entry>
+  <Entry Index="584">Y'know, it's a nice feeling being married. Knowing you'll
+always be there just makes me so happy.&lt;wait&gt;</Entry>
+  <Entry Index="585">Getting plenty of sleep is the key to lasting health.
+Be sure not to stay up too late, all right?&lt;wait&gt;</Entry>
+  <Entry Index="586">Getting plenty of sleep is the key to lasting health.
+Be sure not to stay up too late, all right?&lt;wait&gt;</Entry>
+  <Entry Index="587">&lt;nickname&gt;, you are a hard worker. That is a good
+thing.&lt;wait&gt;</Entry>
+  <Entry Index="588">Tomorrow we shall once again look to the delicious and
+the delectable.&lt;wait&gt;</Entry>
+  <Entry Index="589">G'night, &lt;nickname&gt;. ∀ I'm off to bed.&lt;wait&gt;</Entry>
+  <Entry Index="590">G'night, &lt;nickname&gt;. ∀ I'm off to bed.&lt;wait&gt;</Entry>
+  <Entry Index="591">Night, &lt;nickname&gt;. See you in the morn.&lt;wait&gt;</Entry>
+  <Entry Index="592">Good night, &lt;nickname&gt;. Let's give it our all
+tomorrow too, okay?&lt;wait&gt;</Entry>
+  <Entry Index="593">Night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="594">Good night, &lt;nickname&gt;. Don't work too late,
+all right?&lt;wait&gt;</Entry>
+  <Entry Index="595">&lt;nickname&gt;, good night.&lt;wait&gt;</Entry>
+  <Entry Index="596">Good night and delicious dreams, &lt;nickname&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="597">&lt;nickname&gt;, hanging out with you is so fun that
+the day just zooms by.&lt;wait&gt;</Entry>
+  <Entry Index="598">Man, this farm life stuff is relaxing. Taking in that crisp
+morning air is real nice. Calming, y'know?&lt;wait&gt;</Entry>
+  <Entry Index="599">Just having you here with me makes every day more fun
+than I thought possible.&lt;wait&gt;</Entry>
+  <Entry Index="600">Y'know, there's a lot more to farming than
+I thought. I had no idea you could do half
+this stuff, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="601">Please make sure you get plenty of sleep. I don't want to
+see you carted into my Clinic because you collapsed.&lt;wait&gt;</Entry>
+  <Entry Index="602">&lt;nickname&gt;, you lived in this big house all alone?
+Such waste. So much space you could sell, yes?&lt;wait&gt;</Entry>
+  <Entry Index="603">&lt;nickname&gt;, are you off to work again?
+Give it your best.&lt;wait&gt;</Entry>
+  <Entry Index="604">Big Bed&lt;wait&gt;</Entry>
+  <Entry Index="605">Sorry. I'm not in the mood to talk any more tonight.&lt;wait&gt;</Entry>
+  <Entry Index="606">Ugh. Leave me alone already!&lt;wait&gt;</Entry>
+  <Entry Index="607">G'night. See ya in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="608">Oh geez, I'm such a night owl. When the sun goes down
+I just wanna head out and have some fun.&lt;wait&gt;</Entry>
+  <Entry Index="609">G'night.&lt;wait&gt;</Entry>
+  <Entry Index="610">I'd get to sleep soon if I were you. If you don't,
+you're gonna regret it in the morning!&lt;wait&gt;</Entry>
+  <Entry Index="611">Night. See you in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="612">Let's give it our all tomorrow, ‘kay?&lt;wait&gt;</Entry>
+  <Entry Index="613">&lt;nickname&gt;! G'night!&lt;wait&gt;</Entry>
+  <Entry Index="614">It stinks how much time we waste sleeping. It would be so
+cool if tomorrow could get here sooner.&lt;wait&gt;</Entry>
+  <Entry Index="615">...&lt;wait&gt;</Entry>
+  <Entry Index="616">...&lt;wait&gt;</Entry>
+  <Entry Index="617">&lt;nickname&gt;, guess what? I stayed up juuust
+so I could be awake when you got home!&lt;wait&gt;</Entry>
+  <Entry Index="618">But I'm sleepy now. I'm gonna go to bed.&lt;wait&gt;</Entry>
+  <Entry Index="619">*yawn* I get sooo sleepy sooo fast.&lt;wait&gt;</Entry>
+  <Entry Index="620">See? My hands are nice and toasty warm already.&lt;wait&gt;</Entry>
+  <Entry Index="621">&lt;nickname&gt;, I betcha you're worn out after all
+that work you did today.&lt;wait&gt;</Entry>
+  <Entry Index="622">When you work really hard, you sleep like a log.
+I love that feeling. ∀&lt;wait&gt;</Entry>
+  <Entry Index="623">When you work really hard, you sleep like a log.
+I love that feeling. ∀&lt;wait&gt;</Entry>
+  <Entry Index="624">G'night! Time for lotsa good sleep after a long day
+of work!&lt;wait&gt;</Entry>
+  <Entry Index="625">C'mon, why are you still up? I wanna go to sleep.
+You come to bed soon too, 'kay? ∀&lt;wait&gt;</Entry>
+  <Entry Index="626">C'mon, why are you still up? I wanna go to sleep.
+You come to bed soon too, 'kay? ∀&lt;wait&gt;</Entry>
+  <Entry Index="627">Ugh. I'm so beat.&lt;wait&gt;</Entry>
+  <Entry Index="628">Go away!&lt;wait&gt;</Entry>
+  <Entry Index="629">*yaaaaawn* So tired. I think I'm gonna go to bed early
+tonight.&lt;wait&gt;</Entry>
+  <Entry Index="630">&lt;nickname&gt;, shouldn't you go to bed soon too?&lt;wait&gt;&lt;page&gt;
+You don't wanna oversleep again, do you?&lt;wait&gt;</Entry>
+  <Entry Index="631">G'niiiight...&lt;wait&gt;</Entry>
+  <Entry Index="632">Okay! Time to get some sleep and recharge for
+tomorrow!&lt;wait&gt;</Entry>
+  <Entry Index="633">G'night! Let's both work real hard again tomorrow, 'kay?&lt;wait&gt;</Entry>
+  <Entry Index="634">May tomorrow be an awesome day for everybody!&lt;wait&gt;</Entry>
+  <Entry Index="635">...&lt;wait&gt;</Entry>
+  <Entry Index="636">Aaaaand...g'night! ∀ Boy, today went by in the blink of an
+eye, didn't it?&lt;wait&gt;</Entry>
+  <Entry Index="637">Aaaaand...g'night! ∀ Boy, today went by in the blink of an
+eye, didn't it?&lt;wait&gt;</Entry>
+  <Entry Index="638">...Is it me, or have you been a little distant lately?&lt;wait&gt;</Entry>
+  <Entry Index="639">Dedicating time to your work is all well and good, but I'd
+like you to dedicate at least a little time to me, too.&lt;wait&gt;</Entry>
+  <Entry Index="640">Good night.&lt;wait&gt;</Entry>
+  <Entry Index="641">You go on to bed. I'm not particularly sleepy yet.&lt;wait&gt;</Entry>
+  <Entry Index="642">Good night.&lt;wait&gt;</Entry>
+  <Entry Index="643">Don't worry, &lt;nickname&gt;. I won't mysteriously
+vanish while you're asleep.&lt;wait&gt;</Entry>
+  <Entry Index="644">You're pretty tired after today, aren't you? Why don't
+you go to sleep? Good night.&lt;wait&gt;</Entry>
+  <Entry Index="645">Oh, if you have any interesting dreams, tell me.
+Make sure to remember them when you wake up.&lt;wait&gt;</Entry>
+  <Entry Index="646">I love it when evening falls. It's such a quiet, peaceful
+time. Before I know it, it's nearly dawn.&lt;wait&gt;&lt;page&gt;
+So many times I've stayed late in the Library reading,
+only to fall asleep right in my book.&lt;wait&gt;</Entry>
+  <Entry Index="647">I'd love it if you could stay up with me, but...&lt;wait&gt;&lt;page&gt;
+Well, you have a lot of work to do every day.&lt;wait&gt;</Entry>
+  <Entry Index="648">Sorry. I'm too tired right now. Can you save it until
+morning?&lt;wait&gt;</Entry>
+  <Entry Index="649">...&lt;wait&gt;</Entry>
+  <Entry Index="650">Boy, today sure was tiring.&lt;wait&gt;</Entry>
+  <Entry Index="651">*yawn* I'm sleepy.&lt;wait&gt;</Entry>
+  <Entry Index="652">Good night.&lt;wait&gt;</Entry>
+  <Entry Index="653">Don't stay up too late, okay? Come to bed soon.&lt;wait&gt;</Entry>
+  <Entry Index="654">Good night. Make sure you get enough sleep to fully
+refresh yourself.&lt;wait&gt;</Entry>
+  <Entry Index="655">Oh, come now. Hurry and get in bed already.&lt;wait&gt;</Entry>
+  <Entry Index="656">Good night, &lt;nickname&gt;. I'll see you in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="657">Never you mind me. Go on to bed.&lt;wait&gt;</Entry>
+  <Entry Index="658">I am sleepy.&lt;wait&gt;</Entry>
+  <Entry Index="659">I am sleeping now, yes?&lt;wait&gt;</Entry>
+  <Entry Index="660">Sleep well. Many good dreams.&lt;wait&gt;</Entry>
+  <Entry Index="661">Good night.&lt;wait&gt;</Entry>
+  <Entry Index="662">Go to bed soon. Without sleep, morning will come like an
+angry dragon, yes?&lt;wait&gt;</Entry>
+  <Entry Index="663">Good night. See you in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="664">Let's both work hard and bring in the money tomorrow.&lt;wait&gt;</Entry>
+  <Entry Index="665">Good night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="666">I am most tired.&lt;wait&gt;</Entry>
+  <Entry Index="667">Please, my pillow calls to me.&lt;wait&gt;</Entry>
+  <Entry Index="668">Good night.&lt;wait&gt;</Entry>
+  <Entry Index="669">Good night. May your dreams be as light and airy as the
+finest of meringues.&lt;wait&gt;</Entry>
+  <Entry Index="670">The dough will not rise if you do not let it rest.
+Understand?&lt;wait&gt;</Entry>
+  <Entry Index="671">Good night. I will see you in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="672">Let us both give the new day our very best.&lt;wait&gt;</Entry>
+  <Entry Index="673">Good night, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="674">I do not wish to talk right now.&lt;wait&gt;</Entry>
+  <Entry Index="675">Leave me to my dreams.&lt;wait&gt;</Entry>
+  <Entry Index="676">I am going to sleep early. A weary mind produces
+no masterpieces.&lt;wait&gt;</Entry>
+  <Entry Index="677">It is well past the time for sleep.&lt;wait&gt;</Entry>
+  <Entry Index="678">What keeps you from your pillow, &lt;nickname&gt;?
+A beautiful tomorrow can only be created with
+a good night's sleep, you know.&lt;wait&gt;</Entry>
+  <Entry Index="679">I do so hope it's sunny tomorrow.&lt;wait&gt;</Entry>
+  <Entry Index="680">Fair dreams, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="681">Are you sure you're getting enough rest?&lt;wait&gt;</Entry>
+  <Entry Index="682">I'm off to bed. Until the morrow, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="683">Now that we're together, the rhythm of my daily life has
+changed. In a good way, of course.&lt;wait&gt;</Entry>
+  <Entry Index="684">Sorry, but I don't feel like talking right now.&lt;wait&gt;</Entry>
+  <Entry Index="685">I'm off to sleep.&lt;wait&gt;</Entry>
+  <Entry Index="686">I didn't feel any energy today. On days when Mother
+Nature's power is at an ebb, it's important to get to
+sleep early.&lt;wait&gt;</Entry>
+  <Entry Index="687">You go to sleep soon too, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+  <Entry Index="688">See you tomorrow.&lt;wait&gt;</Entry>
+  <Entry Index="689">Let's get some rest. We have to be at our best for
+tomorrow.&lt;wait&gt;</Entry>
+  <Entry Index="690">Good night. May tomorrow be full of energy.&lt;wait&gt;</Entry>
+  <Entry Index="691">May tomorrow be overflowing with the earth's energy.&lt;wait&gt;</Entry>
+  <Entry Index="692">...&lt;wait&gt;</Entry>
+  <Entry Index="693">Looking back, each day flies by so quickly!&lt;wait&gt;</Entry>
+  <Entry Index="694">Books</Entry>
+  <Entry Index="695">Letters</Entry>
+  <Entry Index="696">Quit</Entry>
+  <Entry Index="697">I don't have any mail in here yet.&lt;wait&gt;</Entry>
+  <Entry Index="698">Current Farm Points...
+&lt;string0&gt;pts&lt;wait&gt;</Entry>
+  <Entry Index="699">Cook</Entry>
+  <Entry Index="700">View Recipes</Entry>
+  <Entry Index="701">Quit</Entry>
+  <Entry Index="702">I haven't made anything yet.&lt;wait&gt;</Entry>
+  <Entry Index="703">I can use this to cook as long as I don't have my hands full
+with anything else.&lt;wait&gt;</Entry>
+  <Entry Index="704">Change clothes?</Entry>
+  <Entry Index="705">Yes</Entry>
+  <Entry Index="706">No</Entry>
+  <Entry Index="707">It's kinda hard to get changed when my hands are full...&lt;wait&gt;</Entry>
+  <Entry Index="708">What do I want to wear?&lt;wait&gt;</Entry>
+  <Entry Index="709">Blue</Entry>
+  <Entry Index="710">Pink</Entry>
+  <Entry Index="711">Green</Entry>
+  <Entry Index="712">Orange</Entry>
+  <Entry Index="713">White</Entry>
+  <Entry Index="714">Red</Entry>
+  <Entry Index="715">That's what I was wearing before.&lt;wait&gt;</Entry>
+  <Entry Index="716">There! All changed!&lt;wait&gt;</Entry>
+  <Entry Index="717">Copper Sickle</Entry>
+  <Entry Index="718">Silver Sickle</Entry>
+  <Entry Index="719">Golden Sickle</Entry>
+  <Entry Index="720">Mithril Sickle</Entry>
+  <Entry Index="721">Mythic Sickle</Entry>
+  <Entry Index="722">Copper Hoe</Entry>
+  <Entry Index="723">Silver Hoe</Entry>
+  <Entry Index="724">Golden Hoe</Entry>
+  <Entry Index="725">Mithril Hoe</Entry>
+  <Entry Index="726">Mythic Hoe</Entry>
+  <Entry Index="727">Copper Axe</Entry>
+  <Entry Index="728">Silver Axe</Entry>
+  <Entry Index="729">Golden Axe</Entry>
+  <Entry Index="730">Mithril Axe</Entry>
+  <Entry Index="731">Mythic Axe</Entry>
+  <Entry Index="732">Copper Hammer</Entry>
+  <Entry Index="733">Silver Hammer</Entry>
+  <Entry Index="734">Golden Hammer</Entry>
+  <Entry Index="735">Mithril Hammer</Entry>
+  <Entry Index="736">Mythic Hammer</Entry>
+  <Entry Index="737">Copper Watering Can</Entry>
+  <Entry Index="738">Silver Watering Can</Entry>
+  <Entry Index="739">Golden Watering Can</Entry>
+  <Entry Index="740">Mithril Watering Can</Entry>
+  <Entry Index="741">Mythic Watering Can</Entry>
+  <Entry Index="742">Copper Fishing Rod</Entry>
+  <Entry Index="743">Silver Fishing Rod</Entry>
+  <Entry Index="744">Golden Fishing Rod</Entry>
+  <Entry Index="745">Mithril Fishing Rod</Entry>
+  <Entry Index="746">Mythic Fishing Rod</Entry>
+  <Entry Index="747">Bracelet</Entry>
+  <Entry Index="748">Necklace</Entry>
+  <Entry Index="749">Earrings</Entry>
+  <Entry Index="750">Brooch</Entry>
+  <Entry Index="751">Mayonnaise Maker</Entry>
+  <Entry Index="752">Cheese Maker</Entry>
+  <Entry Index="753">Yarn Maker (Coop)</Entry>
+  <Entry Index="754">The &lt;string0&gt; is finished. Go on and
+take it home with you.&lt;wait&gt;</Entry>
+  <Entry Index="755">The &lt;string0&gt; you ordered is ready.&lt;wait&gt;</Entry>
+  <Entry Index="756">I installed it on your farm.&lt;wait&gt;</Entry>
+  <Entry Index="757">The &lt;string0&gt; you ordered is ready.&lt;wait&gt;&lt;page&gt;
+Looks like you can't carry any more equipment, though.&lt;wait&gt;&lt;page&gt;
+I'll have Gray take it to your farm.&lt;wait&gt;</Entry>
+  <Entry Index="758">It looks like you can't carry any more equipment.&lt;wait&gt;&lt;page&gt;
+I'll have Gray take the &lt;string0&gt; to
+your farm.&lt;wait&gt;</Entry>
+  <Entry Index="759">The &lt;string0&gt; is finished, but...hrm.&lt;wait&gt;&lt;page&gt;
+You don't have any space to hold it. Come see me again
+when you have an empty slot.&lt;wait&gt;</Entry>
+  <Entry Index="760">The &lt;string0&gt; you ordered is
+finished, but it looks like you can't carry anything else.&lt;wait&gt;&lt;page&gt;
+I'll hold on to it until you've made some space.&lt;wait&gt;</Entry>
+  <Entry Index="761">I'm not finished with your order yet.&lt;wait&gt;</Entry>
+  <Entry Index="762">Seeds</Entry>
+  <Entry Index="763">Onigiri</Entry>
+  <Entry Index="764">Bread</Entry>
+  <Entry Index="765">Wrapping</Entry>
+  <Entry Index="766">Chocolate</Entry>
+  <Entry Index="767">Other</Entry>
+  <Entry Index="768">...Oh yeah, that's right. Seeds aren't sold in winter.&lt;wait&gt;</Entry>
+  <Entry Index="769">Oops! I don't have enough gold.&lt;wait&gt;</Entry>
+  <Entry Index="770">Curry Powder</Entry>
+  <Entry Index="771">Dango Flour</Entry>
+  <Entry Index="772">Back</Entry>
+  <Entry Index="773">Wheat Flour</Entry>
+  <Entry Index="774">Oil</Entry>
+  <Entry Index="775">Quit</Entry>
+  <Entry Index="776">Van's Store</Entry>
+  <Entry Index="777">Ugh, I don't feel so good... I think I should skip work for
+today and just go to bed.&lt;wait&gt;</Entry>
+  <Entry Index="778">Ugh, I don't feel so good... Maybe I should have something
+that'll help with Fatigue before doing anything else.&lt;wait&gt;</Entry>
+  <Entry Index="779">It's awfully late. I should probably hit the hay.&lt;wait&gt;</Entry>
+  <Entry Index="780">It's almost dawn. I should probably get at least a few
+hours of sleep.&lt;wait&gt;</Entry>
+  <Entry Index="781">It's night.&lt;wait&gt;</Entry>
+  <Entry Index="782">It's really late at night.&lt;wait&gt;</Entry>
+  <Entry Index="783">I'm gonna give today my best!&lt;wait&gt;</Entry>
+  <Entry Index="784">It's morning.&lt;wait&gt;</Entry>
+  <Entry Index="785">It's still only midday. I should probably get some more
+work done before I call it a day.&lt;wait&gt;</Entry>
+  <Entry Index="786">It's midday.&lt;wait&gt;</Entry>
+  <Entry Index="787">It's still only late afternoon. I should probably go get some
+more work done.&lt;wait&gt;</Entry>
+  <Entry Index="788">It's late afternoon.&lt;wait&gt;</Entry>
+  <Entry Index="789">It's starting to get dark. I should probably wrap up my
+chores for today.&lt;wait&gt;</Entry>
+  <Entry Index="790">It's evening.&lt;wait&gt;</Entry>
+  <Entry Index="791">It's pretty dark out now. I should probably wrap up my
+chores for today.&lt;wait&gt;</Entry>
+  <Entry Index="792">It's night.&lt;wait&gt;</Entry>
+  <Entry Index="793">Working in bad weather is stressful enough. If I keep
+working this late, I'll really wear myself out.&lt;wait&gt;</Entry>
+  <Entry Index="794">Trying to use tools in this terrible weather is gonna take
+some work. I'd better be careful and not push myself too
+much.&lt;wait&gt;</Entry>
+  <Entry Index="795">I can't go outside in this typhoon anyway. Might as well
+just go to sleep.&lt;wait&gt;</Entry>
+  <Entry Index="796">Boy, that wind is really blowing out there. My house will
+stay up, though...right?&lt;wait&gt;</Entry>
+  <Entry Index="797">I can't go outside in this blizzard anyway. Might as well
+catch some shuteye.&lt;wait&gt;</Entry>
+  <Entry Index="798">Boy, it sure is snowing like crazy. My house will stay up,
+though...right?&lt;wait&gt;</Entry>
+  <Entry Index="799">Yarn Maker (Barn)</Entry>
+  <Entry Index="800">Jam Maker</Entry>
+  <Entry Index="801">Butter Maker</Entry>
+  <Entry Index="802">Record Player&lt;wait&gt;</Entry>
+  <Entry Index="803">   １／１０</Entry>
+  <Entry Index="804">Opening</Entry>
+  <Entry Index="805">Title Screen</Entry>
+  <Entry Index="806">Mute</Entry>
+  <Entry Index="807">Quit</Entry>
+  <Entry Index="808">   ２／１０</Entry>
+  <Entry Index="809">Spring</Entry>
+  <Entry Index="810">Summer</Entry>
+  <Entry Index="811">Autumn</Entry>
+  <Entry Index="812">Winter</Entry>
+  <Entry Index="813">   ３／１０</Entry>
+  <Entry Index="814">Rain</Entry>
+  <Entry Index="815">Typhoon</Entry>
+  <Entry Index="816">Town</Entry>
+  <Entry Index="817">Beach</Entry>
+  <Entry Index="818">   ４／１０</Entry>
+  <Entry Index="819">Evening</Entry>
+  <Entry Index="820">Animal Death</Entry>
+  <Entry Index="821">Rivals</Entry>
+  <Entry Index="822">Romance</Entry>
+  <Entry Index="823">   ５／１０</Entry>
+  <Entry Index="824">Yearly Events 1</Entry>
+  <Entry Index="825">Yearly Events 2</Entry>
+  <Entry Index="826">Yearly Events 3</Entry>
+  <Entry Index="827">Annual Concert</Entry>
+  <Entry Index="828">   ６／１０</Entry>
+  <Entry Index="829">Wedding Ceremony</Entry>
+  <Entry Index="830">Mini-games</Entry>
+  <Entry Index="831">Nature Sprites</Entry>
+  <Entry Index="832">Record 1</Entry>
+  <Entry Index="833">   ７／１０</Entry>
+  <Entry Index="834">Record 2</Entry>
+  <Entry Index="835">Record 3</Entry>
+  <Entry Index="836">Record 4</Entry>
+  <Entry Index="837">Record 5</Entry>
+  <Entry Index="838">   ８／１０</Entry>
+  <Entry Index="839">Record 6</Entry>
+  <Entry Index="840">Record 7</Entry>
+  <Entry Index="841">Record 8</Entry>
+  <Entry Index="842">Record 9</Entry>
+  <Entry Index="843">   ９／１０</Entry>
+  <Entry Index="844">Record 10</Entry>
+  <Entry Index="845">New Record 1</Entry>
+  <Entry Index="846">New Record 2</Entry>
+  <Entry Index="847">New Record 3</Entry>
+  <Entry Index="848">   10／１０</Entry>
+  <Entry Index="849">New Record 4</Entry>
+  <Entry Index="850">New Record 5</Entry>
+  <Entry Index="851">Ending</Entry>
+  <Entry Index="852">Table&lt;wait&gt;</Entry>
+  <Entry Index="853">Aww. My Stocking is empty.&lt;wait&gt;</Entry>
+  <Entry Index="854">Yay! There's a present in my Stocking!&lt;wait&gt;</Entry>
+  <Entry Index="855">It's a piece of Mithril!&lt;wait&gt;</Entry>
+  <Entry Index="856">But I can't pick it up if I'm already holding something...&lt;wait&gt;</Entry>
+  <Entry Index="857">It's a piece of Orichalcum!&lt;wait&gt;</Entry>
+  <Entry Index="858">It's a Moonstone!&lt;wait&gt;</Entry>
+  <Entry Index="859">It's a Sandrose!&lt;wait&gt;</Entry>
+  <Entry Index="860">It's a piece of Alexandrite!&lt;wait&gt;</Entry>
+  <Entry Index="861">Stocking Hook&lt;wait&gt;</Entry>
+  <Entry Index="862">...</Entry>
+  <Entry Index="863">－－－－－－－</Entry>
+  <Entry Index="864">........................................................................................................................&lt;wait&gt;</Entry>
+  <Entry Index="865">............................................................
+..AH.....................................................
+...........................................................&lt;wait&gt;</Entry>
+  <Entry Index="866">............................................................
+............................................................
+............................................................&lt;wait&gt;</Entry>
+  <Entry Index="867">ZA........................................................
+............................................................
+............................................................&lt;wait&gt;</Entry>
+  <Entry Index="868">........................................................................................................................&lt;wait&gt;</Entry>
+  <Entry Index="869">............................................................
+............................................................
+..............................Master...................&lt;wait&gt;</Entry>
+  <Entry Index="870">........................................................................................................................&lt;wait&gt;</Entry>
+  <Entry Index="871">BEEEEEEEEEEEEEEEEEEEEEEEE............................................................
+...................................&lt;wait&gt;</Entry>
+  <Entry Index="872">Dear Princess
+Part &lt;string0&gt;</Entry>
+  <Entry Index="873">+1</Entry>
+  <Entry Index="874">-1</Entry>
+  <Entry Index="875">Watch Episode</Entry>
+  <Entry Index="876">Turn TV off</Entry>
+  <Entry Index="877">Fish or Be Fished
+&lt;string1&gt; &lt;string0&gt;</Entry>
+  <Entry Index="878">Stew</Entry>
+  <Entry Index="879">Fried Rice</Entry>
+  <Entry Index="880">Fruit Juice</Entry>
+  <Entry Index="881">Mayonnaise</Entry>
+  <Entry Index="882">Baked Yam</Entry>
+  <Entry Index="883">Raisin Bread</Entry>
+  <Entry Index="884">Churros</Entry>
+  <Entry Index="885">Udon</Entry>
+  <Entry Index="886">Baumkuchen</Entry>
+  <Entry Index="887">Matsutake</Entry>
+  <Entry Index="888">Dumplings</Entry>
+  <Entry Index="889">Stamina Booster XL</Entry>
+  <Entry Index="890">Tasty Time: &lt;string0&gt;</Entry>
+  <Entry Index="891">Going to School 1</Entry>
+  <Entry Index="892">Going to School 2</Entry>
+  <Entry Index="893">Going to School 3</Entry>
+  <Entry Index="894">Going to School 4</Entry>
+  <Entry Index="895">Going to School 5</Entry>
+  <Entry Index="896">Going to School 6</Entry>
+  <Entry Index="897">Going to School 7</Entry>
+  <Entry Index="898">Going to School 8</Entry>
+  <Entry Index="899">Going to School 9</Entry>
+  <Entry Index="900">Going to School 10</Entry>
+  <Entry Index="901">Social Studies 1</Entry>
+  <Entry Index="902">Social Studies 2</Entry>
+  <Entry Index="903">Music</Entry>
+  <Entry Index="904">Phys Ed. 1</Entry>
+  <Entry Index="905">Phys Ed. 2</Entry>
+  <Entry Index="906">Phys Ed. 3</Entry>
+  <Entry Index="907">Phys Ed. 4</Entry>
+  <Entry Index="908">Phys Ed. 5</Entry>
+  <Entry Index="909">Phys Ed. 6</Entry>
+  <Entry Index="910">Phys Ed. 7</Entry>
+  <Entry Index="911">Phys Ed. 8</Entry>
+  <Entry Index="912">Math 1</Entry>
+  <Entry Index="913">Math 2</Entry>
+  <Entry Index="914">Math 3</Entry>
+  <Entry Index="915">Math 4</Entry>
+  <Entry Index="916">Math 5</Entry>
+  <Entry Index="917">Math 6</Entry>
+  <Entry Index="918">Lunch Recess 1</Entry>
+  <Entry Index="919">Lunch Recess 2</Entry>
+  <Entry Index="920">Lunch Recess 3</Entry>
+  <Entry Index="921">Lunch Recess 4</Entry>
+  <Entry Index="922">Language 1</Entry>
+  <Entry Index="923">Language 2</Entry>
+  <Entry Index="924">Language 3</Entry>
+  <Entry Index="925">After School 1</Entry>
+  <Entry Index="926">After School 2</Entry>
+  <Entry Index="927">After School 3</Entry>
+  <Entry Index="928">After School 4</Entry>
+  <Entry Index="929">After School 5</Entry>
+  <Entry Index="930">Swip-Swap: &lt;string0&gt;</Entry>
+  <Entry Index="931">Star Lily, Heart Snatcher☆
+Episode &lt;string0&gt;</Entry>
+  <Entry Index="932">Mechabot Ultror: Autumn Breeze
+Episode &lt;string0&gt;</Entry>
+  <Entry Index="933">Ow!&lt;wait&gt;</Entry>
+  <Entry Index="934">[Vase]
+You can put flowers in this.&lt;wait&gt;</Entry>
+  <Entry Index="935">Do I want to throw out this flower?</Entry>
+  <Entry Index="936">Grape Vine&lt;wait&gt;</Entry>
+  <Entry Index="937">Mailbox&lt;wait&gt;</Entry>
+  <Entry Index="938">Streetlight&lt;wait&gt;</Entry>
+  <Entry Index="939">Aha! There's a Truth Jewel hiding under this streetlight.&lt;wait&gt;</Entry>
+  <Entry Index="940">Aha! There's a Truth Jewel hiding under this streetlight.&lt;wait&gt;&lt;page&gt;
+...But I'm already holding something, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="941">Aha! There's a Truth Jewel hiding under this streetlight.&lt;wait&gt;&lt;page&gt;
+...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="942">A statue of the Harvest Goddess. She's beautiful...&lt;wait&gt;</Entry>
+  <Entry Index="943">I haven't finished tidying the upstairs, you know.
+Could you not go up there right now, please?&lt;wait&gt;</Entry>
+  <Entry Index="944">Park Bench&lt;wait&gt;</Entry>
+  <Entry Index="945">Hey, &lt;playername&gt;! Just what do you think you're doing putting up that tacky gold fence on your farm?!&lt;wait&gt;</Entry>
+  <Entry Index="946">☆The MOCHI BONANZA is coming!
+When: Spring 1st, 6:00 PM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+Everyone, come join us in enjoying some
+fresh and tasty mochi! All are welcome.
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="947">☆The SPRING DERBY is coming!
+When: Spring 18th, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+Wonderful prizes await the winners!
+Sign up at the Plaza to participate.
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="948">☆The COOKING EXHIBITION is coming!
+When: Spring 22nd, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+Are you confident in your cooking?
+Come display your skills!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="949">☆The FETCH FEST is coming!
+When: Summer 1st, 10:00 AM~
+Where: Mineral Beach&lt;wait&gt;&lt;page&gt;
+Kick off summer with a fun contest! Bring your pets!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="950">☆The CLUCK-CLUCK CLASH is coming!
+When: Summer 7th, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+Can your chicken claim the crown?
+Which bird will crow their way to victory?!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="951">☆The MOO-MOO FESTIVAL is coming!
+When: Summer 20th, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+MOOsey on down with your best cow and show everyone
+just how wonderful they are!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="952">☆The FIREWORKS DISPLAY is coming!
+When: Summer 24th, 6:00 PM~
+Where: Mineral Beach&lt;wait&gt;&lt;page&gt;
+Come join us and say goodbye to summer with a bang!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="953">☆The CONCERT is coming!
+When: Autumn 3rd, 6:00 PM~
+Where: Church&lt;wait&gt;&lt;page&gt;
+Come and let some wonderful music liven up
+the long autumn evening!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="954">☆The HARVEST FESTIVAL is coming!
+When: Autumn 9th, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+Come and join in this community event and celebrate the
+delicious foods of the season!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="955">☆The AUTUMN DERBY is coming!
+When: Autumn 18th, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+Ride to victory and win a prize!
+Sign up at Rose Plaza to participate.
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="956">☆The FLUFFY FESTIVAL is coming!
+When: Autumn 21st, 10:00 AM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+All participants should ensure their animals are at their
+fluffiest before joining!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="957">☆NEW YEAR'S PARTY and NEW YEAR'S SOBA
+are coming! Join us in celebrating the new year.&lt;wait&gt;&lt;page&gt;
+☆NEW YEAR'S PARTY
+When: Winter 30th, Midnight~
+Where: Mother's Hill Summit&lt;wait&gt;&lt;page&gt;
+☆NEW YEAR'S SOBA
+When: Winter 30th, 6:00 PM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+We look forward to seeing everyone there!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="958">☆NEW YEAR'S PARTY, NEW YEAR'S SOBA, and the
+MOCHI BONANZA are coming!&lt;wait&gt;&lt;page&gt;
+Usher out the old year and in the new with fabulous food!&lt;wait&gt;&lt;page&gt;
+☆NEW YEAR'S PARTY
+When: Winter 30th, Midnight~
+Where: Mother's Hill Summit&lt;wait&gt;&lt;page&gt;
+☆NEW YEAR'S SOBA
+When: Winter 30th, 6:00 PM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+☆MOCHI BONANZA
+When: Spring 1st, 6:00 PM~
+Where: Rose Plaza&lt;wait&gt;&lt;page&gt;
+We look forward to seeing everyone there!
+-The Mayor&lt;wait&gt;</Entry>
+  <Entry Index="959">Good day! Are you ready to start the race?
+Or perhaps you'd like to purchase a ticket?
+I will trade for prizes as well.&lt;wait&gt;</Entry>
+  <Entry Index="960">Start race</Entry>
+  <Entry Index="961">Purchase tickets and start race</Entry>
+  <Entry Index="962">Prize exchange</Entry>
+  <Entry Index="963">Never mind</Entry>
+  <Entry Index="964">You'd like to start the race, then?&lt;wait&gt;</Entry>
+  <Entry Index="965">Excellent! Without further ado... Everyone, please get on
+your marks.&lt;wait&gt;</Entry>
+  <Entry Index="966">All right. Please come speak to me when you're ready.&lt;wait&gt;</Entry>
+  <Entry Index="967">You'd like a ticket? Excellent! Just be aware that
+once you buy it, the race will begin.</Entry>
+  <Entry Index="968">You'd like to trade medals for prizes, then?&lt;wait&gt;</Entry>
+  <Entry Index="969">I'm afraid I'll have to ask you to put away what you're
+carrying before I can trade anything with you.&lt;wait&gt;</Entry>
+  <Entry Index="970">Trade for prizes</Entry>
+  <Entry Index="971">Mind if we get on with the judging? I'd like to pick the
+winning cow sometime soon, but here's a reminder before
+we do...&lt;wait&gt;&lt;page&gt;
+Be sure to leave some space in your Bag in case you win!
+We can't give you a trophy if your Bag's full.&lt;wait&gt;&lt;page&gt;
+Now, then, are you ready?&lt;wait&gt;</Entry>
+  <Entry Index="972">Begin</Entry>
+  <Entry Index="973">Wait</Entry>
+  <Entry Index="974">Good, good. Let's be on with it, then.&lt;wait&gt;</Entry>
+  <Entry Index="975">All right. Whenever you're ready, come let me know.&lt;wait&gt;</Entry>
+  <Entry Index="976">Table&lt;wait&gt;</Entry>
+  <Entry Index="977">Mind if we get on with the judging? I'd like to pick the
+winning animal sometime soon, but here's a reminder
+before we do...&lt;wait&gt;&lt;page&gt;
+Be sure to leave some space in your Bag in case you win!
+We can't give you a trophy if your Bag's full.&lt;wait&gt;&lt;page&gt; 
+Now, then, are you ready?&lt;wait&gt;</Entry>
+  <Entry Index="978">[Plaza Garbage Bin]
+I can toss my trash in here.&lt;wait&gt;</Entry>
+  <Entry Index="979">Now then, are we ready to begin the Mochi Bonanza?&lt;wait&gt;</Entry>
+  <Entry Index="980">Though, if your hands are already full, we won't be able
+to give you any mochi cakes. Do you mind?&lt;wait&gt;</Entry>
+  <Entry Index="981">Begin</Entry>
+  <Entry Index="982">Wait</Entry>
+  <Entry Index="983">Well then, without further ado...&lt;wait&gt;</Entry>
+  <Entry Index="984">Oh? All right. Please come speak to me whenever you're
+ready, then.&lt;wait&gt;</Entry>
+  <Entry Index="985">Now then, are we ready to begin the New Year's Soba?&lt;wait&gt;</Entry>
+  <Entry Index="986">If your hands are already full, we won't be able to give
+you any soba, though. Do you mind?&lt;wait&gt;</Entry>
+  <Entry Index="987">Well then, without further ado, let's dig in!&lt;wait&gt;</Entry>
+  <Entry Index="988">All right. Please come speak to me when you're
+ready to eat.&lt;wait&gt;</Entry>
+  <Entry Index="989">Long Table&lt;wait&gt;</Entry>
+  <Entry Index="990">Hammer &amp; Mortar&lt;wait&gt;</Entry>
+  <Entry Index="991">Streetlight&lt;wait&gt;</Entry>
+  <Entry Index="992">&lt;playername&gt;, where are you going?&lt;wait&gt;&lt;page&gt;
+Sir Bon Vivant has yet to announce what the theme of
+this year's exhibition is.&lt;wait&gt;</Entry>
+  <Entry Index="993">Hmm, now what should I cook? I'll bring whatever I make
+to the Plaza!&lt;wait&gt;</Entry>
+  <Entry Index="994">&lt;playername&gt;, where are you going? The judging has
+yet to begin.&lt;wait&gt;</Entry>
+  <Entry Index="995">Ahhh, that was fun. Welp, time to get back to work.&lt;wait&gt;</Entry>
+  <Entry Index="996">Where are you going? The Mochi Bonanza is just getting
+started.&lt;wait&gt;</Entry>
+  <Entry Index="997">Is something the matter? Our New Year's Soba feast is
+just getting started.&lt;wait&gt;</Entry>
+  <Entry Index="998">Erm, you are aware the races have yet to be run,
+correct?&lt;wait&gt;</Entry>
+  <Entry Index="999">Where are you going? This festival is just getting started.&lt;wait&gt;</Entry>
+  <Entry Index="1000">Where are you off to in such a hurry?&lt;wait&gt;</Entry>
+  <Entry Index="1001">Where are you off to so suddenly? The Fluffy Festival
+isn't over yet.&lt;wait&gt;</Entry>
+  <Entry Index="1002">Hey. I'm still organizing the barrels down there.
+Stay up here, yeah?&lt;wait&gt;</Entry>
+  <Entry Index="1003">Giant Barrel&lt;wait&gt;</Entry>
+  <Entry Index="1004">Barrel Rack&lt;wait&gt;</Entry>
+  <Entry Index="1005">Liquor Shelf&lt;wait&gt;</Entry>
+  <Entry Index="1006">Painting&lt;wait&gt;</Entry>
+  <Entry Index="1007">[Cheese Maker]
+Put Milk in here to make Cheese.&lt;wait&gt;</Entry>
+  <Entry Index="1008">There is no Fodder in the Silo.&lt;wait&gt;</Entry>
+  <Entry Index="1009">[Breeding Bin]
+Food for pregnant animals goes in here.&lt;wait&gt;</Entry>
+  <Entry Index="1010">Fodder
+Total Bushels: &lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="1011">[Yarn Maker]
+Put Wool, Fur, or Fleece in here to make balls of Yarn.&lt;wait&gt;</Entry>
+  <Entry Index="1012">[Shipping Bin]
+Put items in here to be shipped. Payment will be tallied
+every evening.&lt;wait&gt;</Entry>
+  <Entry Index="1013">[Butter Maker]
+Add Milk to make Butter.&lt;wait&gt;</Entry>
+  <Entry Index="1014">Welcome.&lt;wait&gt;</Entry>
+  <Entry Index="1015">Orange Bin&lt;wait&gt;</Entry>
+  <Entry Index="1016">My, my! Is there something I can help you with?&lt;wait&gt;</Entry>
+  <Entry Index="1017">Welcome, dear customer! You wish to use that ticket,
+yes?&lt;wait&gt;</Entry>
+  <Entry Index="1018">Use ticket</Entry>
+  <Entry Index="1019">Not today</Entry>
+  <Entry Index="1020">Okay. Here we go, then.&lt;wait&gt;&lt;page&gt;
+Match three numbers, and I will give you a nice prize.
+Say a prayer to Lady Luck that they match.&lt;wait&gt;&lt;page&gt;
+Ready? Now we begin.&lt;wait&gt;</Entry>
+  <Entry Index="1021">I see. You come to me when you want to use that ticket.
+Any time is good. Understand? Good.&lt;wait&gt;</Entry>
+  <Entry Index="1022">Welcome, dear customer. How may I serve you?&lt;wait&gt;</Entry>
+  <Entry Index="1023">I want to buy stuff.</Entry>
+  <Entry Index="1024">I want to sell stuff.</Entry>
+  <Entry Index="1025">I came to challenge you!</Entry>
+  <Entry Index="1026">Not while your hands are full, yes? Put away what you're
+carrying and come again.&lt;wait&gt;</Entry>
+  <Entry Index="1027">One try costs 100G. Is this acceptable?&lt;wait&gt;</Entry>
+  <Entry Index="1028">Sure</Entry>
+  <Entry Index="1029">Nah</Entry>
+  <Entry Index="1030">Okay. We begin now.&lt;wait&gt;</Entry>
+  <Entry Index="1031">I see. Come challenge me whenever you want.&lt;wait&gt;</Entry>
+  <Entry Index="1032">One try costs 100G, but you do not seem to have
+sufficient funds, &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
+Come again when you have money, okay?&lt;wait&gt;</Entry>
+  <Entry Index="1033">Welcome, dear customer.&lt;wait&gt;</Entry>
+  <Entry Index="1034">Welcome.&lt;wait&gt;</Entry>
+  <Entry Index="1035">Welcome. Do you want to buy a Basket?&lt;wait&gt;</Entry>
+  <Entry Index="1036">One Basket is 5,000G.</Entry>
+  <Entry Index="1037">Buy</Entry>
+  <Entry Index="1038">Don't buy</Entry>
+  <Entry Index="1039">Thank you. Please come again.&lt;wait&gt;</Entry>
+  <Entry Index="1040">Oops! I can't pick up anything to buy if my hands are
+already full.&lt;wait&gt;</Entry>
+  <Entry Index="1041">Oh? Are you sure?&lt;wait&gt;</Entry>
+  <Entry Index="1042">Um...s-sorry for the trouble, but it looks like you don't
+have enough money. A Basket costs 5,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1043">Oh? I thought you already owned a Basket.&lt;wait&gt;</Entry>
+  <Entry Index="1044">Welcome. Are you looking to buy a Blue Feather?&lt;wait&gt;</Entry>
+  <Entry Index="1045">A Blue Feather is 1,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1046">Thank you. Please come again.&lt;wait&gt;</Entry>
+  <Entry Index="1047">Thank you. Please come again.&lt;wait&gt;&lt;page&gt;
+Hm? Uh-oh. It looks like your Bag is full. I'll just have
+these delivered to your house later, then.&lt;wait&gt;</Entry>
+  <Entry Index="1048">I wanted to buy some stuff, but I forgot that I don't have
+any room...&lt;wait&gt;</Entry>
+  <Entry Index="1049">Oh? Are you sure?&lt;wait&gt;</Entry>
+  <Entry Index="1050">Um...s-sorry, but it looks like you don't have enough money.
+A Blue Feather costs 1,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1051">I thought you already owned a Blue Feather.&lt;wait&gt;</Entry>
+  <Entry Index="1052">Welcome. Are you looking to buy some Bread?
+It costs 100G per loaf. How many do you want?&lt;wait&gt;</Entry>
+  <Entry Index="1053">I wanted to buy some stuff, but I forgot that I don't have
+any room...&lt;wait&gt;</Entry>
+  <Entry Index="1054">I wanted to buy some stuff, but I forgot that I don't have
+enough money.&lt;wait&gt;</Entry>
+  <Entry Index="1055">Welcome. Are you looking to buy some Chocolate?
+It costs 100G per bar. How many would you like?&lt;wait&gt;</Entry>
+  <Entry Index="1056">Welcome. Are you looking to buy some Curry Powder?
+It costs 50G per bottle. How many do you want?&lt;wait&gt;</Entry>
+  <Entry Index="1057">Welcome. Are you looking to buy some Dango Flour?
+It costs 100G per sack. How many would you like?&lt;wait&gt;</Entry>
+  <Entry Index="1058">Welcome. Are you looking to buy some Wheat Flour?
+It costs 50G per sack. How many do you want?&lt;wait&gt;</Entry>
+  <Entry Index="1059">Welcome. Are you looking to buy some Oil?
+It costs 50G per bottle. How many would you like?&lt;wait&gt;</Entry>
+  <Entry Index="1060">Welcome. Wrapping will cost 100G. Unwrapping is free
+of charge, though. Would you like me to wrap something
+for you?&lt;wait&gt;</Entry>
+  <Entry Index="1061">Oops! I don't have an item to wrap.&lt;wait&gt;</Entry>
+  <Entry Index="1062">Which do you want wrapped?&lt;wait&gt;</Entry>
+  <Entry Index="1063">I highly recommend wrapping any presents.
+Please come again.&lt;wait&gt;</Entry>
+  <Entry Index="1064">Um...s-sorry, but it looks like you don't have enough money.&lt;wait&gt;</Entry>
+  <Entry Index="1065">Welcome. If you'd like to have an item wrapped as a
+present, it will cost 100G. Would you like to do that?&lt;wait&gt;</Entry>
+  <Entry Index="1066">Oops! I don't have an item to wrap.&lt;wait&gt;</Entry>
+  <Entry Index="1067">Which do you want wrapped?&lt;wait&gt;</Entry>
+  <Entry Index="1068">You switched to the screen where you choose which item to wrap.&lt;wait&gt;</Entry>
+  <Entry Index="1069">You'd rather not wrap anything? All right.&lt;wait&gt;</Entry>
+  <Entry Index="1070">Oops! I forgot I don't have enough money.&lt;wait&gt;</Entry>
+  <Entry Index="1071">Welcome. Are you looking to buy some Onigiri?
+They cost 100G each. How many do you want?&lt;wait&gt;</Entry>
+  <Entry Index="1072">Welcome. Are you looking to buy a Basic Bag?&lt;wait&gt;</Entry>
+  <Entry Index="1073">A Basic Bag is 3,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1074">Um...s-sorry, but it looks like you don't have enough money.
+A Basic Bag costs 3,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1075">A Big Bag is 5,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1076">Oh? Are you sure?&lt;wait&gt;</Entry>
+  <Entry Index="1077">Um...s-sorry, but it looks like you don't have enough money.
+A Big Bag costs 5,000G.&lt;wait&gt;</Entry>
+  <Entry Index="1078">I'm sorry. I don't have any more Bags for sale.&lt;wait&gt;</Entry>
+  <Entry Index="1079">What seems to be bothering you today? I presume you
+need some medicine. Which would you like?&lt;wait&gt;</Entry>
+  <Entry Index="1080">I can give you an examination, but it will cost 10G.&lt;wait&gt;</Entry>
+  <Entry Index="1081">All right, let's have a look at you.&lt;wait&gt;&lt;page&gt;
+Please open your mouth wide and say "aah."&lt;wait&gt;</Entry>
+  <Entry Index="1082">Mm-hmm, mm-hmm...&lt;wait&gt;&lt;page&gt;
+Yes...very good... Hm?&lt;wait&gt;&lt;page&gt;
+Oh right, right... Hmm...&lt;wait&gt;</Entry>
+  <Entry Index="1083">There, that ought to do it. Now let me give you the
+results.&lt;wait&gt;</Entry>
+  <Entry Index="1084">Your baby is just about ready to be born. I would expect
+the labor to start sometime tomorrow.&lt;wait&gt;</Entry>
+  <Entry Index="1085">It won't be long now. Your baby will be born soon.&lt;wait&gt;</Entry>
+  <Entry Index="1086">A little baby bump is to be expected at this stage,
+but it will be some time yet before the baby is ready
+to be born.&lt;wait&gt;</Entry>
+  <Entry Index="1087">At this early stage of pregnancy, I'm not seeing any
+issues either of you need to worry about.&lt;wait&gt;</Entry>
+  <Entry Index="1088">There is no problem with your Stamina and your Fatigue
+level is reasonable. You're perfectly healthy.&lt;wait&gt;</Entry>
+  <Entry Index="1089">There is no problem with your Stamina, but your level of
+Fatigue is starting to rise.&lt;wait&gt;</Entry>
+  <Entry Index="1090">There is no problem with your Stamina, but your Fatigue
+level is a bit concerning.&lt;wait&gt;</Entry>
+  <Entry Index="1091">There is no problem with your Stamina, but your level of
+Fatigue is entirely too high. You could collapse at any
+time.&lt;wait&gt;</Entry>
+  <Entry Index="1092">You've lost a little Stamina, but you haven't built up any
+Fatigue. I think you ought to be fine.&lt;wait&gt;</Entry>
+  <Entry Index="1093">You've lost a little Stamina, and you've built up a bit of
+Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1094">You've lost a little Stamina, but you've built up quite a bit
+of Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1095">You've lost a little Stamina, and you've built up much too
+much Fatigue. You could collapse at any time.&lt;wait&gt;</Entry>
+  <Entry Index="1096">You've lost quite a bit of Stamina, but you haven't built up
+any Fatigue, so you ought to be all right.&lt;wait&gt;</Entry>
+  <Entry Index="1097">You've lost quite a bit of Stamina, and you've built up
+a little Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1098">You've lost quite a bit of Stamina, and you've built up
+quite a bit of Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1099">You've lost quite a bit of Stamina, and you've built up
+much too much Fatigue. You could collapse at any time.&lt;wait&gt;</Entry>
+  <Entry Index="1100">You've lost a lot of Stamina, but you haven't built up any
+Fatigue, so you ought to be all right.&lt;wait&gt;</Entry>
+  <Entry Index="1101">You've lost a lot of Stamina, and you've built up a bit of
+Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1102">You've lost a lot of Stamina, and you've built up quite
+a bit of Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1103">You've lost a lot of Stamina, and you've built up much too
+much Fatigue. You could collapse at any time.&lt;wait&gt;</Entry>
+  <Entry Index="1104">You have barely any Stamina, but you haven't built up any
+Fatigue, so you ought to be all right.&lt;wait&gt;</Entry>
+  <Entry Index="1105">You have barely any Stamina, and you've built up a bit of
+Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1106">You have barely any Stamina, and you've built up quite
+a bit of Fatigue.&lt;wait&gt;</Entry>
+  <Entry Index="1107">You have barely any Stamina, and you've built up much
+too much Fatigue. You could collapse at any time.&lt;wait&gt;</Entry>
+  <Entry Index="1108">You look the picture of perfect health.&lt;wait&gt;</Entry>
+  <Entry Index="1109">Taking one bottle of Caffeine will clear things right up...&lt;wait&gt;&lt;page&gt;
+But you needn't resort to that. Eat a full dinner and get
+to bed early, and you'll be right as rain in the morning.&lt;wait&gt;</Entry>
+  <Entry Index="1110">I'd recommend taking one bottle of Caffeine.&lt;wait&gt;&lt;page&gt;
+If you can't afford one, I suggest not doing any more
+work today and going straight to bed.&lt;wait&gt;</Entry>
+  <Entry Index="1111">Taking one bottle of Stamina Booster will clear things
+right up...&lt;wait&gt;&lt;page&gt;
+But you needn't bother. A full dinner and early bed time
+will do the trick just as well.&lt;wait&gt;</Entry>
+  <Entry Index="1112">One bottle of Caffeine and one bottle of Stamina
+Booster. I recommend taking those.&lt;wait&gt;&lt;page&gt;
+If you can't afford them, I suggest not doing any more
+work today and going straight to bed.&lt;wait&gt;</Entry>
+  <Entry Index="1113">Oops! I forgot I don't have enough money.&lt;wait&gt;</Entry>
+  <Entry Index="1114">Mmm? You'd rather not? I suppose if you feel well enough,
+you don't need one.&lt;wait&gt;&lt;page&gt;
+Well then, stay healthy and take care.&lt;wait&gt;</Entry>
+  <Entry Index="1115">Welcome. Sorry, but just so you know, we don't have
+a carry-out menu.&lt;wait&gt;</Entry>
+  <Entry Index="1116">Welcome. Uh, just so you know, it's hard to eat when your
+hands are already full.&lt;wait&gt;</Entry>
+  <Entry Index="1117">Welcome! Come to do a little shopping? Anything catch
+your eye?&lt;wait&gt;</Entry>
+  <Entry Index="1118">Yo! Looking for something to eat?&lt;wait&gt;</Entry>
+  <Entry Index="1119">Yo! Looking for something to eat?&lt;wait&gt;&lt;page&gt;
+But, uh, you can't use your hands to eat when they're
+already holding something, y'know.&lt;wait&gt;</Entry>
+  <Entry Index="1120">What can I do for you today? If I'm not working on a
+project, I'm always open to requests for new ones.&lt;wait&gt;</Entry>
+  <Entry Index="1121">Sorry. I just ain't got it in me to work today. Come back
+some other time.&lt;wait&gt;</Entry>
+  <Entry Index="1122">Yo! What can I do for ya?&lt;wait&gt;</Entry>
+  <Entry Index="1123">There somethin' you want?&lt;wait&gt;</Entry>
+  <Entry Index="1124">[Hot Spring]
+Effect: Recover Stamina &amp; Relieve Fatigue
+Please wear a swimsuit when bathing.&lt;wait&gt;</Entry>
+  <Entry Index="1125">If you throw an Egg in here, you will get
+a Hot Spring Egg.
+*Egg quality will have no effect.&lt;wait&gt;</Entry>
+  <Entry Index="1126">◆BEACH RULES◆&lt;wait&gt;&lt;page&gt;
+To play fetch, you will need: 
+- Your own Disc
+- An adult pet&lt;wait&gt;&lt;page&gt;
+The beach is open to the public from 6:00 AM
+to 5:00 PM on any sunny day in spring, summer,
+or autumn.&lt;wait&gt;&lt;page&gt;
+Mind the rules and have fun!&lt;wait&gt;</Entry>
+  <Entry Index="1127">DEBUG - No dog &lt;wait&gt;</Entry>
+  <Entry Index="1128">DEBUG - No disc &lt;wait&gt;</Entry>
+  <Entry Index="1129">DEBUG - Weather doesn't match, OR dog too small. &lt;wait&gt;</Entry>
+  <Entry Index="1130">Play fetch?</Entry>
+  <Entry Index="1131">Yes</Entry>
+  <Entry Index="1132">No</Entry>
+  <Entry Index="1133">◆BEACH NOTICE◆&lt;wait&gt;&lt;page&gt;
+Due to preparations for tomorrow's Fetch Fest,
+Mineral Beach is closed to the public today.&lt;wait&gt;</Entry>
+  <Entry Index="1134">[KAI'S BEACH CAFE]
+Open summer only!
+Closed Sundays&lt;wait&gt;&lt;page&gt;
+Hours: 11:00 AM - 1:00 PM
+             5:00 PM - 7:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1135">[KAI'S BEACH CAFE]
+Open every day except Sunday!&lt;wait&gt;&lt;page&gt;
+Hours: 11:00 AM - 1:00 PM
+             5:00 PM - 7:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1136">[WORKSHOP]
+Open every day but Saturday&lt;wait&gt;&lt;page&gt;
+Hours: 11:00 AM - 4:00 PM
+I'll be in and out of the shop. -G&lt;wait&gt;</Entry>
+  <Entry Index="1137">[CHURCH]&lt;wait&gt;</Entry>
+  <Entry Index="1138">[GENERAL STORE]
+Closed Tuesdays and Sundays&lt;wait&gt;&lt;page&gt;
+Hours: 9:00 AM - 5:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1139">Church ↑
+← Northside
+Rose Plaza ↓&lt;wait&gt;</Entry>
+  <Entry Index="1140">↑ Northside
+Town Center →
+↓ Southside&lt;wait&gt;</Entry>
+  <Entry Index="1141">Northside →
+↓ Town Center&lt;wait&gt;</Entry>
+  <Entry Index="1142">[MINERAL CLINIC]
+Closed Wednesdays&lt;wait&gt;&lt;page&gt;
+Hours: 9:00 AM - 4:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1143">[INN]&lt;wait&gt;&lt;page&gt;
+Hours: 8:00 AM - 9:00 PM
+Occasionally closed during business hours.&lt;wait&gt;</Entry>
+  <Entry Index="1144">[LIBRARY]
+Closed Thursdays&lt;wait&gt;&lt;page&gt;
+Hours: 10:00 AM - 4:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1145">[LIBRARY]
+Closed Mondays&lt;wait&gt;&lt;page&gt;
+Hours: 10:00 AM - 4:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1146">[ADGE WINERY]
+Closed Saturdays&lt;wait&gt;&lt;page&gt;
+Hours: 10:00 AM - 12:00 PM
+Goods available for sale.&lt;wait&gt;</Entry>
+  <Entry Index="1147">[POPOULTRY]
+Closed Sundays&lt;wait&gt;&lt;page&gt;
+Hours: 11:00 AM - 4:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1148">↑ Northside
+Southside →
+↓ &lt;myfarmname&gt; Farm&lt;wait&gt;</Entry>
+  <Entry Index="1149">← PoPoultry
+Yodel Ranch →
+↓ Forest&lt;wait&gt;</Entry>
+  <Entry Index="1150">↑ Rose Plaza
+← Southside&lt;wait&gt;</Entry>
+  <Entry Index="1151">[FORGE]
+Closed Thursdays&lt;wait&gt;&lt;page&gt;
+Hours: 10:00 AM - 4:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1152">&lt;playername&gt;'s Second House</Entry>
+  <Entry Index="1153">&lt;playername&gt;'s Second House Plot</Entry>
+  <Entry Index="1154">Empty Plot&lt;wait&gt;</Entry>
+  <Entry Index="1155">[YODEL RANCH]
+Closed Mondays&lt;wait&gt;&lt;page&gt;
+Hours: 10:00 AM - 3:00 PM&lt;wait&gt;</Entry>
+  <Entry Index="1156">Bed&lt;wait&gt;</Entry>
+  <Entry Index="1157">Hey now! What in tarnation do you think you're doing?
+Don't go in my room!&lt;wait&gt;</Entry>
+  <Entry Index="1158">Forge Fire&lt;wait&gt;</Entry>
+  <Entry Index="1159">Hammer&lt;wait&gt;</Entry>
+  <Entry Index="1160">Shovel&lt;wait&gt;</Entry>
+  <Entry Index="1161">Furnace&lt;wait&gt;</Entry>
+  <Entry Index="1162">Anvil&lt;wait&gt;</Entry>
+  <Entry Index="1163">Slack Tub&lt;wait&gt;</Entry>
+  <Entry Index="1164">Ouch! Hot! Hot! Hot!&lt;wait&gt;</Entry>
+  <Entry Index="1165">Fireplace&lt;wait&gt;</Entry>
+  <Entry Index="1166">Hrm? You've come this far. Why go home now?&lt;wait&gt;</Entry>
+  <Entry Index="1167">Mirror&lt;wait&gt;</Entry>
+  <Entry Index="1168">What happens?</Entry>
+  <Entry Index="1169">Try</Entry>
+  <Entry Index="1170">Huang</Entry>
+  <Entry Index="1171">Wait 1 second</Entry>
+  <Entry Index="1172">1 second after tone</Entry>
+  <Entry Index="1173">Next</Entry>
+  <Entry Index="1174">1111111111111111111111111111111111111111
+2222222222222222222222222222222222222222
+3333333333333333333333333333333333333333</Entry>
+  <Entry Index="1175">→White Mosaic</Entry>
+  <Entry Index="1176">→Black Mosaic</Entry>
+  <Entry Index="1177">→Normal Mosaic</Entry>
+  <Entry Index="1178">White Mosaic→Black</Entry>
+  <Entry Index="1179">Reverse of above</Entry>
+  <Entry Index="1180">Kappa's Misfortune</Entry>
+  <Entry Index="1181">............................................................
+............................................................&lt;wait&gt;</Entry>
+  <Entry Index="1182">－－－－－－－－－－－－－－－－－－－
+－－－－－－－－－－－－－－－－－－－
+－－－－－－－－－－－－－－－－－－－&lt;wait&gt;</Entry>
+  <Entry Index="1183">☆Professor Ore
+Episode &lt;string0&gt;</Entry>
+  <Entry Index="1184">Fairy and Me
+Epilogue</Entry>
+  <Entry Index="1185">Fairy and Me
+Episode &lt;string0&gt;</Entry>
+  <Entry Index="1186">Rick</Entry>
+  <Entry Index="1187">Popuri</Entry>
+  <Entry Index="1188">Lillia</Entry>
+  <Entry Index="1189">Cliff</Entry>
+  <Entry Index="1190">Zack</Entry>
+  <Entry Index="1191">Doctor</Entry>
+  <Entry Index="1192">Blueberry</Entry>
+  <Entry Index="1193">Pumpkin</Entry>
+  <Entry Index="1194">Plum</Entry>
+  <Entry Index="1195">Cherry</Entry>
+  <Entry Index="1196">Aqua</Entry>
+  <Entry Index="1197">Sunny</Entry>
+  <Entry Index="1198">Mint</Entry>
+  <Entry Index="1199">Harvest Goddess</Entry>
+  <Entry Index="1200">Bon Vivant</Entry>
+  <Entry Index="1201">Ellen</Entry>
+  <Entry Index="1202">Elly</Entry>
+  <Entry Index="1203">Yu</Entry>
+  <Entry Index="1204">Jeff</Entry>
+  <Entry Index="1205">Karen</Entry>
+  <Entry Index="1206">Sasha</Entry>
+  <Entry Index="1207">Dudley</Entry>
+  <Entry Index="1208">Ran</Entry>
+  <Entry Index="1209">Kappa</Entry>
+  <Entry Index="1210">Basil</Entry>
+  <Entry Index="1211">Marie</Entry>
+  <Entry Index="1212">Anna</Entry>
+  <Entry Index="1213">Huang</Entry>
+  <Entry Index="1214">Thomas</Entry>
+  <Entry Index="1215">Harris</Entry>
+  <Entry Index="1216">Duke</Entry>
+  <Entry Index="1217">Manna</Entry>
+  <Entry Index="1218">Carter</Entry>
+  <Entry Index="1219">Kai</Entry>
+  <Entry Index="1220">Gray</Entry>
+  <Entry Index="1221">Saibara</Entry>
+  <Entry Index="1222">Gotts</Entry>
+  <Entry Index="1223">Mei</Entry>
+  <Entry Index="1224">Mugi</Entry>
+  <Entry Index="1225">Other</Entry>
+  <Entry Index="1226">Mineral Town:
+&lt;string0&gt;</Entry>
+  <Entry Index="1227">Card Collector Chisato
+Episode &lt;string0&gt;</Entry>
+  <Entry Index="1228">Mechabot Ultror Zero
+Episode &lt;string0&gt;</Entry>
+  <Entry Index="1229">Ground&lt;wait&gt;</Entry>
+  <Entry Index="1230">Shelves&lt;wait&gt;</Entry>
+  <Entry Index="1231">I shouldn't go upstairs. That would be rude.&lt;wait&gt;</Entry>
+  <Entry Index="1232">Rrrrrrr! Woof! Woof! Woof!&lt;wait&gt;&lt;page&gt;
+Hana sounds really worked up...&lt;wait&gt;</Entry>
+  <Entry Index="1233">Now, now. No going up there, please.&lt;wait&gt;</Entry>
+  <Entry Index="1234">[UNUSED SKIP]</Entry>
+  <Entry Index="1235">[UNUSED SKIP]</Entry>
+  <Entry Index="1236">[UNUSED SKIP]</Entry>
+  <Entry Index="1237">[UNUSED SKIP]</Entry>
+  <Entry Index="1238">[UNUSED SKIP]</Entry>
+  <Entry Index="1239">[UNUSED SKIP]</Entry>
+  <Entry Index="1240">[UNUSED SKIP]</Entry>
+  <Entry Index="1241">[UNUSED SKIP]</Entry>
+  <Entry Index="1242">[UNUSED SKIP]</Entry>
+  <Entry Index="1243">[UNUSED SKIP]</Entry>
+  <Entry Index="1244">[UNUSED SKIP]</Entry>
+  <Entry Index="1245">[UNUSED SKIP]</Entry>
+  <Entry Index="1246">[UNUSED SKIP]</Entry>
+  <Entry Index="1247">[UNUSED SKIP]</Entry>
+  <Entry Index="1248">[UNUSED SKIP]</Entry>
+  <Entry Index="1249">[UNUSED SKIP]</Entry>
+  <Entry Index="1250">[UNUSED SKIP]</Entry>
+  <Entry Index="1251">[UNUSED SKIP]</Entry>
+  <Entry Index="1252">[UNUSED SKIP]</Entry>
+  <Entry Index="1253">[UNUSED SKIP]</Entry>
+  <Entry Index="1254">[UNUSED SKIP]</Entry>
+  <Entry Index="1255">[UNUSED SKIP]</Entry>
+  <Entry Index="1256">[UNUSED SKIP]</Entry>
+  <Entry Index="1257">[UNUSED SKIP]</Entry>
+  <Entry Index="1258">[UNUSED SKIP]</Entry>
+  <Entry Index="1259">[UNUSED SKIP]</Entry>
+  <Entry Index="1260">[UNUSED SKIP]</Entry>
+  <Entry Index="1261">[UNUSED SKIP]</Entry>
+  <Entry Index="1262">[UNUSED SKIP]</Entry>
+  <Entry Index="1263">[UNUSED SKIP]</Entry>
+  <Entry Index="1264">[UNUSED SKIP]</Entry>
+  <Entry Index="1265">[UNUSED SKIP]</Entry>
+  <Entry Index="1266">[UNUSED SKIP]</Entry>
+  <Entry Index="1267">[UNUSED SKIP]</Entry>
+  <Entry Index="1268">[UNUSED SKIP]</Entry>
+  <Entry Index="1269">[UNUSED SKIP]</Entry>
+  <Entry Index="1270">The door is locked. There's a sign hanging on it that says,
+"Working."&lt;wait&gt;</Entry>
+  <Entry Index="1271">The door is locked. There's a sign hanging on it that says,
+"Working."&lt;wait&gt;</Entry>
+  <Entry Index="1272">The door is locked. There's a sign hanging on it that says,
+"Off at festival."&lt;wait&gt;</Entry>
+  <Entry Index="1273">Is that a...statue of a cat?&lt;wait&gt;</Entry>
+  <Entry Index="1274">Is that a...statue of a chicken?&lt;wait&gt;</Entry>
+  <Entry Index="1275">Work Tools&lt;wait&gt;</Entry>
+  <Entry Index="1276">Tent&lt;wait&gt;</Entry>
+  <Entry Index="1277">Portable Stove&lt;wait&gt;</Entry>
+  <Entry Index="1278">I want to marry the Harvest Goddess.</Entry>
+  <Entry Index="1279">You wish to marry the Harvest Goddess? Goodness, your
+feelings for her must be very strong indeed.&lt;wait&gt;&lt;page&gt;
+I'm certain the Harvest Goddess knows of your
+passionate devotion to her.&lt;wait&gt;&lt;page&gt;
+Be at ease. All has been forgiven. The divine bless you.&lt;wait&gt;</Entry>
+  <Entry Index="1280">Wh-What...? You want to marry the Harvest Goddess?!
+Have you lost your mind?!&lt;wait&gt;&lt;page&gt;
+The Harvest Goddess is a divine being far above us mere
+mortals! Why, if anyone could marry her, I would wish it
+to be me!&lt;wait&gt;&lt;page&gt;
+AHEM! Erm! Yes! Please forget I said that. Anyway!&lt;wait&gt;&lt;page&gt;
+The divine have no forgiveness for sinners like you!
+Heavenly retribution will surely rain down from above!&lt;wait&gt;</Entry>
+  <Entry Index="1281">Mother's Hill Summit&lt;wait&gt;</Entry>
+  <Entry Index="1282">Oh dear, your Bag is full. I'm afraid I can't trade with
+you until you've made some space.&lt;wait&gt;</Entry>
+  <Entry Index="1283">Oops! My Bag is full. I can't cook until I make some space.&lt;wait&gt;</Entry>
+  <Entry Index="1284">...But my Bag is full, so I can't pick it up.&lt;wait&gt;</Entry>
+  <Entry Index="1285">Ah. How unfortunate. Your Bag is full, yes? That is no
+good. No good at all. Go tidy your things and come again.&lt;wait&gt;</Entry>
+  <Entry Index="1286">Picture</Entry>
+  <Entry Index="1287">Ah, sorry. The back's off-limits.&lt;wait&gt;</Entry>
+  <Entry Index="1288">Where are you going, &lt;nickname&gt;? Here, I want
+you to take this.&lt;wait&gt;</Entry>
+  <Entry Index="1289">Are you going out, &lt;nickname&gt;? Before you do,
+I have a present for you. Do you want it?&lt;wait&gt;</Entry>
+  <Entry Index="1290">A place to store important items.&lt;wait&gt;</Entry>
+</Entries>

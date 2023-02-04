@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="6">
+  <Entry Index="0">Basic Controls
+◆ Run
+→ Tilt the left stick hard in any
+direction.
+
+◆ Lift the object in front of you
+◆ Talk / Examine
+→ Press the Confirm Button.
+
+
+
+◆ Throw / Give the object you are holding
+→ Press the Confirm Button while holding
+an object.
+
+◆ Put the object you are holding into
+your Bag
+→ Press the Cancel Button while holding
+an object.
+
+
+◆ Eat the object you are holding
+→ Press the Tool Button while holding
+an object.
+
+◆ Use equipped tool
+→ Press the Tool Button.
+    ※When using a higher level item,
+     pressing and holding the Tool Button
+     will charge the tool.
+
+◆ Swap equipped tool
+→ Press left or right on the D-pad.</Entry>
+  <Entry Index="1">Next, use the D-pad and Confirm Button
+to water in the pattern shown by the example.
+This will repeat three times.</Entry>
+  <Entry Index="2">Use the D-pad to move the Nature Sprite
+and the Confirm Button to put food in the Bins.</Entry>
+  <Entry Index="3">Examine / Hold / Confirm</Entry>
+  <Entry Index="4">Put Away / Cancel</Entry>
+  <Entry Index="5">Use Tool</Entry>
+</Entries>

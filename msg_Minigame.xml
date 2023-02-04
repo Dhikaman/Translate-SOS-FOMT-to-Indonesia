@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="233">
+  <Entry Index="0">Want to know the rules?</Entry>
+  <Entry Index="1">Yes</Entry>
+  <Entry Index="2">No</Entry>
+  <Entry Index="3">Got it?</Entry>
+  <Entry Index="4">I get it.</Entry>
+  <Entry Index="5">No, tell me again.</Entry>
+  <Entry Index="6">Then let's gooooo!&lt;wait&gt;</Entry>
+  <Entry Index="7"></Entry>
+  <Entry Index="8"></Entry>
+  <Entry Index="9">%d</Entry>
+  <Entry Index="10">Objective</Entry>
+  <Entry Index="11">%d Points</Entry>
+  <Entry Index="12">Results</Entry>
+  <Entry Index="13">Number Watered</Entry>
+  <Entry Index="14">Order Bonus</Entry>
+  <Entry Index="15">Times Failed</Entry>
+  <Entry Index="16">Number Harvested</Entry>
+  <Entry Index="17">Number Fed</Entry>
+  <Entry Index="18">Total</Entry>
+  <Entry Index="19"></Entry>
+  <Entry Index="20"></Entry>
+  <Entry Index="21"></Entry>
+  <Entry Index="22"></Entry>
+  <Entry Index="23"></Entry>
+  <Entry Index="24"></Entry>
+  <Entry Index="25"></Entry>
+  <Entry Index="26"></Entry>
+  <Entry Index="27"></Entry>
+  <Entry Index="28"></Entry>
+  <Entry Index="29"></Entry>
+  <Entry Index="30"></Entry>
+  <Entry Index="31">Then lemme tell you how to play the Animal Care Game!&lt;wait&gt;</Entry>
+  <Entry Index="32"></Entry>
+  <Entry Index="33"></Entry>
+  <Entry Index="34"></Entry>
+  <Entry Index="35"></Entry>
+  <Entry Index="36">Then lemme tell you how to play the Harvest Game!&lt;wait&gt;</Entry>
+  <Entry Index="37"></Entry>
+  <Entry Index="38"></Entry>
+  <Entry Index="39"></Entry>
+  <Entry Index="40"></Entry>
+  <Entry Index="41"></Entry>
+  <Entry Index="42"></Entry>
+  <Entry Index="43"></Entry>
+  <Entry Index="44"></Entry>
+  <Entry Index="45"></Entry>
+  <Entry Index="46">The semifinals are starting.</Entry>
+  <Entry Index="47">It's time for the third match. This will decide which
+chicken will claim the crown, so do your best!&lt;wait&gt;</Entry>
+  <Entry Index="48">Match one! Ready... Steady...&lt;wait&gt;</Entry>
+  <Entry Index="49">Semifinal match! Ready... Steady...&lt;wait&gt;</Entry>
+  <Entry Index="50">Final match! Ready... Steady...&lt;wait&gt;</Entry>
+  <Entry Index="51">Start!&lt;wait&gt;</Entry>
+  <Entry Index="52">That's enough!&lt;wait&gt;</Entry>
+  <Entry Index="53">Then I'll tell you how the Cluck-Cluck Clash
+matches work.&lt;wait&gt;</Entry>
+  <Entry Index="54"></Entry>
+  <Entry Index="55"></Entry>
+  <Entry Index="56"></Entry>
+  <Entry Index="57"></Entry>
+  <Entry Index="58">Peony</Entry>
+  <Entry Index="59">Meg</Entry>
+  <Entry Index="60">Ken</Entry>
+  <Entry Index="61">Cooper</Entry>
+  <Entry Index="62">Sunny</Entry>
+  <Entry Index="63">Saffron</Entry>
+  <Entry Index="64">Shelly</Entry>
+  <Entry Index="65">Tori</Entry>
+  <Entry Index="66">Waffles</Entry>
+  <Entry Index="67">Cheeps</Entry>
+  <Entry Index="68">Piyoko</Entry>
+  <Entry Index="69">Poppy</Entry>
+  <Entry Index="70">Birch</Entry>
+  <Entry Index="71">Scratch</Entry>
+  <Entry Index="72">Pollito</Entry>
+  <Entry Index="73">Speedy</Entry>
+  <Entry Index="74">Clucko</Entry>
+  <Entry Index="75">Dawn</Entry>
+  <Entry Index="76">Doodle</Entry>
+  <Entry Index="77">Louise</Entry>
+  <Entry Index="78">Want to hear the rules?&lt;wait&gt;</Entry>
+  <Entry Index="79">Nope, I'm good.</Entry>
+  <Entry Index="80">Wait, tell me again.</Entry>
+  <Entry Index="81">&lt;string0&gt; wins!&lt;wait&gt;</Entry>
+  <Entry Index="82">You got it?&lt;wait&gt;</Entry>
+  <Entry Index="83">All clear!</Entry>
+  <Entry Index="84">First Match</Entry>
+  <Entry Index="85">Semifinal Match</Entry>
+  <Entry Index="86">Final Match</Entry>
+  <Entry Index="87">Terry</Entry>
+  <Entry Index="88">Caesar</Entry>
+  <Entry Index="89">Colin</Entry>
+  <Entry Index="90">Rocket</Entry>
+  <Entry Index="91">Maru</Entry>
+  <Entry Index="92">Kent</Entry>
+  <Entry Index="93">Rascal</Entry>
+  <Entry Index="94">York</Entry>
+  <Entry Index="95">Solomon</Entry>
+  <Entry Index="96">Tate</Entry>
+  <Entry Index="97">Bernard</Entry>
+  <Entry Index="98">Benny</Entry>
+  <Entry Index="99">Theo</Entry>
+  <Entry Index="100">Sammy</Entry>
+  <Entry Index="101">Knuckle</Entry>
+  <Entry Index="102">Doug</Entry>
+  <Entry Index="103">Perry</Entry>
+  <Entry Index="104">Spud</Entry>
+  <Entry Index="105">Henry</Entry>
+  <Entry Index="106">Chuck</Entry>
+  <Entry Index="107">Dumpling</Entry>
+  <Entry Index="108">Moon</Entry>
+  <Entry Index="109">Scruffy</Entry>
+  <Entry Index="110">Bull</Entry>
+  <Entry Index="111">Daisy</Entry>
+  <Entry Index="112">Shep</Entry>
+  <Entry Index="113">Lucky</Entry>
+  <Entry Index="114">Bingo</Entry>
+  <Entry Index="115">Summer</Entry>
+  <Entry Index="116">Lass</Entry>
+  <Entry Index="117">Fetch Fest High Scores</Entry>
+  <Entry Index="118">%d</Entry>
+  <Entry Index="119">Do you want to know the rules?</Entry>
+  <Entry Index="120"></Entry>
+  <Entry Index="121"></Entry>
+  <Entry Index="122"></Entry>
+  <Entry Index="123"></Entry>
+  <Entry Index="124"></Entry>
+  <Entry Index="125">See the explanation again?</Entry>
+  <Entry Index="126">Please perform the second throw.&lt;wait&gt;</Entry>
+  <Entry Index="127">The contest is over.&lt;wait&gt;</Entry>
+  <Entry Index="128">Play again?&lt;wait&gt;</Entry>
+  <Entry Index="129">It doesn't seem to want to play with the Disc any more.&lt;wait&gt;</Entry>
+  <Entry Index="130">Found &lt;string0&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="131">Didn't find anything.&lt;wait&gt;</Entry>
+  <Entry Index="132">Don't view</Entry>
+  <Entry Index="133">View</Entry>
+  <Entry Index="134">Distance</Entry>
+  <Entry Index="135">Record</Entry>
+  <Entry Index="136">Apollo</Entry>
+  <Entry Index="137">Gallant</Entry>
+  <Entry Index="138">Jet</Entry>
+  <Entry Index="139">Secretary</Entry>
+  <Entry Index="140">Debby</Entry>
+  <Entry Index="141">Cass</Entry>
+  <Entry Index="142">Lightning</Entry>
+  <Entry Index="143">Admiral</Entry>
+  <Entry Index="144">Holly</Entry>
+  <Entry Index="145">Rio</Entry>
+  <Entry Index="146">Epony</Entry>
+  <Entry Index="147">Max</Entry>
+  <Entry Index="148">Dale</Entry>
+  <Entry Index="149">Mary Lou</Entry>
+  <Entry Index="150">Rose</Entry>
+  <Entry Index="151">Sadie</Entry>
+  <Entry Index="152">Lexi</Entry>
+  <Entry Index="153">Clyde</Entry>
+  <Entry Index="154">Dusty</Entry>
+  <Entry Index="155">Dylas</Entry>
+  <Entry Index="156">Bronco</Entry>
+  <Entry Index="157">Biscuit</Entry>
+  <Entry Index="158">Steel</Entry>
+  <Entry Index="159">Bucky</Entry>
+  <Entry Index="160">Philip</Entry>
+  <Entry Index="161">Mustang</Entry>
+  <Entry Index="162">Cob</Entry>
+  <Entry Index="163">Smoky</Entry>
+  <Entry Index="164">Chestnut</Entry>
+  <Entry Index="165">Roan</Entry>
+  <Entry Index="166">Ryder</Entry>
+  <Entry Index="167">Bay</Entry>
+  <Entry Index="168">Jacques</Entry>
+  <Entry Index="169">Chivalry</Entry>
+  <Entry Index="170">Diva</Entry>
+  <Entry Index="171">Eddy</Entry>
+  <Entry Index="172">Apple</Entry>
+  <Entry Index="173">Jones</Entry>
+  <Entry Index="174">Eclipse</Entry>
+  <Entry Index="175">Frankie</Entry>
+  <Entry Index="176">You're not going to buy any?</Entry>
+  <Entry Index="177">Come again.&lt;wait&gt;</Entry>
+  <Entry Index="178">Please, take your time.&lt;wait&gt;</Entry>
+  <Entry Index="179">Is this all right?</Entry>
+  <Entry Index="180">Yes, very good. May Lady Luck favor you today.&lt;wait&gt;</Entry>
+  <Entry Index="181">Yes, very good. Do your best out there.&lt;wait&gt;</Entry>
+  <Entry Index="182">Changed your mind?&lt;wait&gt;</Entry>
+  <Entry Index="183">Do you need instructions?</Entry>
+  <Entry Index="184">&lt;page&gt;
+Now, then, let's explain the race!&lt;wait&gt;
+Press the A button when you want to speed your horse up!&lt;wait&gt;
+Keep in mind, however, that speeding up your horse will also consume its stamina!&lt;wait&gt;</Entry>
+  <Entry Index="185">&lt;page&gt;
+When your horse's speech bubble is in the green, that means it has plenty of stamina!&lt;wait&gt;</Entry>
+  <Entry Index="186"></Entry>
+  <Entry Index="187"></Entry>
+  <Entry Index="188">&lt;page&gt;
+When you're not pressing A, your horse's stamina will recover over time.&lt;wait&gt;
+Keep an eye on your horse's speech bubble while timing those button presses to your advantage!&lt;wait&gt;</Entry>
+  <Entry Index="189">Hear the explanation again.</Entry>
+  <Entry Index="190">Okay, then let's begin.&lt;wait&gt;</Entry>
+  <Entry Index="191">#1 &lt;string1&gt;
+#2 &lt;string2&gt;&lt;wait&gt;&lt;page&gt;
+#3 &lt;string3&gt;
+#4 &lt;string4&gt;&lt;wait&gt;&lt;page&gt;
+The race will begin momentarily.&lt;wait&gt;&lt;page&gt;
+Ready...&lt;wait&gt;</Entry>
+  <Entry Index="192">The results of this race:
+1st Place &lt;string1&gt;
+2nd Place &lt;string2&gt;&lt;wait&gt;&lt;page&gt;
+3rd Place &lt;string3&gt;
+4th Place &lt;string4&gt;&lt;wait&gt;&lt;page&gt;
+All results are final.&lt;wait&gt;</Entry>
+  <Entry Index="193">The payout for Race #&lt;string1&gt; is
+as follows.&lt;wait&gt;</Entry>
+  <Entry Index="194">If you want to exchange medals for prizes, please come
+speak to me at the booth.&lt;wait&gt;&lt;page&gt;
+Medals can only be exchanged for prizes at the Derby,
+so please don't forget.&lt;wait&gt;</Entry>
+  <Entry Index="195">Horse Tickets</Entry>
+  <Entry Index="196"></Entry>
+  <Entry Index="197">Medals Won</Entry>
+  <Entry Index="198"></Entry>
+  <Entry Index="199">...Select the horse you'd like to buy tickets for.</Entry>
+  <Entry Index="200"></Entry>
+  <Entry Index="201"></Entry>
+  <Entry Index="202"></Entry>
+  <Entry Index="203"></Entry>
+  <Entry Index="204"></Entry>
+  <Entry Index="205"></Entry>
+  <Entry Index="206"></Entry>
+  <Entry Index="207">Race #%d</Entry>
+  <Entry Index="208">%dx</Entry>
+  <Entry Index="209">%d Medals</Entry>
+  <Entry Index="210">Prizes</Entry>
+  <Entry Index="211">Current Medals</Entry>
+  <Entry Index="212"></Entry>
+  <Entry Index="213">You don't want to exchange anything?</Entry>
+  <Entry Index="214">Come again.&lt;wait&gt;</Entry>
+  <Entry Index="215">Please, take your time.
+&lt;wait&gt;</Entry>
+  <Entry Index="216">Is &lt;string1&gt; all right?&lt;wait&gt;</Entry>
+  <Entry Index="217">Changed your mind?&lt;wait&gt;</Entry>
+  <Entry Index="218">You don't have enough medals.&lt;wait&gt;</Entry>
+  <Entry Index="219">Exchange for this prize?</Entry>
+  <Entry Index="220">Exchange</Entry>
+  <Entry Index="221">Quit</Entry>
+  <Entry Index="222">Great!</Entry>
+  <Entry Index="223">Bad!</Entry>
+  <Entry Index="224">Success!</Entry>
+  <Entry Index="225">Failure...</Entry>
+  <Entry Index="226">START</Entry>
+  <Entry Index="227">PAUSE</Entry>
+  <Entry Index="228">FINISH</Entry>
+  <Entry Index="229">-</Entry>
+  <Entry Index="230">-</Entry>
+  <Entry Index="231">-</Entry>
+  <Entry Index="232">-</Entry>
+</Entries>

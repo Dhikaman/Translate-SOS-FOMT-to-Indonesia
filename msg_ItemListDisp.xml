@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="26">
+  <Entry Index="0">Bag</Entry>
+  <Entry Index="1">How many?</Entry>
+  <Entry Index="2">Tool Pocket</Entry>
+  <Entry Index="3">[UNUSED SKIP]</Entry>
+  <Entry Index="4">[UNUSED SKIP]</Entry>
+  <Entry Index="5">[UNUSED SKIP]</Entry>
+  <Entry Index="6">Fridge</Entry>
+  <Entry Index="7">Fridge Items</Entry>
+  <Entry Index="8">Moving this item will take the wrapping off.
+Do you want to move it?</Entry>
+  <Entry Index="9">Tool Box</Entry>
+  <Entry Index="10">Tool Box Items</Entry>
+  <Entry Index="11">Cabinet</Entry>
+  <Entry Index="12">Cabinet Items</Entry>
+  <Entry Index="13">Materials</Entry>
+  <Entry Index="14">Shipping Bin</Entry>
+  <Entry Index="15">Ship Items</Entry>
+  <Entry Index="16">Ship all at once?</Entry>
+  <Entry Index="17">*Once put in the Shipping Bin,
+  they can't be taken back out.</Entry>
+  <Entry Index="18">Ship</Entry>
+  <Entry Index="19">Sort items?</Entry>
+  <Entry Index="20">Sort</Entry>
+  <Entry Index="21">Record</Entry>
+  <Entry Index="22">Default BGM</Entry>
+  <Entry Index="23"></Entry>
+  <Entry Index="24"></Entry>
+  <Entry Index="25"></Entry>
+</Entries>

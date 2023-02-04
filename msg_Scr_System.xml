@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="73">
+  <Entry Index="0">[Giant Boulder]
+At least a LV 5 Hammer charge is needed to break this.&lt;wait&gt;</Entry>
+  <Entry Index="1">[Big Rock]
+At least a LV 2 Hammer charge is needed to break this.&lt;wait&gt;</Entry>
+  <Entry Index="2">[Boulder]
+At least a LV 3 Hammer charge is needed to break this.&lt;wait&gt;</Entry>
+  <Entry Index="3">[Stump]
+At least a LV 2 Axe charge is needed to chop this up.&lt;wait&gt;</Entry>
+  <Entry Index="4">[Stubborn Stump]
+At least a LV 4 Axe charge is needed to chop this up.&lt;wait&gt;</Entry>
+  <Entry Index="5">Uh-oh. My Basket is full...&lt;wait&gt;</Entry>
+  <Entry Index="6">Fished up &lt;string0&gt;!&lt;wait&gt;</Entry>
+  <Entry Index="7">Fished up &lt;string0&gt;!
+It's &lt;string1&gt;cm long.&lt;wait&gt;</Entry>
+  <Entry Index="8">Fished up &lt;string0&gt;!
+It's &lt;string1&gt;m long.&lt;wait&gt;</Entry>
+  <Entry Index="9">Fished up &lt;string0&gt;!
+It's &lt;string1&gt;m &lt;string2&gt;cm long.&lt;wait&gt;</Entry>
+  <Entry Index="10">Oh wow! A Guardian-class fish!!!&lt;wait&gt;</Entry>
+  <Entry Index="11">Wow! This is the biggest &lt;string0&gt;
+I've caught yet!&lt;wait&gt;</Entry>
+  <Entry Index="12">Aww... It got away.&lt;wait&gt;</Entry>
+  <Entry Index="13">There's a recipe written on the letter!&lt;wait&gt;</Entry>
+  <Entry Index="14">Pan paka paaan! You've just caught your 10,000th fish!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="15">Pan paka paaan! You've just caught your 100,000th fish!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="16">Pan paka paaan! You've just caught your 1,000,000th fish!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="17">Pan paka paaan! You've just caught your 10,000,000th
+fish!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="18">Pan paka paaan! You've just caught your 100,000,000th
+fish!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="19">Pan paka paaan! You've just caught your 1,000,000,000th
+fish!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="20">Pan paka paaan! As of right now, you've caught at least
+one of every kind of fish there is!&lt;wait&gt;&lt;page&gt;
+Congratulations!!! ...What? Yes, that's it.&lt;wait&gt;&lt;page&gt;
+No, there isn't any special prize. That's really all you get.
+Be grateful I did my special cheer for you. Bye!&lt;wait&gt;</Entry>
+  <Entry Index="21">If you're here, that means you aren't on
+Spring Mine BF1 or Lake Mine BF1!&lt;wait&gt;</Entry>
+  <Entry Index="22">Go down?</Entry>
+  <Entry Index="23">Yes</Entry>
+  <Entry Index="24">No</Entry>
+  <Entry Index="25">Oops... It's morning now.&lt;wait&gt;</Entry>
+  <Entry Index="26">Spring Mine BF&lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="27">Lake Mine BF&lt;string0&gt;&lt;wait&gt;</Entry>
+  <Entry Index="28">Return to the surface?</Entry>
+  <Entry Index="29">I think it's time for the birth!&lt;wait&gt;</Entry>
+  <Entry Index="30">A chick has hatched! I'd better give it a name.&lt;wait&gt;</Entry>
+  <Entry Index="31">A calf was born! I'd better give it a name.&lt;wait&gt;</Entry>
+  <Entry Index="32">A lamb was born! I'd better give it a name.&lt;wait&gt;</Entry>
+  <Entry Index="33">A kit was born! I'd better give it a name.&lt;wait&gt;</Entry>
+  <Entry Index="34">A cria was born! I'd better give it a name.&lt;wait&gt;</Entry>
+  <Entry Index="35">My family just got a little bit bigger. I have to keep
+working hard to take good care of everyone.&lt;wait&gt;</Entry>
+  <Entry Index="36">[UNUSED SKIP]</Entry>
+  <Entry Index="37">[UNUSED SKIP]</Entry>
+  <Entry Index="38">[UNUSED SKIP]</Entry>
+  <Entry Index="39">[UNUSED SKIP]</Entry>
+  <Entry Index="40">[UNUSED SKIP]</Entry>
+  <Entry Index="41">Oops...! I overslept.&lt;wait&gt;</Entry>
+  <Entry Index="42">Yay! The hex on the Cursed Hammer has been dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="43">Yay! The hex on the Cursed Sickle has been dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="44">Yo! I'm here t'pick up the stuff in your Shipping Bin.&lt;wait&gt;</Entry>
+  <Entry Index="45">Whoa! Shippin' a lot today, eh? Good, good! Keep it up!&lt;wait&gt;</Entry>
+  <Entry Index="46">What, don't got nothin' for me today?&lt;wait&gt;</Entry>
+  <Entry Index="47">How 'bout ya try raisin' some chickens? Treat 'em right
+an' they'll give ya fresh Eggs every day!&lt;wait&gt;</Entry>
+  <Entry Index="48">How 'bout ya try raisin' some cows? Treat 'em right an'
+when they're grown, they'll give ya fresh Milk!&lt;wait&gt;</Entry>
+  <Entry Index="49">How 'bout ya try raisin' some sheep? Treat 'em right an'
+when they're grown, they'll give ya good Wool!&lt;wait&gt;</Entry>
+  <Entry Index="50">Didja know ya can sell ores an' jewels? How 'bout ya try
+diggin' for some in the mines sometime?&lt;wait&gt;</Entry>
+  <Entry Index="51">Y'know ya can reach the Lake Mine in winter, right?
+I hear there's some rare stuff down there. Give it
+a look, yeah?&lt;wait&gt;</Entry>
+  <Entry Index="52">Ya know ya can find stuff just lyin' on the ground in the
+woods, right? How 'bout ya try foragin' sometime?&lt;wait&gt;</Entry>
+  <Entry Index="53">Ever think of raisin' some crops? The General Store has
+all kinds of seeds for sale.&lt;wait&gt;</Entry>
+  <Entry Index="54">Ever think of goin' fishin' sometime? Fish can be shipped
+for good money, y'know.&lt;wait&gt;</Entry>
+  <Entry Index="55">Yay! The hex on the Cursed Hoe has been dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="56">Yay! The hex on the Cursed Watering Can has been
+dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="57">Yay! The hex on the Cursed Axe has been dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="58">Yay! The hex on the Cursed Fishing Rod has been
+dispelled!&lt;wait&gt;</Entry>
+  <Entry Index="59">Currently have &lt;string0&gt;.
+Submit bug report.</Entry>
+  <Entry Index="60">It doesn't look like I can use the Travel Stone here...&lt;wait&gt;</Entry>
+  <Entry Index="61">It doesn't look like I can go outside right now...&lt;wait&gt;</Entry>
+  <Entry Index="62">Woo-hoo! My Sickle went up a level!
+Now I can upgrade it at the Forge!</Entry>
+  <Entry Index="63">Woo-hoo! My Hoe went up a level!
+Now I can upgrade it at the Forge!</Entry>
+  <Entry Index="64">Woo-hoo! My Axe went up a level!
+Now I can upgrade it at the Forge!</Entry>
+  <Entry Index="65">Woo-hoo! My Hammer went up a level!
+Now I can upgrade it at the Forge!</Entry>
+  <Entry Index="66">Woo-hoo! My Watering Can went up a level!
+Now I can upgrade it at the Forge!</Entry>
+  <Entry Index="67">Woo-hoo! My Fishing Rod went up a level!
+Now I can upgrade it at the Forge!</Entry>
+  <Entry Index="68"></Entry>
+  <Entry Index="69"></Entry>
+  <Entry Index="70"></Entry>
+  <Entry Index="71"></Entry>
+  <Entry Index="72"></Entry>
+</Entries>

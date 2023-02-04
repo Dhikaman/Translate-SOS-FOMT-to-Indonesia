@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries Count="1218">
+  <Entry Index="0">Iron Sickle</Entry>
+  <Entry Index="1">A curved blade used to cut Grass and
+Weeds. Be careful not to cut your crops,
+though!</Entry>
+  <Entry Index="2">Copper Sickle</Entry>
+  <Entry Index="3">A curved blade of Copper used to cut Grass
+and Weeds. Be careful not to cut your crops,
+though!</Entry>
+  <Entry Index="4">Silver Sickle</Entry>
+  <Entry Index="5">A curved blade of Silver used to cut Grass
+and Weeds. Be careful not to cut your crops,
+though!</Entry>
+  <Entry Index="6">Golden Sickle</Entry>
+  <Entry Index="7">A curved blade of Gold used to cut Grass and
+Weeds. Very shiny! Be careful not to cut your
+crops, though!</Entry>
+  <Entry Index="8">Mithril Sickle</Entry>
+  <Entry Index="9">A curved blade of Mithril used to cut Grass
+and Weeds. Be careful not to cut your crops,
+though!</Entry>
+  <Entry Index="10">Cursed Sickle</Entry>
+  <Entry Index="11">A curved blade that once equipped can never
+be removed! Ever! Except at the Confessional.
+Go there to be free of this bedeviled tool.</Entry>
+  <Entry Index="12">Blessed Sickle</Entry>
+  <Entry Index="13">A curved blade that has been purified.
+The curse has been lifted! Using it feels
+refreshing somehow.</Entry>
+  <Entry Index="14">Mythic Sickle</Entry>
+  <Entry Index="15">A curved blade made of Mythic Ore used to
+cut Grass and Weeds. Be careful not to cut
+your crops, though!</Entry>
+  <Entry Index="16">Iron Hoe</Entry>
+  <Entry Index="17">A long-handled tool used to till fields. Can also
+till ground with seeds or Grass that has just
+been cut.</Entry>
+  <Entry Index="18">Copper Hoe</Entry>
+  <Entry Index="19">A long-handled tool made of Copper used to till
+fields. Can also till ground with seeds or Grass
+that has just been cut.</Entry>
+  <Entry Index="20">Silver Hoe</Entry>
+  <Entry Index="21">A long-handled tool made of Silver used to till
+fields. Can also till ground with seeds or Grass
+that has just been cut.</Entry>
+  <Entry Index="22">Golden Hoe</Entry>
+  <Entry Index="23">A long-handled tool made of Gold used to till
+fields. Very shiny! Can also till ground with
+seeds or Grass that has just been cut.</Entry>
+  <Entry Index="24">Mithril Hoe</Entry>
+  <Entry Index="25">A long-handled tool made of Mithril used to till
+fields. Can also till ground with seeds or Grass
+that has just been cut.</Entry>
+  <Entry Index="26">Cursed Hoe</Entry>
+  <Entry Index="27">A Hoe that once equipped can never be
+removed! Ever! Except at the Confessional.
+Go there to be free of this bedeviled tool.</Entry>
+  <Entry Index="28">Blessed Hoe</Entry>
+  <Entry Index="29">A long-handled tool that has been purified.
+The curse has been lifted! Using it feels
+refreshing somehow.</Entry>
+  <Entry Index="30">Mythic Hoe</Entry>
+  <Entry Index="31">A long-handled tool made of Mythic Ore used
+to till fields. Can also till ground with seeds or
+Grass that has just been cut.</Entry>
+  <Entry Index="32">Iron Axe</Entry>
+  <Entry Index="33">A basic Axe used to chop wood.
+Splits Branches to make Lumber.
+Cannot break Stumps.</Entry>
+  <Entry Index="34">Copper Axe</Entry>
+  <Entry Index="35">An Axe made of Copper used to chop wood.
+Splits Branches and Stumps to make Lumber.</Entry>
+  <Entry Index="36">Silver Axe</Entry>
+  <Entry Index="37">An Axe made of Silver used to chop wood.
+Splits Branches and Stumps to make Lumber.</Entry>
+  <Entry Index="38">Golden Axe</Entry>
+  <Entry Index="39">An Axe made of Gold used to chop wood.
+Very shiny! Splits Branches, Stumps,
+and Stubborn Stumps to make Lumber.</Entry>
+  <Entry Index="40">Mithril Axe</Entry>
+  <Entry Index="41">An Axe made of Mithril used to chop wood.
+Splits Branches, Stumps, and Stubborn
+Stumps to make Lumber.</Entry>
+  <Entry Index="42">Cursed Axe</Entry>
+  <Entry Index="43">An Axe that once equipped can never be
+removed! Ever! Except at the Confessional.
+Go there to be free of this bedeviled tool.</Entry>
+  <Entry Index="44">Blessed Axe</Entry>
+  <Entry Index="45">An Axe that has been purified. The curse has
+been lifted! Using it feels refreshing somehow.</Entry>
+  <Entry Index="46">Mythic Axe</Entry>
+  <Entry Index="47">An Axe made of Mythic Ore used to chop
+wood. Splits Branches, Stumps, and
+Stubborn Stumps to make Lumber.</Entry>
+  <Entry Index="48">Iron Hammer</Entry>
+  <Entry Index="49">A basic Hammer used to level tilled
+ground. Also breaks Stones and fences,
+but cannot break Big Rocks or Boulders.</Entry>
+  <Entry Index="50">Copper Hammer</Entry>
+  <Entry Index="51">A Hammer made of Copper used to level
+tilled ground. Also breaks Stones and fences,
+but cannot break Big Rocks or Boulders.</Entry>
+  <Entry Index="52">Silver Hammer</Entry>
+  <Entry Index="53">A Hammer made of Silver used to level tilled
+ground. Also breaks Stones, Big Rocks, fences,
+and Boulders.</Entry>
+  <Entry Index="54">Golden Hammer</Entry>
+  <Entry Index="55">A Hammer made of Gold used to level tilled
+ground. Very shiny! Also breaks Stones,
+Big Rocks, fences, and Boulders.</Entry>
+  <Entry Index="56">Mithril Hammer</Entry>
+  <Entry Index="57">A Hammer made of Mithril used to level tilled
+ground. Also breaks Stones, Big Rocks, fences,
+and Boulders.</Entry>
+  <Entry Index="58">Cursed Hammer</Entry>
+  <Entry Index="59">A Hammer that once equipped can never be
+removed! Ever! Except at the Confessional.
+Go there to be free of this bedeviled tool.</Entry>
+  <Entry Index="60">Blessed Hammer</Entry>
+  <Entry Index="61">A Hammer that has been purified. The curse
+has been lifted! Using it feels refreshing
+somehow.</Entry>
+  <Entry Index="62">Mythic Hammer</Entry>
+  <Entry Index="63">A Hammer made of Mythic Ore used to level
+tilled ground. Also breaks Stones, Big Rocks,
+fences, Boulders, and even Giant Boulders.</Entry>
+  <Entry Index="64">Cheap Watering Can</Entry>
+  <Entry Index="65">A basic Watering Can. Not much to look at,
+but it gets the job done. Fill it to water your
+crops.</Entry>
+  <Entry Index="66">Copper Watering Can</Entry>
+  <Entry Index="67">A Watering Can made of Copper.
+Fill it to water your crops.</Entry>
+  <Entry Index="68">Silver Watering Can</Entry>
+  <Entry Index="69">A Watering Can made of Silver.
+Fill it to water your crops.</Entry>
+  <Entry Index="70">Golden Watering Can</Entry>
+  <Entry Index="71">A Watering Can made of Gold. Very shiny!
+Fill it to water your crops.</Entry>
+  <Entry Index="72">Mithril Watering Can</Entry>
+  <Entry Index="73">A Watering Can made of Mithril.
+Fill it to water your crops.</Entry>
+  <Entry Index="74">Cursed Watering Can</Entry>
+  <Entry Index="75">A Watering Can that once equipped can never
+be removed! Ever! Except at the Confessional.
+Go there to be free of this bedeviled tool.</Entry>
+  <Entry Index="76">Blessed Watering Can</Entry>
+  <Entry Index="77">A purified Watering Can. The curse has been
+lifted! Using it feels refreshing somehow.</Entry>
+  <Entry Index="78">Mythic Watering Can</Entry>
+  <Entry Index="79">A Watering Can made of Mythic Ore.
+Fill it to water your crops.</Entry>
+  <Entry Index="80">Cheap Fishing Rod</Entry>
+  <Entry Index="81">A basic Fishing Rod from Zack.
+Use it to fish up fish!</Entry>
+  <Entry Index="82">Copper Fishing Rod</Entry>
+  <Entry Index="83">A Fishing Rod made of Copper.
+Use it to fish up fish!</Entry>
+  <Entry Index="84">Silver Fishing Rod</Entry>
+  <Entry Index="85">A Fishing Rod made of Silver.
+Use it to fish up fish!</Entry>
+  <Entry Index="86">Golden Fishing Rod</Entry>
+  <Entry Index="87">A Fishing Rod made of Gold. Very shiny! Use it
+to fish up fish! A pole this nice might even land
+you a big catch or two.</Entry>
+  <Entry Index="88">Mithril Fishing Rod</Entry>
+  <Entry Index="89">A Fishing Rod made of Mithril. Use it to fish
+up fish! Catches more fish than other rods.</Entry>
+  <Entry Index="90">Cursed Fishing Rod</Entry>
+  <Entry Index="91">A Fishing Rod that once equipped can never
+be removed! Ever! Except at the Confessional.
+Go there to be free of this bedeviled tool.</Entry>
+  <Entry Index="92">Blessed Fishing Rod</Entry>
+  <Entry Index="93">A purified Fishing Rod. The curse has been
+lifted! Using it feels refreshing somehow.</Entry>
+  <Entry Index="94">Mythic Fishing Rod</Entry>
+  <Entry Index="95">A Fishing Rod made of Mythic Ore. Use it to
+fish up fish, even Guardian-class fish!</Entry>
+  <Entry Index="96">Cow Breeding Kit</Entry>
+  <Entry Index="97">Makes adult cows pregnant.</Entry>
+  <Entry Index="98">Sheep Breeding Kit</Entry>
+  <Entry Index="99">Makes adult sheep pregnant.</Entry>
+  <Entry Index="100">Turnip Seeds</Entry>
+  <Entry Index="101">A spring crop that's easy to grow.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="102">Potato Seeds</Entry>
+  <Entry Index="103">A spring crop.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="104">Cucumber Seeds</Entry>
+  <Entry Index="105">A spring crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="106">Strawberry Seeds</Entry>
+  <Entry Index="107">A spring crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="108">Cabbage Seeds</Entry>
+  <Entry Index="109">A spring crop that takes time to grow.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="110">Tomato Seeds</Entry>
+  <Entry Index="111">A summer crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="112">Corn Seeds</Entry>
+  <Entry Index="113">A summer crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="114">Onion Seeds</Entry>
+  <Entry Index="115">A summer crop that's easy to grow.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="116">Pumpkin Seeds</Entry>
+  <Entry Index="117">A summer crop.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="118">Pineapple Seeds</Entry>
+  <Entry Index="119">A summer crop that takes a lot of time
+to grow and produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="120">Eggplant Seeds</Entry>
+  <Entry Index="121">An autumn crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="122">Carrot Seeds</Entry>
+  <Entry Index="123">An autumn crop.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="124">Yam Seeds</Entry>
+  <Entry Index="125">An autumn crop that's easy to grow
+and produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="126">Spinach Seeds</Entry>
+  <Entry Index="127">An autumn crop that's easy to grow.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="128">Green Pepper Seeds</Entry>
+  <Entry Index="129">An autumn crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="130">Grass Seedling</Entry>
+  <Entry Index="131">When planted in the field it will grow every
+day except in winter. Becomes Fodder for
+animals like cows and sheep.</Entry>
+  <Entry Index="132">Moondrop Flower Seeds</Entry>
+  <Entry Index="133">A spring flower.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="134">Pink Cat Flower Seeds</Entry>
+  <Entry Index="135">A summer flower.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="136">Magic Red Flower Seeds</Entry>
+  <Entry Index="137">An autumn flower.
+Scatter the seeds on tilled ground.
+Occasionally, the flowers will bloom red.</Entry>
+  <Entry Index="138">Toy Flower Seeds</Entry>
+  <Entry Index="139">A spring flower.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="140">Brush</Entry>
+  <Entry Index="141">Used to brush cows, sheep, alpacas, and horses.</Entry>
+  <Entry Index="142">Milker</Entry>
+  <Entry Index="143">Used to milk adult cows.</Entry>
+  <Entry Index="144"></Entry>
+  <Entry Index="145"></Entry>
+  <Entry Index="146"></Entry>
+  <Entry Index="147"></Entry>
+  <Entry Index="148">Clippers</Entry>
+  <Entry Index="149">Used to shear adult sheep, alpacas,
+and Angora rabbits.</Entry>
+  <Entry Index="150">Blue Feather</Entry>
+  <Entry Index="151">Used to propose to the person your heart
+desires. Make sure they feel the same way
+about you first, though.</Entry>
+  <Entry Index="152">Pedometer</Entry>
+  <Entry Index="153">If you keep it in your Tool Pocket as you walk,
+it will count your steps.</Entry>
+  <Entry Index="154">Travel Stone</Entry>
+  <Entry Index="155">Using it will transport you to any spot on the
+map in a flash.</Entry>
+  <Entry Index="156">Goddess Treasure</Entry>
+  <Entry Index="157">Equip it to steadily recover Stamina while
+outside.</Entry>
+  <Entry Index="158">Kappa Treasure</Entry>
+  <Entry Index="159">Equip it to steadily relieve Fatigue while
+outside.</Entry>
+  <Entry Index="160">Truth Treasure</Entry>
+  <Entry Index="161">Equip it to see your Fatigue Points.</Entry>
+  <Entry Index="162"></Entry>
+  <Entry Index="163"></Entry>
+  <Entry Index="164"></Entry>
+  <Entry Index="165"></Entry>
+  <Entry Index="166"></Entry>
+  <Entry Index="167"></Entry>
+  <Entry Index="168"></Entry>
+  <Entry Index="169"></Entry>
+  <Entry Index="170"></Entry>
+  <Entry Index="171"></Entry>
+  <Entry Index="172"></Entry>
+  <Entry Index="173"></Entry>
+  <Entry Index="174">Rabbit Breeding Kit</Entry>
+  <Entry Index="175">Makes adult Angora rabbits pregnant.</Entry>
+  <Entry Index="176">Alpaca Breeding Kit</Entry>
+  <Entry Index="177">Makes adult alpacas pregnant.</Entry>
+  <Entry Index="178">Preserved Flower</Entry>
+  <Entry Index="179">Used to confess to the person your heart
+desires. Make sure they feel the same way
+about you first, though.</Entry>
+  <Entry Index="180">Adzuki Bean Seeds</Entry>
+  <Entry Index="181">An autumn crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="182">Chili Pepper Seeds</Entry>
+  <Entry Index="183">An autumn crop that produces multiple yields.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="184">Sunsweet Flower Seeds</Entry>
+  <Entry Index="185">A newly discovered type of autumn flower.
+Scatter the seeds on tilled ground.</Entry>
+  <Entry Index="186"></Entry>
+  <Entry Index="187"></Entry>
+  <Entry Index="188"></Entry>
+  <Entry Index="189"></Entry>
+  <Entry Index="190"></Entry>
+  <Entry Index="191"></Entry>
+  <Entry Index="192"></Entry>
+  <Entry Index="193"></Entry>
+  <Entry Index="194"></Entry>
+  <Entry Index="195"></Entry>
+  <Entry Index="196"></Entry>
+  <Entry Index="197"></Entry>
+  <Entry Index="198"></Entry>
+  <Entry Index="199"></Entry>
+  <Entry Index="200"></Entry>
+  <Entry Index="201"></Entry>
+  <Entry Index="202"></Entry>
+  <Entry Index="203"></Entry>
+  <Entry Index="204"></Entry>
+  <Entry Index="205"></Entry>
+  <Entry Index="206">Turnip</Entry>
+  <Entry Index="207">A spring crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="208">Potato</Entry>
+  <Entry Index="209">A spring crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="210">Cucumber</Entry>
+  <Entry Index="211">A spring crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="212">Strawberries</Entry>
+  <Entry Index="213">A spring crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="214">Cabbage</Entry>
+  <Entry Index="215">A spring crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="216">Tomato</Entry>
+  <Entry Index="217">A summer crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="218">Corn</Entry>
+  <Entry Index="219">A summer crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="220">Onion</Entry>
+  <Entry Index="221">A summer crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="222">Pumpkin</Entry>
+  <Entry Index="223">A summer crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="224">Pineapple</Entry>
+  <Entry Index="225">A summer crop. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="226">Eggplant</Entry>
+  <Entry Index="227">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="228">Carrot</Entry>
+  <Entry Index="229">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="230">Yam</Entry>
+  <Entry Index="231">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="232">Spinach</Entry>
+  <Entry Index="233">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="234">Green Pepper</Entry>
+  <Entry Index="235">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="236">Regular Egg</Entry>
+  <Entry Index="237">A chicken Egg. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="238">Good Egg</Entry>
+  <Entry Index="239">An Egg from a chicken with a relatively high
+affection level. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="240">Excellent Egg</Entry>
+  <Entry Index="241">An Egg from a chicken with a very high
+affection level. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="242">Golden Egg</Entry>
+  <Entry Index="243">An Egg from a chicken with a very high
+affection level. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="244">Platinum Egg</Entry>
+  <Entry Index="245">An Egg from a chicken with a very high
+affection level. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="246">X Egg</Entry>
+  <Entry Index="247">An Egg from a chicken with a very high
+affection level. Can be eaten, used for cooking,
+or shipped.</Entry>
+  <Entry Index="248">Hot Spring Egg</Entry>
+  <Entry Index="249">An Egg cooked in the Hot Spring. Can be eaten
+or shipped.</Entry>
+  <Entry Index="250">Mayonnaise (S)</Entry>
+  <Entry Index="251">Made by putting a specific kind of Egg into
+a Mayonnaise Maker.</Entry>
+  <Entry Index="252">Mayonnaise (M)</Entry>
+  <Entry Index="253">Made by putting a specific kind of Egg into
+a Mayonnaise Maker.</Entry>
+  <Entry Index="254">Mayonnaise (L)</Entry>
+  <Entry Index="255">Made by putting a specific kind of Egg into
+a Mayonnaise Maker.</Entry>
+  <Entry Index="256">Mayonnaise (G)</Entry>
+  <Entry Index="257">Made by putting a specific kind of Egg into
+a Mayonnaise Maker.</Entry>
+  <Entry Index="258">Mayonnaise (P)</Entry>
+  <Entry Index="259">Made by putting a specific kind of Egg into
+a Mayonnaise Maker.</Entry>
+  <Entry Index="260">Mayonnaise (X)</Entry>
+  <Entry Index="261">Made by putting a specific kind of Egg into
+a Mayonnaise Maker.</Entry>
+  <Entry Index="262">Milk (S)</Entry>
+  <Entry Index="263">Milk from a cow. Drinkable and shippable.</Entry>
+  <Entry Index="264">Milk (M)</Entry>
+  <Entry Index="265">Milk from a cow with a relatively high
+affection level. Drinkable and shippable.</Entry>
+  <Entry Index="266">Milk (L)</Entry>
+  <Entry Index="267">Milk from a cow with a very high affection
+level. Drinkable and shippable.</Entry>
+  <Entry Index="268">Milk (G)</Entry>
+  <Entry Index="269">Milk from a cow with a very high affection
+level. Drinkable and shippable.</Entry>
+  <Entry Index="270">Milk (P)</Entry>
+  <Entry Index="271">Milk from a cow with a very high affection
+level. Drinkable and shippable.</Entry>
+  <Entry Index="272">Milk (X)</Entry>
+  <Entry Index="273">Milk from a cow with a very high affection
+level. Drinkable and shippable.</Entry>
+  <Entry Index="274">Cheese (S)</Entry>
+  <Entry Index="275">Made by putting a specific kind of Milk into
+a Cheese Maker.</Entry>
+  <Entry Index="276">Cheese (M)</Entry>
+  <Entry Index="277">Made by putting a specific kind of Milk into
+a Cheese Maker.</Entry>
+  <Entry Index="278">Cheese (L)</Entry>
+  <Entry Index="279">Made by putting a specific kind of Milk into
+a Cheese Maker.</Entry>
+  <Entry Index="280">Cheese (G)</Entry>
+  <Entry Index="281">Made by putting a specific kind of Milk into
+a Cheese Maker.</Entry>
+  <Entry Index="282">Cheese (P)</Entry>
+  <Entry Index="283">Made by putting a specific kind of Milk into
+a Cheese Maker.</Entry>
+  <Entry Index="284">Cheese (X)</Entry>
+  <Entry Index="285">Made by putting a specific kind of Milk into
+a Cheese Maker.</Entry>
+  <Entry Index="286">Apple</Entry>
+  <Entry Index="287">Fruit from an Apple Tree. Can be eaten or
+shipped.</Entry>
+  <Entry Index="288">Honey</Entry>
+  <Entry Index="289">Honey from a beehive. Can be eaten or
+shipped.</Entry>
+  <Entry Index="290">Bamboo Shoot</Entry>
+  <Entry Index="291">A plant that can be foraged around mountains.
+Can be eaten or shipped.</Entry>
+  <Entry Index="292">Wild Grapes</Entry>
+  <Entry Index="293">Fruit that can be foraged around mountains.
+Can be eaten or shipped.</Entry>
+  <Entry Index="294">Mushroom</Entry>
+  <Entry Index="295">A fungus that can be foraged around
+mountains. Can be eaten or shipped.</Entry>
+  <Entry Index="296">Poison Mushroom</Entry>
+  <Entry Index="297">A fungus that can be foraged around
+mountains. You can eat it...but should you?</Entry>
+  <Entry Index="298">Matsutake</Entry>
+  <Entry Index="299">A rare fungus that can be foraged around
+mountains. A lucky find!</Entry>
+  <Entry Index="300">Blue Grass</Entry>
+  <Entry Index="301">Can be foraged around mountains and eaten
+to recover a bit of Stamina. If you ship a lot of
+it, something good might happen.</Entry>
+  <Entry Index="302">Green Grass</Entry>
+  <Entry Index="303">Can be foraged around mountains and eaten
+to relieve a bit of Fatigue. If you ship a lot of
+it, something good might happen.</Entry>
+  <Entry Index="304">Red Grass</Entry>
+  <Entry Index="305">Can be foraged around forests. It's poisonous,
+though, so eating it is not recommended!</Entry>
+  <Entry Index="306">Yellow Grass</Entry>
+  <Entry Index="307">Can be foraged around beaches. Eating it will
+reduce your Stamina but relieve some Fatigue.</Entry>
+  <Entry Index="308">Orange Grass</Entry>
+  <Entry Index="309">Can be foraged around beaches. Eating it has
+no effect, so it's best used as a cooking
+ingredient.</Entry>
+  <Entry Index="310">Purple Grass</Entry>
+  <Entry Index="311">Can be foraged around beaches. Eating it will
+recover a bit of Stamina and relieve some
+Fatigue.</Entry>
+  <Entry Index="312">Indigo Grass</Entry>
+  <Entry Index="313">Can be foraged around beaches. Eating it will
+recover some Stamina.</Entry>
+  <Entry Index="314">Black Grass</Entry>
+  <Entry Index="315">Can be foraged around mines. Eating it will
+recover a bit of Stamina and relieve some
+Fatigue.</Entry>
+  <Entry Index="316">White Grass</Entry>
+  <Entry Index="317">A rare plant that can be foraged around
+forests. Eating it will recover a bit of Stamina
+and relieve some Fatigue.</Entry>
+  <Entry Index="318">Mystery Flower</Entry>
+  <Entry Index="319">A flower the Goddess likes. If you throw it
+into the Spring as an offering...</Entry>
+  <Entry Index="320">Stamina Booster</Entry>
+  <Entry Index="321">Medicine that recovers Stamina.</Entry>
+  <Entry Index="322">Stamina Booster XL</Entry>
+  <Entry Index="323">Medicine that recovers a lot of Stamina.</Entry>
+  <Entry Index="324">Caffeine</Entry>
+  <Entry Index="325">Medicine that relieves Fatigue.</Entry>
+  <Entry Index="326">Super Caffeine</Entry>
+  <Entry Index="327">Medicine that relieves a lot of Fatigue.</Entry>
+  <Entry Index="328">Premium Grape Juice</Entry>
+  <Entry Index="329">Juice made of carefully selected Grapes
+harvested from the Vineyard and mountain.
+It's pretty good!</Entry>
+  <Entry Index="330">Grape Juice</Entry>
+  <Entry Index="331">Juice made of Grapes harvested from the
+Vineyard and mountain.</Entry>
+  <Entry Index="332">Onigiri</Entry>
+  <Entry Index="333">Can be eaten as-is or used as an ingredient
+in rice dishes.</Entry>
+  <Entry Index="334">Bread</Entry>
+  <Entry Index="335">Can be eaten as-is or used as a cooking
+ingredient.</Entry>
+  <Entry Index="336">Oil</Entry>
+  <Entry Index="337">Can be consumed as-is, but is most often used
+as a cooking ingredient.</Entry>
+  <Entry Index="338">Wheat Flour</Entry>
+  <Entry Index="339">Can be eaten as-is, but is most often used
+as a cooking ingredient.</Entry>
+  <Entry Index="340">Curry Powder</Entry>
+  <Entry Index="341">Can be eaten as-is, but is most often used
+as a cooking ingredient.</Entry>
+  <Entry Index="342">Dango Flour</Entry>
+  <Entry Index="343">Can be eaten as-is, but is most often used
+as a cooking ingredient.</Entry>
+  <Entry Index="344">Chocolate</Entry>
+  <Entry Index="345">Can be eaten as-is or used as a cooking
+ingredient.</Entry>
+  <Entry Index="346">Relax Tea Leaves</Entry>
+  <Entry Index="347">A rare medicinal herb. Tea made from these
+leaves will help you unwind.</Entry>
+  <Entry Index="348">SUGDW Apple</Entry>
+  <Entry Index="349">The full official name is "Super Ultra Great
+Delicious Wonderful Apple."</Entry>
+  <Entry Index="350">HMSGB Apple</Entry>
+  <Entry Index="351">The full official name is "Hyper Miracle
+Sweet Gorgeous Beautiful Apple."</Entry>
+  <Entry Index="352">AEPFE Apple</Entry>
+  <Entry Index="353">The full official name is "Angel Eternal Pure
+Fresh Elegant Apple."</Entry>
+  <Entry Index="354">Buckwheat Flour</Entry>
+  <Entry Index="355">Can be eaten as-is, but is most often used
+as a cooking ingredient.</Entry>
+  <Entry Index="356">Wild Grape Water</Entry>
+  <Entry Index="357">A refreshing drink made from Wild Grapes
+and natural spring water.</Entry>
+  <Entry Index="358">Salad</Entry>
+  <Entry Index="359">A dish made of fresh vegetables.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="360">Curry Rice</Entry>
+  <Entry Index="361">[Rice Dish]
+A dish made of rice smothered in curry sauce.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="362">Stew</Entry>
+  <Entry Index="363">A hearty dish made of boiled vegetables.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="364">Miso Soup</Entry>
+  <Entry Index="365">A mild dish made with miso. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="366">Vegetable Stir Fry</Entry>
+  <Entry Index="367">A dish made of fresh vegetables seared in
+a hot pan. Can be eaten but not shipped.</Entry>
+  <Entry Index="368">Fried Rice</Entry>
+  <Entry Index="369">[Rice Dish]
+A dish made of rice and Egg sauteed in Oil.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="370">Okonomiyaki</Entry>
+  <Entry Index="371">A savory pancake made by mixing
+Wheat Flour with water and then frying it.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="372">Sandwich</Entry>
+  <Entry Index="373">A dish made of various things placed
+between two slices of Bread. Can be
+eaten but not shipped.</Entry>
+  <Entry Index="374">Fruit Juice</Entry>
+  <Entry Index="375">[Beverage]
+A drink made from the juice of various fruits.
+Drinkable, but can't be shipped.</Entry>
+  <Entry Index="376">Veggie Juice</Entry>
+  <Entry Index="377">[Beverage]
+A drink made from the juice of various
+vegetables. Drinkable, but can't be shipped.</Entry>
+  <Entry Index="378">Mixed Juice</Entry>
+  <Entry Index="379">[Beverage]
+A drink made from the juice of various fruits
+and vegetables. Drinkable, but can't be shipped.</Entry>
+  <Entry Index="380">Fruit Smoothie</Entry>
+  <Entry Index="381">[Beverage]
+A drink made from a mixture of various fruit
+juices and Milk. Drinkable, but can't be shipped.</Entry>
+  <Entry Index="382"></Entry>
+  <Entry Index="383"></Entry>
+  <Entry Index="384">Mixed Smoothie</Entry>
+  <Entry Index="385">[Beverage]
+A drink of various fruits and vegetables
+with Milk. Drinkable, but can't be shipped.</Entry>
+  <Entry Index="386">Strawberry Milk</Entry>
+  <Entry Index="387">[Beverage]
+A drink made by blending Strawberries and
+Milk. Drinkable, but can't be shipped.</Entry>
+  <Entry Index="388"></Entry>
+  <Entry Index="389"></Entry>
+  <Entry Index="390"></Entry>
+  <Entry Index="391"></Entry>
+  <Entry Index="392"></Entry>
+  <Entry Index="393"></Entry>
+  <Entry Index="394">French Fries</Entry>
+  <Entry Index="395">A dish made from peeled and sliced Potatoes
+fried in Oil. Irresistible! Can be eaten but not
+shipped.</Entry>
+  <Entry Index="396"></Entry>
+  <Entry Index="397"></Entry>
+  <Entry Index="398">Ketchup</Entry>
+  <Entry Index="399">A condiment made from Tomatoes.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="400">Popcorn</Entry>
+  <Entry Index="401">A dish made from Corn kernels popped
+in a pan. Fun to munch on. Can be eaten
+but not shipped.</Entry>
+  <Entry Index="402"></Entry>
+  <Entry Index="403"></Entry>
+  <Entry Index="404">Roasted Corn</Entry>
+  <Entry Index="405">A dish made from griddle-kissed Corn.
+Fragrant, sweet, and savory! Can be eaten
+but not shipped.</Entry>
+  <Entry Index="406">Pineapple Juice</Entry>
+  <Entry Index="407">[Beverage]
+A drink made from Pineapples.
+Drinkable, but can't be shipped.</Entry>
+  <Entry Index="408"></Entry>
+  <Entry Index="409"></Entry>
+  <Entry Index="410"></Entry>
+  <Entry Index="411"></Entry>
+  <Entry Index="412"></Entry>
+  <Entry Index="413"></Entry>
+  <Entry Index="414">Yam Dessert</Entry>
+  <Entry Index="415">[Sweets]
+A sweet dish made from Yams.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="416">Baked Yam</Entry>
+  <Entry Index="417">[Sweets]
+A signature winter snack!
+Can be eaten but not shipped.</Entry>
+  <Entry Index="418"></Entry>
+  <Entry Index="419"></Entry>
+  <Entry Index="420">Tamagoyaki</Entry>
+  <Entry Index="421">A dish made from an Egg cooked in a pan.
+It's pretty basic, but has hidden depths.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="422"></Entry>
+  <Entry Index="423"></Entry>
+  <Entry Index="424">Omelet Rice</Entry>
+  <Entry Index="425">[Rice Dish]
+A comforting Egg dish made with rice.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="426">Boiled Egg</Entry>
+  <Entry Index="427">A dish made from an Egg cooked in hot water.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="428"></Entry>
+  <Entry Index="429"></Entry>
+  <Entry Index="430">Butter</Entry>
+  <Entry Index="431">Made by churning Milk. Can be used as an
+ingredient in many dishes. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="432">Cheesecake</Entry>
+  <Entry Index="433">[Sweets]
+A baked dessert made with Cheese. Mellow
+and delicious. Can be eaten but not shipped.</Entry>
+  <Entry Index="434">Cheese Fondue</Entry>
+  <Entry Index="435">A dish of melted Cheese eaten by dipping
+various things in it. Can be eaten but not
+shipped.</Entry>
+  <Entry Index="436">Apple Pie</Entry>
+  <Entry Index="437">[Sweets]
+A baked dessert made from Apples.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="438"></Entry>
+  <Entry Index="439"></Entry>
+  <Entry Index="440">Baked Apple</Entry>
+  <Entry Index="441">[Sweets]
+A dish made by roasting an Apple. Sweet, tart,
+and hot, hot, hot! Can be eaten but not shipped.</Entry>
+  <Entry Index="442">Mushroom Rice</Entry>
+  <Entry Index="443">[Rice Dish]
+A dish of rice mixed with Mushrooms.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="444">Bamboo Rice</Entry>
+  <Entry Index="445">[Rice Dish]
+A dish of rice mixed with Bamboo Shoots.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="446">Matsutake Rice</Entry>
+  <Entry Index="447">[Rice Dish]
+Rice mixed with Matsutake mushrooms.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="448">Sushi</Entry>
+  <Entry Index="449">[Rice Dish]
+A dish made with vinegar rice and Sashimi.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="450"></Entry>
+  <Entry Index="451"></Entry>
+  <Entry Index="452"></Entry>
+  <Entry Index="453"></Entry>
+  <Entry Index="454">Raisin Bread</Entry>
+  <Entry Index="455">[Bread]
+A dish made by mixing Grapes into dough and
+baking it. Can be eaten but not shipped.</Entry>
+  <Entry Index="456"></Entry>
+  <Entry Index="457"></Entry>
+  <Entry Index="458">Curry Bread</Entry>
+  <Entry Index="459">[Bread]
+Curry Powder mixed into dough and fried
+in Oil. Can be eaten but not shipped.</Entry>
+  <Entry Index="460">Sashimi</Entry>
+  <Entry Index="461">A dish of thinly sliced fresh fish. Can be eaten
+but not shipped.</Entry>
+  <Entry Index="462">Grilled Fish</Entry>
+  <Entry Index="463">A dish of fish seared on a grill. Can be eaten
+but not shipped.</Entry>
+  <Entry Index="464"></Entry>
+  <Entry Index="465"></Entry>
+  <Entry Index="466">Pizza</Entry>
+  <Entry Index="467">An Italian-style Tomato pie.
+The Cheese's quality is superb!</Entry>
+  <Entry Index="468">Udon</Entry>
+  <Entry Index="469">A dish of thick noodles made from kneaded
+and boiled Wheat Flour. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="470">Curry Udon</Entry>
+  <Entry Index="471">[Udon]
+A dish made of Udon seasoned with Curry
+Powder. Can be eaten but not shipped.</Entry>
+  <Entry Index="472">Tempura Udon</Entry>
+  <Entry Index="473">[Udon]
+A dish made of Udon topped with Tempura.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="474"></Entry>
+  <Entry Index="475"></Entry>
+  <Entry Index="476">Zaru Soba</Entry>
+  <Entry Index="477">A simple noodle dish made from Buckwheat
+Flour. Can be eaten but not shipped.</Entry>
+  <Entry Index="478">Tempura Soba</Entry>
+  <Entry Index="479">A dish made of soba topped with Tempura.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="480"></Entry>
+  <Entry Index="481"></Entry>
+  <Entry Index="482"></Entry>
+  <Entry Index="483"></Entry>
+  <Entry Index="484">Cookies</Entry>
+  <Entry Index="485">[Sweets]
+A sweet baked snack also known as a biscuit.
+Yummy! Can be eaten but not shipped.</Entry>
+  <Entry Index="486">Chocolate Cookies</Entry>
+  <Entry Index="487">[Sweets]
+A yummy baked snack!
+Can be eaten but not shipped.</Entry>
+  <Entry Index="488">Tempura</Entry>
+  <Entry Index="489">A dish made by deep-frying battered
+ingredients. Can be eaten but not shipped.</Entry>
+  <Entry Index="490">Ice Cream</Entry>
+  <Entry Index="491">[Sweets]
+An icy cold treat.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="492">Cake</Entry>
+  <Entry Index="493">[Sweets]
+A classic dessert.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="494"></Entry>
+  <Entry Index="495"></Entry>
+  <Entry Index="496">Relax Tea</Entry>
+  <Entry Index="497">[Beverage]
+A calming drink that has a soothing effect.
+Drinkable, but can't be shipped.</Entry>
+  <Entry Index="498"></Entry>
+  <Entry Index="499"></Entry>
+  <Entry Index="500">French Toast</Entry>
+  <Entry Index="501">[Bread]
+A dish made of Bread battered in Egg.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="502">Pudding</Entry>
+  <Entry Index="503">[Sweets]
+A delicious dessert popular with kids.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="504"></Entry>
+  <Entry Index="505"></Entry>
+  <Entry Index="506">Moon Dumplings</Entry>
+  <Entry Index="507">[Sweets]
+Sweet round rice dumplings perfect for moon
+viewing. Can be eaten but not shipped.</Entry>
+  <Entry Index="508">Mochi</Entry>
+  <Entry Index="509">A chewy rice cake celebrated at the Mochi
+Bonanza. Can be eaten but not shipped.</Entry>
+  <Entry Index="510"></Entry>
+  <Entry Index="511"></Entry>
+  <Entry Index="512">Elli Leaves</Entry>
+  <Entry Index="513">A medicinal plant that recovers a lot of
+Stamina and relieves a lot of Fatigue.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="514"></Entry>
+  <Entry Index="515"></Entry>
+  <Entry Index="516"></Entry>
+  <Entry Index="517"></Entry>
+  <Entry Index="518"></Entry>
+  <Entry Index="519"></Entry>
+  <Entry Index="520"></Entry>
+  <Entry Index="521"></Entry>
+  <Entry Index="522"></Entry>
+  <Entry Index="523"></Entry>
+  <Entry Index="524"></Entry>
+  <Entry Index="525"></Entry>
+  <Entry Index="526">Small Fish</Entry>
+  <Entry Index="527">A tiny fish found in oceans or rivers.
+Can be eaten or shipped.</Entry>
+  <Entry Index="528">Medium Fish</Entry>
+  <Entry Index="529">An average-sized fish found in oceans
+or rivers. Can be eaten or shipped.
+Watch out for small bones when eating it.</Entry>
+  <Entry Index="530">Large Fish</Entry>
+  <Entry Index="531">A large fish found in oceans or rivers. Can be
+eaten or shipped. Watch out for bones when
+eating it.</Entry>
+  <Entry Index="532"></Entry>
+  <Entry Index="533"></Entry>
+  <Entry Index="534"></Entry>
+  <Entry Index="535"></Entry>
+  <Entry Index="536"></Entry>
+  <Entry Index="537"></Entry>
+  <Entry Index="538"></Entry>
+  <Entry Index="539"></Entry>
+  <Entry Index="540">Pancakes</Entry>
+  <Entry Index="541">[Sweets]
+Thin, flat cakes made of Wheat Flour that're
+fried in a pan. Can be eaten but not shipped.</Entry>
+  <Entry Index="542"></Entry>
+  <Entry Index="543"></Entry>
+  <Entry Index="544"></Entry>
+  <Entry Index="545"></Entry>
+  <Entry Index="546"></Entry>
+  <Entry Index="547"></Entry>
+  <Entry Index="548"></Entry>
+  <Entry Index="549"></Entry>
+  <Entry Index="550"></Entry>
+  <Entry Index="551"></Entry>
+  <Entry Index="552"></Entry>
+  <Entry Index="553"></Entry>
+  <Entry Index="554"></Entry>
+  <Entry Index="555"></Entry>
+  <Entry Index="556"></Entry>
+  <Entry Index="557"></Entry>
+  <Entry Index="558"></Entry>
+  <Entry Index="559"></Entry>
+  <Entry Index="560">Coffee Milk (S)</Entry>
+  <Entry Index="561">Comes from a Coffee Cow. Drinkable and can
+be shipped.</Entry>
+  <Entry Index="562">Coffee Milk (M)</Entry>
+  <Entry Index="563">Comes from a Coffee Cow with a relatively
+high affection level. Drinkable and can be
+shipped.</Entry>
+  <Entry Index="564">Coffee Milk (L)</Entry>
+  <Entry Index="565">Comes from a Coffee Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="566">Coffee Milk (G)</Entry>
+  <Entry Index="567">Comes from a Coffee Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="568">Coffee Milk (P)</Entry>
+  <Entry Index="569">Comes from a Coffee Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="570">Coffee Milk (X)</Entry>
+  <Entry Index="571">Comes from a Coffee Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="572">Fruit Milk (S)</Entry>
+  <Entry Index="573">Comes from a Fruit Cow. Drinkable and can
+be shipped.</Entry>
+  <Entry Index="574">Fruit Milk (M)</Entry>
+  <Entry Index="575">Comes from a Fruit Cow with a relatively
+high affection level. Drinkable and can be
+shipped.</Entry>
+  <Entry Index="576">Fruit Milk (L)</Entry>
+  <Entry Index="577">Comes from a Fruit Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="578">Fruit Milk (G)</Entry>
+  <Entry Index="579">Comes from a Fruit Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="580">Fruit Milk (P)</Entry>
+  <Entry Index="581">Comes from a Fruit Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="582">Fruit Milk (X)</Entry>
+  <Entry Index="583">Comes from a Fruit Cow with a very high
+affection level. Drinkable and can be shipped.</Entry>
+  <Entry Index="584">Strawberry Milk (S)</Entry>
+  <Entry Index="585">Comes from a Strawberry Cow.
+Drinkable and can be shipped.</Entry>
+  <Entry Index="586">Strawberry Milk (M)</Entry>
+  <Entry Index="587">Comes from a Strawberry Cow with
+a relatively high affection level.
+Drinkable and can be shipped.</Entry>
+  <Entry Index="588">Strawberry Milk (L)</Entry>
+  <Entry Index="589">Comes from a Strawberry Cow with a very
+high affection level. Drinkable and can be
+shipped.</Entry>
+  <Entry Index="590">Strawberry Milk (G)</Entry>
+  <Entry Index="591">Comes from a Strawberry Cow with a very
+high affection level. Drinkable and can be
+shipped.</Entry>
+  <Entry Index="592">Strawberry Milk (P)</Entry>
+  <Entry Index="593">Comes from a Strawberry Cow with a very
+high affection level. Drinkable and can be
+shipped.</Entry>
+  <Entry Index="594">Strawberry Milk (X)</Entry>
+  <Entry Index="595">Comes from a Strawberry Cow with a very
+high affection level. Drinkable and can be
+shipped.</Entry>
+  <Entry Index="596">Adzuki Beans</Entry>
+  <Entry Index="597">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="598">Chili Peppers</Entry>
+  <Entry Index="599">An autumn crop. Can be eaten, used for
+cooking, or shipped.</Entry>
+  <Entry Index="600">Orange</Entry>
+  <Entry Index="601">Fruit from an Orange Tree. Can be eaten
+or shipped.</Entry>
+  <Entry Index="602">Chestnut</Entry>
+  <Entry Index="603">A nut from a Chestnut Tree. Can be eaten
+or shipped. Watch out for its spikes!</Entry>
+  <Entry Index="604">Mashed Potatoes</Entry>
+  <Entry Index="605">A basic dish made from Potatoes that have
+been boiled and then mashed. Can be eaten
+but not shipped.</Entry>
+  <Entry Index="606">Baumkuchen</Entry>
+  <Entry Index="607">[Sweets]
+A dessert made from Eggs, Milk, and Wheat
+Flour. Can be eaten but not shipped.</Entry>
+  <Entry Index="608">Acqua Pazza</Entry>
+  <Entry Index="609">A dish made from poaching fish in broth.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="610">Ajillo</Entry>
+  <Entry Index="611">A dish made by adding various ingredients
+to Oil. Watch out, it's hot! Can be eaten but
+not shipped.</Entry>
+  <Entry Index="612">Churros</Entry>
+  <Entry Index="613">[Sweets]
+A simple snack made from deep-frying Wheat
+Flour. Can be eaten but not shipped.</Entry>
+  <Entry Index="614">Paella</Entry>
+  <Entry Index="615">[Rice Dish]
+A dish made by simmering rice together with
+vegetables. Can be eaten but not shipped.</Entry>
+  <Entry Index="616">Fish Soup</Entry>
+  <Entry Index="617">A dish made from stewing a fish in broth.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="618">Almond Tofu</Entry>
+  <Entry Index="619">[Sweets]
+A dessert made with Milk. Sweet and
+delicious. Can be eaten but not shipped.</Entry>
+  <Entry Index="620">Palbochae</Entry>
+  <Entry Index="621">A dish made from stir-fried vegetables.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="622">Pepper Steak</Entry>
+  <Entry Index="623">A dish made from stir-fried Green Peppers
+and Bamboo Shoots. Can be eaten but not
+shipped.</Entry>
+  <Entry Index="624">Seafood Rice Bowl</Entry>
+  <Entry Index="625">[Rice Dish]
+A dish made of rice topped with slices of fresh
+fish. Can be eaten but not shipped.</Entry>
+  <Entry Index="626">Oden</Entry>
+  <Entry Index="627">A dish made of various stewed ingredients.
+The Mochi in it is the best part! Can be eaten
+but not shipped.</Entry>
+  <Entry Index="628">Napolitan</Entry>
+  <Entry Index="629">A pasta dish with a Tomato-based sauce.
+After you eat it, your mouth will be all red!
+Can be eaten but not shipped.</Entry>
+  <Entry Index="630">Eggs Benedict</Entry>
+  <Entry Index="631">A fancy dish made from Eggs. Can be eaten
+but not shipped.</Entry>
+  <Entry Index="632">Pumpkin Potage</Entry>
+  <Entry Index="633">A creamy soup made from Pumpkins.
+Comfort in a bowl. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="634">Pot-au-Feu</Entry>
+  <Entry Index="635">A family dish known for its vegetable chunks.
+Eating it makes you feel all warm and fuzzy
+inside. Can be eaten but not shipped.</Entry>
+  <Entry Index="636">Carpaccio</Entry>
+  <Entry Index="637">A dish made from thinly sliced fresh fish.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="638">Quiche</Entry>
+  <Entry Index="639">A kind of savory Egg pie. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="640">Cheese Souffle</Entry>
+  <Entry Index="641">[Sweets]
+A dessert made of Cheese. Super fluffy
+and light. Can be eaten but not shipped.</Entry>
+  <Entry Index="642">Bagna Cauda</Entry>
+  <Entry Index="643">A dish that makes all vegetables taste
+amazing. Can be eaten but not shipped.</Entry>
+  <Entry Index="644">Carbonara</Entry>
+  <Entry Index="645">A dish made of delectable cheesy pasta.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="646">Margherita</Entry>
+  <Entry Index="647">A classic Italian pizza with a tomato sauce
+base. Can be eaten but not shipped.</Entry>
+  <Entry Index="648">Cheese Risotto</Entry>
+  <Entry Index="649">A luxurious dish made of Cheese and rice.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="650">Fish Fritters</Entry>
+  <Entry Index="651">Western-style fried fish. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="652">Nasi Goreng</Entry>
+  <Entry Index="653">[Rice Dish]
+A dish made of fried rice. Add Ketchup for
+maximum flavor! Can be eaten but not shipped.</Entry>
+  <Entry Index="654">Madeleines</Entry>
+  <Entry Index="655">[Sweets]
+Small fluffy cakes with a shell-like shape made
+with Eggs. Can be eaten but not shipped.</Entry>
+  <Entry Index="656">Strawberry Cake</Entry>
+  <Entry Index="657">[Sweets]
+A standard cake with Strawberries.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="658">Bibimbap</Entry>
+  <Entry Index="659">[Rice Dish]
+A tasty rice dish. The soft-boiled Eggs are the
+best part! Can be eaten but not shipped.</Entry>
+  <Entry Index="660">Vegetable Pizza</Entry>
+  <Entry Index="661">An Italian pizza topped with vegetables.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="662">Mushroom Gratin</Entry>
+  <Entry Index="663">A rich dish of baked Mushrooms topped with
+a golden crust. Watch out, it's hot and steamy!
+Can be eaten but not shipped.</Entry>
+  <Entry Index="664">Ramen</Entry>
+  <Entry Index="665">A soupy dish with noodles. Feel free to add
+some Eggs to it. Can be eaten but not shipped.</Entry>
+  <Entry Index="666">Daifuku</Entry>
+  <Entry Index="667">[Sweets]
+A sweet made by wrapping Adzuki Bean
+paste in Mochi. Can be eaten but not shipped.</Entry>
+  <Entry Index="668">Dorayaki</Entry>
+  <Entry Index="669">[Sweets]
+A Japanese sweet made of Adzuki Bean
+paste. Can be eaten but not shipped.</Entry>
+  <Entry Index="670">Orangettes</Entry>
+  <Entry Index="671">[Sweets]
+A snack made from Oranges. Has a rather
+mature flavor. Can be eaten but not shipped.</Entry>
+  <Entry Index="672">Candied Peels</Entry>
+  <Entry Index="673">[Sweets]
+A snack made from the sugar-coated peel of
+an Orange. Can be eaten but not shipped.</Entry>
+  <Entry Index="674">Orange Pastries</Entry>
+  <Entry Index="675">[Bread]
+A dish made of Bread and Oranges.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="676">Zenzai</Entry>
+  <Entry Index="677">[Sweets]
+A dessert made from Adzuki Beans.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="678">Chestnut Rice</Entry>
+  <Entry Index="679">[Rice Dish]
+Rice mixed with Chestnuts. Can be eaten but
+not shipped.</Entry>
+  <Entry Index="680">Roasted Chestnuts</Entry>
+  <Entry Index="681">A simple dish made of roasted Chestnuts.
+It's super hot! Can be eaten but not shipped.</Entry>
+  <Entry Index="682">Mont Blanc</Entry>
+  <Entry Index="683">[Sweets]
+A dish celebrating the mature taste of the
+noble Chestnut. Can be eaten but not shipped.</Entry>
+  <Entry Index="684">Spicy Pepper Steak</Entry>
+  <Entry Index="685">Pepper Steak with Chili Pepper seasoning.
+Delightfully hot! Can be eaten but not shipped.</Entry>
+  <Entry Index="686">Spicy Ramen</Entry>
+  <Entry Index="687">Ramen with Chili Pepper seasoning. Tingles
+the tongue! Can be eaten but not shipped.</Entry>
+  <Entry Index="688">Spicy Vegetable Stir Fry</Entry>
+  <Entry Index="689">Vegetables sauteed in a pan with Chili Pepper
+seasoning. Hot, hot, hot! Can be eaten but not
+shipped.</Entry>
+  <Entry Index="690">Spicy Sandwich</Entry>
+  <Entry Index="691">A Sandwich jazzed up with Chili Pepper
+seasoning. Fiery hot! Can be eaten but
+not shipped.</Entry>
+  <Entry Index="692">Spicy Margherita</Entry>
+  <Entry Index="693">Margherita with Chili Pepper seasoning.
+Pizza with pizzazz! Can be eaten but not
+shipped.</Entry>
+  <Entry Index="694">Fish Soup</Entry>
+  <Entry Index="695">A dish made from stewing a fish in broth.
+Can be eaten but not shipped.</Entry>
+  <Entry Index="696"></Entry>
+  <Entry Index="697"></Entry>
+  <Entry Index="698"></Entry>
+  <Entry Index="699"></Entry>
+  <Entry Index="700"></Entry>
+  <Entry Index="701"></Entry>
+  <Entry Index="702"></Entry>
+  <Entry Index="703"></Entry>
+  <Entry Index="704"></Entry>
+  <Entry Index="705"></Entry>
+  <Entry Index="706"></Entry>
+  <Entry Index="707"></Entry>
+  <Entry Index="708"></Entry>
+  <Entry Index="709"></Entry>
+  <Entry Index="710"></Entry>
+  <Entry Index="711"></Entry>
+  <Entry Index="712"></Entry>
+  <Entry Index="713"></Entry>
+  <Entry Index="714">Fat Greenling</Entry>
+  <Entry Index="715"></Entry>
+  <Entry Index="716">Horse Mackerel</Entry>
+  <Entry Index="717"></Entry>
+  <Entry Index="718">Amur Minnow</Entry>
+  <Entry Index="719"></Entry>
+  <Entry Index="720">Masu Trout</Entry>
+  <Entry Index="721"></Entry>
+  <Entry Index="722">Chicken Grunt</Entry>
+  <Entry Index="723"></Entry>
+  <Entry Index="724">Sardine</Entry>
+  <Entry Index="725"></Entry>
+  <Entry Index="726">Char</Entry>
+  <Entry Index="727"></Entry>
+  <Entry Index="728">Dace</Entry>
+  <Entry Index="729"></Entry>
+  <Entry Index="730">Eel</Entry>
+  <Entry Index="731"></Entry>
+  <Entry Index="732">Pale Chub</Entry>
+  <Entry Index="733"></Entry>
+  <Entry Index="734">Bonito</Entry>
+  <Entry Index="735"></Entry>
+  <Entry Index="736">Flounder</Entry>
+  <Entry Index="737"></Entry>
+  <Entry Index="738">Thread-sail Filefish</Entry>
+  <Entry Index="739"></Entry>
+  <Entry Index="740">Goldfish</Entry>
+  <Entry Index="741"></Entry>
+  <Entry Index="742">Crucian Carp</Entry>
+  <Entry Index="743"></Entry>
+  <Entry Index="744">Longtooth Grouper</Entry>
+  <Entry Index="745"></Entry>
+  <Entry Index="746">Bighead Carp</Entry>
+  <Entry Index="747"></Entry>
+  <Entry Index="748">Salmon</Entry>
+  <Entry Index="749"></Entry>
+  <Entry Index="750">Mackerel</Entry>
+  <Entry Index="751"></Entry>
+  <Entry Index="752">Needlefish</Entry>
+  <Entry Index="753"></Entry>
+  <Entry Index="754">Seerfish</Entry>
+  <Entry Index="755"></Entry>
+  <Entry Index="756">Pike</Entry>
+  <Entry Index="757"></Entry>
+  <Entry Index="758">Mahi-mahi</Entry>
+  <Entry Index="759"></Entry>
+  <Entry Index="760">Sea Bream</Entry>
+  <Entry Index="761"></Entry>
+  <Entry Index="762">Cod</Entry>
+  <Entry Index="763"></Entry>
+  <Entry Index="764">Loach</Entry>
+  <Entry Index="765"></Entry>
+  <Entry Index="766">Dark Sleeper</Entry>
+  <Entry Index="767"></Entry>
+  <Entry Index="768">Rainbow Trout</Entry>
+  <Entry Index="769"></Entry>
+  <Entry Index="770">Pacific Herring</Entry>
+  <Entry Index="771"></Entry>
+  <Entry Index="772">Silver Carp</Entry>
+  <Entry Index="773"></Entry>
+  <Entry Index="774">Sailfin Sandfish</Entry>
+  <Entry Index="775"></Entry>
+  <Entry Index="776">Halibut</Entry>
+  <Entry Index="777"></Entry>
+  <Entry Index="778">Blowfish</Entry>
+  <Entry Index="779"></Entry>
+  <Entry Index="780">Black Bass</Entry>
+  <Entry Index="781"></Entry>
+  <Entry Index="782">Yellowtail</Entry>
+  <Entry Index="783"></Entry>
+  <Entry Index="784">Bluegill</Entry>
+  <Entry Index="785"></Entry>
+  <Entry Index="786">Crucian Carp</Entry>
+  <Entry Index="787"></Entry>
+  <Entry Index="788">Atka Mackerel</Entry>
+  <Entry Index="789"></Entry>
+  <Entry Index="790">Tuna</Entry>
+  <Entry Index="791"></Entry>
+  <Entry Index="792">Ocean Sunfish</Entry>
+  <Entry Index="793"></Entry>
+  <Entry Index="794">Luna Lionfish</Entry>
+  <Entry Index="795"></Entry>
+  <Entry Index="796">Red Seaperch</Entry>
+  <Entry Index="797"></Entry>
+  <Entry Index="798">Cherry Salmon</Entry>
+  <Entry Index="799"></Entry>
+  <Entry Index="800">Blotched Snakehead</Entry>
+  <Entry Index="801"></Entry>
+  <Entry Index="802">Smelt</Entry>
+  <Entry Index="803"></Entry>
+  <Entry Index="804">Huchen</Entry>
+  <Entry Index="805"></Entry>
+  <Entry Index="806">Anglerfish</Entry>
+  <Entry Index="807"></Entry>
+  <Entry Index="808">Hot Spring Catfish</Entry>
+  <Entry Index="809"></Entry>
+  <Entry Index="810">Carp</Entry>
+  <Entry Index="811"></Entry>
+  <Entry Index="812">Coelacanth</Entry>
+  <Entry Index="813"></Entry>
+  <Entry Index="814">Squid</Entry>
+  <Entry Index="815"></Entry>
+  <Entry Index="816">Beltfish</Entry>
+  <Entry Index="817"></Entry>
+  <Entry Index="818">Amberjack</Entry>
+  <Entry Index="819"></Entry>
+  <Entry Index="820">Sweetfish</Entry>
+  <Entry Index="821"></Entry>
+  <Entry Index="822">Sand Smelt</Entry>
+  <Entry Index="823"></Entry>
+  <Entry Index="824">Pike Conger</Entry>
+  <Entry Index="825"></Entry>
+  <Entry Index="826">Flying Fish</Entry>
+  <Entry Index="827"></Entry>
+  <Entry Index="828">Spiny Lobster</Entry>
+  <Entry Index="829"></Entry>
+  <Entry Index="830">Arapaima Gigas</Entry>
+  <Entry Index="831"></Entry>
+  <Entry Index="832"></Entry>
+  <Entry Index="833"></Entry>
+  <Entry Index="834"></Entry>
+  <Entry Index="835"></Entry>
+  <Entry Index="836"></Entry>
+  <Entry Index="837"></Entry>
+  <Entry Index="838"></Entry>
+  <Entry Index="839"></Entry>
+  <Entry Index="840"></Entry>
+  <Entry Index="841"></Entry>
+  <Entry Index="842"></Entry>
+  <Entry Index="843"></Entry>
+  <Entry Index="844"></Entry>
+  <Entry Index="845"></Entry>
+  <Entry Index="846"></Entry>
+  <Entry Index="847"></Entry>
+  <Entry Index="848"></Entry>
+  <Entry Index="849"></Entry>
+  <Entry Index="850"></Entry>
+  <Entry Index="851"></Entry>
+  <Entry Index="852">Moondrop Flower</Entry>
+  <Entry Index="853">A flower that blooms in spring.
+Inedible, but can be shipped.</Entry>
+  <Entry Index="854">Pink Cat Flower</Entry>
+  <Entry Index="855">A flower that blooms in summer.
+Inedible, but can be shipped.</Entry>
+  <Entry Index="856">Blue Magic Red Flower</Entry>
+  <Entry Index="857">A decidedly blue flower that comes from
+Magic Red Flower Seeds. Blooms in autumn.
+Inedible, but can be shipped.</Entry>
+  <Entry Index="858">True Magic Red Flower</Entry>
+  <Entry Index="859">A flower that sometimes comes from
+Magic Red Flower Seeds. Blooms in autumn.
+Inedible, but can be shipped.</Entry>
+  <Entry Index="860">Toy Flower</Entry>
+  <Entry Index="861">A flower that blooms in spring.
+Inedible, but can be shipped.</Entry>
+  <Entry Index="862">Wool (S)</Entry>
+  <Entry Index="863">Wool sheared from a sheep. Fluffy.
+Can be shipped.</Entry>
+  <Entry Index="864">Wool (M)</Entry>
+  <Entry Index="865">Wool sheared from a sheep with
+a relatively high affection level.
+Fluffy and soft. Can be shipped.</Entry>
+  <Entry Index="866">Wool (L)</Entry>
+  <Entry Index="867">Wool sheared from a sheep with a very high
+affection level. Fluffy and very soft. Can be
+shipped.</Entry>
+  <Entry Index="868">Wool (G)</Entry>
+  <Entry Index="869">Wool sheared from a sheep with a very high
+affection level. Fluffy and extremely soft.
+Can be shipped.</Entry>
+  <Entry Index="870">Wool (P)</Entry>
+  <Entry Index="871">Wool sheared from a sheep with a very high
+affection level. Super fluffy and soft. Can be
+shipped.</Entry>
+  <Entry Index="872">Wool (X)</Entry>
+  <Entry Index="873">Wool sheared from a sheep with a very high
+affection level. World-class quality. Can be
+shipped.</Entry>
+  <Entry Index="874">Yarn (S)</Entry>
+  <Entry Index="875">Made by putting Wool/Fur/Fleece (S)
+into a Yarn Maker.</Entry>
+  <Entry Index="876">Yarn (M)</Entry>
+  <Entry Index="877">Made by putting Wool/Fur/Fleece (M)
+into a Yarn Maker.</Entry>
+  <Entry Index="878">Yarn (L)</Entry>
+  <Entry Index="879">Made by putting Wool/Fur/Fleece (L)
+into a Yarn Maker.</Entry>
+  <Entry Index="880">Yarn (G)</Entry>
+  <Entry Index="881">Made by putting Wool/Fur/Fleece (G)
+into a Yarn Maker.</Entry>
+  <Entry Index="882">Yarn (P)</Entry>
+  <Entry Index="883">Made by putting Wool/Fur/Fleece (P)
+into a Yarn Maker.</Entry>
+  <Entry Index="884">Yarn (X)</Entry>
+  <Entry Index="885">Made by putting Wool/Fur/Fleece (X)
+into a Yarn Maker.</Entry>
+  <Entry Index="886">Scrap Ore</Entry>
+  <Entry Index="887">Found in mines. Not really useful for anything,
+so it doesn't sell for much.</Entry>
+  <Entry Index="888">Copper</Entry>
+  <Entry Index="889">A material found in mines.
+Used to level up tools.</Entry>
+  <Entry Index="890">Silver</Entry>
+  <Entry Index="891">A material found in mines.
+Used to level up tools.</Entry>
+  <Entry Index="892">Gold</Entry>
+  <Entry Index="893">A material found in mines.
+Used to level up tools.</Entry>
+  <Entry Index="894">Mithril</Entry>
+  <Entry Index="895">A material found in mines.
+Used to level up tools.</Entry>
+  <Entry Index="896">Orichalcum</Entry>
+  <Entry Index="897">A material found in mines.
+Used to make accessories.</Entry>
+  <Entry Index="898">Adamantite</Entry>
+  <Entry Index="899">A material found in mines.
+Used to build Maker machines.</Entry>
+  <Entry Index="900">Moonstone</Entry>
+  <Entry Index="901">A gemstone found in mines.
+Sells for a small amount.</Entry>
+  <Entry Index="902">Sandrose</Entry>
+  <Entry Index="903">A kind of crystal found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="904">Pink Diamond</Entry>
+  <Entry Index="905">An extremely rare and valuable gemstone
+found in mines. Sells for a hefty price!</Entry>
+  <Entry Index="906">Alexandrite</Entry>
+  <Entry Index="907">An extremely rare and valuable gemstone
+found in mines. Sells for a hefty price!
+Appears red indoors.</Entry>
+  <Entry Index="908">Alexandrite</Entry>
+  <Entry Index="909">An extremely rare and valuable gemstone
+found in mines. Sells for a hefty price!
+Appears green outdoors.</Entry>
+  <Entry Index="910">Mythic Ore</Entry>
+  <Entry Index="911">An extremely rare material found in mines.
+Used to level up tools.</Entry>
+  <Entry Index="912">Diamond</Entry>
+  <Entry Index="913">A rare gemstone found in mines.
+Sells for a very good amount.</Entry>
+  <Entry Index="914">Emerald</Entry>
+  <Entry Index="915">A rare gemstone found in mines.
+Sells for a good amount.</Entry>
+  <Entry Index="916">Ruby</Entry>
+  <Entry Index="917">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="918">Topaz</Entry>
+  <Entry Index="919">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="920">Peridot</Entry>
+  <Entry Index="921">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="922">Fluorite</Entry>
+  <Entry Index="923">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="924">Agate</Entry>
+  <Entry Index="925">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="926">Amethyst</Entry>
+  <Entry Index="927">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="928">Goddess Jewel</Entry>
+  <Entry Index="929">A fabulous gem found in mines.
+Something might happen when
+you gather nine of them...</Entry>
+  <Entry Index="930">Kappa Jewel</Entry>
+  <Entry Index="931">A curious gem found in mines.
+Something might happen when
+you gather nine of them...</Entry>
+  <Entry Index="932">Truth Jewel</Entry>
+  <Entry Index="933">Gathering nine of these will reveal the true
+state of being...</Entry>
+  <Entry Index="934">Spring Sun</Entry>
+  <Entry Index="935">A dish made from different kinds of herbs.
+Wait...this isn't edible. What is this?!</Entry>
+  <Entry Index="936">Summer Sun</Entry>
+  <Entry Index="937">A dish made from things that have been
+fished up. Wait...this isn't edible.
+What is this?!</Entry>
+  <Entry Index="938">Autumn Sun</Entry>
+  <Entry Index="939">A dish made of various X-sized products.
+Wait...this isn't edible. What is this?!</Entry>
+  <Entry Index="940">Winter Sun</Entry>
+  <Entry Index="941">A dish made from various ores and jewels.
+Wait...this isn't edible. What is this?!</Entry>
+  <Entry Index="942">Bracelet</Entry>
+  <Entry Index="943">An accessory that the blacksmith can make.
+Give it to someone as a present!</Entry>
+  <Entry Index="944">Necklace</Entry>
+  <Entry Index="945">An accessory that the blacksmith can make.
+Give it to someone as a present!</Entry>
+  <Entry Index="946">Earrings</Entry>
+  <Entry Index="947">An accessory that the blacksmith can make.
+Give it to someone as a present!</Entry>
+  <Entry Index="948">Brooch</Entry>
+  <Entry Index="949">An accessory that the blacksmith can make.
+Give it to someone as a present!</Entry>
+  <Entry Index="950">Weed</Entry>
+  <Entry Index="951">Grows in the field from spring to autumn.
+Can be shipped, but it won't sell for much.</Entry>
+  <Entry Index="952">Stone</Entry>
+  <Entry Index="953">Can be broken with a Hammer. Can also be
+put on tillable ground to return it to normal.</Entry>
+  <Entry Index="954">Branch</Entry>
+  <Entry Index="955">Can be split with an Axe to make Lumber.
+Can also be put on tilled ground to return
+it to normal.</Entry>
+  <Entry Index="956">Tomatosetta Stone</Entry>
+  <Entry Index="957">[How to Make Ketchup]
+Ingredients: Tomato, Onion
+Cooking Utensils: Mixer, Seasoning Set</Entry>
+  <Entry Index="958">Letter in a Bottle</Entry>
+  <Entry Index="959">[How to Make French Fries]
+Ingredients: Potato, Oil
+Cooking Utensils: Frying Pan, Knife</Entry>
+  <Entry Index="960">Ball</Entry>
+  <Entry Index="961">A toy for your pet. Try throwing it!</Entry>
+  <Entry Index="962">Pirate Treasure</Entry>
+  <Entry Index="963">Swashbuckling booty hidden by pirates.
+Sells for a hefty price!</Entry>
+  <Entry Index="964">Ancient Fossil</Entry>
+  <Entry Index="965">The remains of a fish that lived long ago.
+Sells for a hefty price!</Entry>
+  <Entry Index="966">Empty Can</Entry>
+  <Entry Index="967">Who threw this away? At least now the
+water is cleaner.</Entry>
+  <Entry Index="968">Boot</Entry>
+  <Entry Index="969">Who threw this away? And did they walk
+home with only one shoe on? At least now
+the water is cleaner.</Entry>
+  <Entry Index="970">Fishbone</Entry>
+  <Entry Index="971">At least now the water is cleaner.</Entry>
+  <Entry Index="972">Karen's Wine</Entry>
+  <Entry Index="973">A drink from Karen.
+The label has her name on it.</Entry>
+  <Entry Index="974">Popuri's Dorodango</Entry>
+  <Entry Index="975">A shiny ball that Popuri molded out of clay.
+It's really well made and won't break.</Entry>
+  <Entry Index="976">Ran's Music Box</Entry>
+  <Entry Index="977">A music box from Ran. It's broken and won't
+play any music.</Entry>
+  <Entry Index="978">Marie's Book</Entry>
+  <Entry Index="979">A book from Marie. A masterpiece that's
+bound to make you shed some tears.</Entry>
+  <Entry Index="980">Elly's Pressed Flowers</Entry>
+  <Entry Index="981">Flowers that Elly preserved by drying and
+pressing. You can almost feel her kindness
+emanating from the flattened petals.</Entry>
+  <Entry Index="982">Record 1</Entry>
+  <Entry Index="983">Title: Outset of Seasons - Spring Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="984">Record 2</Entry>
+  <Entry Index="985">Title: Outset of Seasons - Event Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="986">Record 3</Entry>
+  <Entry Index="987">Title: Flower Bud Village - Autumn Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="988">Record 4</Entry>
+  <Entry Index="989">Title: Flower Bud Village - Main Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="990">Record 5</Entry>
+  <Entry Index="991">Title: Moonlit Girl - Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="992">Record 6</Entry>
+  <Entry Index="993">Title: Moonlit Girl - Love.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="994">Record 7</Entry>
+  <Entry Index="995">Title: Sugar Village - Summer Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="996">Record 8</Entry>
+  <Entry Index="997">Title: Sugar Village - Autumn Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="998">Record 9</Entry>
+  <Entry Index="999">Title: A Wonderful Season - Autumn/Winter.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1000">Record 10</Entry>
+  <Entry Index="1001">Title: A Wonderful Season - Nighttime Bar.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1002">Record 11</Entry>
+  <Entry Index="1003">Title: Sprite Station - Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1004">Record 12</Entry>
+  <Entry Index="1005">Title: Sprite Station - Ending Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1006">Record 13</Entry>
+  <Entry Index="1007">Title: Trio of Towns - Autumn Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1008">Record 14</Entry>
+  <Entry Index="1009">Title: Trio of Towns - Spring Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1010">Record 15</Entry>
+  <Entry Index="1011">Title: Trio of Towns - Summer Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1012">Record 16</Entry>
+  <Entry Index="1013">Title: Trio of Towns - Winter Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1014">Record 17</Entry>
+  <Entry Index="1015">Title: Everyone's Wish - Theme.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1016">Record 18</Entry>
+  <Entry Index="1017">Title: Everyone's Wish - Harvest Festival.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1018">Record 19</Entry>
+  <Entry Index="1019">Title: Everyone's Wish - Wedding.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1020">Record 20</Entry>
+  <Entry Index="1021">Title: Everyone's Wish - Peace.
+Buying it will add the song to your
+Record Player.</Entry>
+  <Entry Index="1022">Outset of Seasons - Spring Theme</Entry>
+  <Entry Index="1023">Outset of Seasons - Event Theme</Entry>
+  <Entry Index="1024">Flower Bud Village - Autumn Theme</Entry>
+  <Entry Index="1025">Flower Bud Village - Main Theme</Entry>
+  <Entry Index="1026">Moonlit Girl - Theme</Entry>
+  <Entry Index="1027">Moonlit Girl - Love</Entry>
+  <Entry Index="1028">Sugar Village - Summer Theme</Entry>
+  <Entry Index="1029">Sugar Village - Autumn Theme</Entry>
+  <Entry Index="1030">A Wonderful Season - Autumn/Winter</Entry>
+  <Entry Index="1031">A Wonderful Season - Nighttime Bar</Entry>
+  <Entry Index="1032">Sprite Station - Theme</Entry>
+  <Entry Index="1033">Sprite Station - Ending Theme</Entry>
+  <Entry Index="1034">Trio of Towns - Autumn Theme</Entry>
+  <Entry Index="1035">Trio of Towns - Spring Theme</Entry>
+  <Entry Index="1036">Trio of Towns - Summer Theme</Entry>
+  <Entry Index="1037">Trio of Towns - Winter Theme</Entry>
+  <Entry Index="1038">Everyone's Wish - Theme</Entry>
+  <Entry Index="1039">Everyone's Wish - Harvest Festival</Entry>
+  <Entry Index="1040">Everyone's Wish - Wedding</Entry>
+  <Entry Index="1041">Everyone's Wish - Peace</Entry>
+  <Entry Index="1042">100 Win Streak Item Book</Entry>
+  <Entry Index="1043">Proof from the Goddess that you have
+correctly guessed if the next number will be
+large or small, 100 times in a row.</Entry>
+  <Entry Index="1044"></Entry>
+  <Entry Index="1045"></Entry>
+  <Entry Index="1046">Perfume</Entry>
+  <Entry Index="1047">A flowery fragrance. The perfect present for
+an aromatic fanatic!</Entry>
+  <Entry Index="1048">Photo</Entry>
+  <Entry Index="1049">A photograph found on the ground by Cliff.
+It seems to be an image of a family.</Entry>
+  <Entry Index="1050"></Entry>
+  <Entry Index="1051"></Entry>
+  <Entry Index="1052">Invitation</Entry>
+  <Entry Index="1053">An invitation from the Nature Sprites to their
+tea party.</Entry>
+  <Entry Index="1054">Dress</Entry>
+  <Entry Index="1055">Has a feminine design sure to please the
+fashionably conscious. Folded nicely into
+a pretty box.</Entry>
+  <Entry Index="1056">Face Pack</Entry>
+  <Entry Index="1057">Using it makes your skin smooth and supple,
+but you also look terrifying when you wear it.</Entry>
+  <Entry Index="1058">Lotion</Entry>
+  <Entry Index="1059">Full of ingredients that help the skin stay
+smooth. Popular among girls.</Entry>
+  <Entry Index="1060">Sunblock</Entry>
+  <Entry Index="1061">The summer sun is the enemy of healthy skin!
+For those who prefer not to be burned
+to a crisp.</Entry>
+  <Entry Index="1062"></Entry>
+  <Entry Index="1063"></Entry>
+  <Entry Index="1064">Golden Lumber</Entry>
+  <Entry Index="1065">Shiny golden material. If put in the ground,
+it will become a fence post that doesn't rot.</Entry>
+  <Entry Index="1066">Fodder</Entry>
+  <Entry Index="1067">Food for cows, sheep, and alpacas.
+Put it in the Feeding Bin in the Barn.</Entry>
+  <Entry Index="1068">Chicken/Rabbit Feed</Entry>
+  <Entry Index="1069">Food for chickens and Angora rabbits.
+It's made of Corn. Put it in the Feeding
+Bin in the Coop.</Entry>
+  <Entry Index="1070">RPS Master Certification</Entry>
+  <Entry Index="1071">Proof that you beat the Goddess at
+rock-paper-scissors 100 times in a row.
+You must have all the luck.</Entry>
+  <Entry Index="1072">Disc</Entry>
+  <Entry Index="1073">A toy for pets that you can throw. You can
+play with your pet at Mineral Beach.</Entry>
+  <Entry Index="1074">Rick's Wristwatch</Entry>
+  <Entry Index="1075">A watch from Rick. It's his childhood treasure.</Entry>
+  <Entry Index="1076">Kai's Sea Charm</Entry>
+  <Entry Index="1077">A charm from Kai.
+He bought it in another town.</Entry>
+  <Entry Index="1078">Cliff's Flower Ornament</Entry>
+  <Entry Index="1079">A decorative flower from Cliff. He made it
+out of blossoms he gathered from around
+the mountain.</Entry>
+  <Entry Index="1080">Gray's Brooch</Entry>
+  <Entry Index="1081">A brooch from Gray. It looks like it's made out
+of silver.</Entry>
+  <Entry Index="1082">Doctor's Therapy Merch</Entry>
+  <Entry Index="1083">From Doctor. Apparently it releases
+negative ions.</Entry>
+  <Entry Index="1084">Mysterious Ticket</Entry>
+  <Entry Index="1085">From Huang. If you hand it across the
+counter...</Entry>
+  <Entry Index="1086">Jennifer's Potpourri</Entry>
+  <Entry Index="1087">Potpourri from Jennifer. Apparently she
+changes the mix of flowers depending on who
+she gives it to. Smells nice...</Entry>
+  <Entry Index="1088">Brandon's Mini Artwork</Entry>
+  <Entry Index="1089">Artwork from Brandon. Apparently titled
+"The Looming Nightmare: Insomnia."</Entry>
+  <Entry Index="1090">Brandon's Love Sculpture</Entry>
+  <Entry Index="1091">From Brandon. Apparently titled "Life's
+Mystery and Milk: A Sculpture of Earth's
+Bounty and the Chasm of Love."</Entry>
+  <Entry Index="1092">Cluck-Cluck Clash Trophy</Entry>
+  <Entry Index="1093">A clucktastic trophy for coming in first place
+at the Cluck-Cluck Clash.</Entry>
+  <Entry Index="1094">Moo-Moo Fest Trophy</Entry>
+  <Entry Index="1095">A moo-rvelous trophy for coming in first place
+at the Moo-Moo Festival.</Entry>
+  <Entry Index="1096">Fluffy Fest Trophy</Entry>
+  <Entry Index="1097">A fluff-class trophy for coming in first at the
+Fluffy Festival.</Entry>
+  <Entry Index="1098">Kappa Statue</Entry>
+  <Entry Index="1099">A statue of a kappa. It doesn't look like Kappa
+from the lake.</Entry>
+  <Entry Index="1100">Goddess Statue</Entry>
+  <Entry Index="1101">A statue of the Goddess. Simply divine.</Entry>
+  <Entry Index="1102">Nature Sprite Statue</Entry>
+  <Entry Index="1103">A statue of a Nature Sprite. It doesn't have
+any color, so who knows which Nature Sprite
+it is!</Entry>
+  <Entry Index="1104"></Entry>
+  <Entry Index="1105"></Entry>
+  <Entry Index="1106"></Entry>
+  <Entry Index="1107"></Entry>
+  <Entry Index="1108">Angora Rabbit Fur (S)</Entry>
+  <Entry Index="1109">Fur sheared from an Angora rabbit. Fluffy.
+Can be shipped.</Entry>
+  <Entry Index="1110">Angora Rabbit Fur (M)</Entry>
+  <Entry Index="1111">Fur sheared from an Angora rabbit with a
+relatively high affection level. Fluffy and soft.
+Can be shipped.</Entry>
+  <Entry Index="1112">Angora Rabbit Fur (L)</Entry>
+  <Entry Index="1113">Fur sheared from an Angora rabbit with a
+very high affection level. Fluffy and very soft.
+Can be shipped.</Entry>
+  <Entry Index="1114">Angora Rabbit Fur (G)</Entry>
+  <Entry Index="1115">Fur sheared from an Angora rabbit with a
+very high affection level. Fluffy and extremely
+soft. Can be shipped.</Entry>
+  <Entry Index="1116">Angora Rabbit Fur (P)</Entry>
+  <Entry Index="1117">Fur sheared from an Angora rabbit with a
+very high affection level. Super fluffy and soft.
+Can be shipped.</Entry>
+  <Entry Index="1118">Angora Rabbit Fur (X)</Entry>
+  <Entry Index="1119">Fur sheared from an Angora rabbit with
+a very high affection level. Velvety soft.
+The finest of furs. Can be shipped.</Entry>
+  <Entry Index="1120">Alpaca Fleece (S)</Entry>
+  <Entry Index="1121">Fleece sheared from an alpaca. Fluffy.
+Can be shipped.</Entry>
+  <Entry Index="1122">Alpaca Fleece (M)</Entry>
+  <Entry Index="1123">Fleece sheared from an alpaca with
+a relatively high affection level.
+Fluffy and soft. Can be shipped.</Entry>
+  <Entry Index="1124">Alpaca Fleece (L)</Entry>
+  <Entry Index="1125">Fleece sheared from an alpaca with a very
+high affection level. Fluffy and very soft.
+Can be shipped.</Entry>
+  <Entry Index="1126">Alpaca Fleece (G)</Entry>
+  <Entry Index="1127">Fleece sheared from an alpaca with a very
+high affection level. Fluffy and extremely soft.
+Can be shipped.</Entry>
+  <Entry Index="1128">Alpaca Fleece (P)</Entry>
+  <Entry Index="1129">Fleece sheared from an alpaca with a very
+high affection level. Super fluffy and soft.
+Can be shipped.</Entry>
+  <Entry Index="1130">Alpaca Fleece (X)</Entry>
+  <Entry Index="1131">Fleece sheared from an alpaca with a very
+high affection level. Silky soft. The finest of
+fleeces. Can be shipped.</Entry>
+  <Entry Index="1132">Material Stone</Entry>
+  <Entry Index="1133">Required in abundance when building additions
+for the house.</Entry>
+  <Entry Index="1134">Jade</Entry>
+  <Entry Index="1135">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="1136">Sapphire</Entry>
+  <Entry Index="1137">A gemstone found in mines.
+Sells for a good amount.</Entry>
+  <Entry Index="1138">Aquamarine</Entry>
+  <Entry Index="1139">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="1140">Garnet</Entry>
+  <Entry Index="1141">A gemstone found in mines.
+Sells for a good amount.</Entry>
+  <Entry Index="1142">Turquoise</Entry>
+  <Entry Index="1143">A gemstone found in mines.
+Sells for a decent amount.</Entry>
+  <Entry Index="1144">Lumber</Entry>
+  <Entry Index="1145">Used for building additions, as fuel for the
+Fireplace, and to make fences. Very versatile.</Entry>
+  <Entry Index="1146">Sunsweet Flower</Entry>
+  <Entry Index="1147">A new type of autumn flower that was
+recently discovered. Inedible, but can
+be shipped.</Entry>
+  <Entry Index="1148">Van's Favorite</Entry>
+  <Entry Index="1149">Whatever this is, giving it to Van seems like
+a good idea.</Entry>
+  <Entry Index="1150">Remote Control</Entry>
+  <Entry Index="1151">If you watch TV shows with this, then...</Entry>
+  <Entry Index="1152">Master Shopper Award</Entry>
+  <Entry Index="1153">If you examine your Mirror while you have
+this, then...</Entry>
+  <Entry Index="1154">Quiz Book</Entry>
+  <Entry Index="1155">If you look at a certain bookshelf in the
+Library with this, then...</Entry>
+  <Entry Index="1156">Goddess' Present</Entry>
+  <Entry Index="1157">It's certainly rare, but it doesn't seem to be
+particularly valuable.</Entry>
+  <Entry Index="1158">Pet Treat</Entry>
+  <Entry Index="1159">Buy it from Van's Pet Shop. Giving it to your
+pet will make it love you more.</Entry>
+  <Entry Index="1160">Gray's Present</Entry>
+  <Entry Index="1161">A gift from Gray. It's very well made.</Entry>
+  <Entry Index="1162">All BGM</Entry>
+  <Entry Index="1163">Adds every record to the Record Player.</Entry>
+  <Entry Index="1164">All Letters</Entry>
+  <Entry Index="1165">If you look at any bookshelf in the Library
+with this, then...</Entry>
+  <Entry Index="1166">All Books</Entry>
+  <Entry Index="1167">If you look at any bookshelf in the Library
+with this, then...</Entry>
+  <Entry Index="1168"></Entry>
+  <Entry Index="1169"></Entry>
+  <Entry Index="1170"></Entry>
+  <Entry Index="1171"></Entry>
+  <Entry Index="1172"></Entry>
+  <Entry Index="1173"></Entry>
+  <Entry Index="1174"></Entry>
+  <Entry Index="1175"></Entry>
+  <Entry Index="1176"></Entry>
+  <Entry Index="1177"></Entry>
+  <Entry Index="1178"></Entry>
+  <Entry Index="1179"></Entry>
+  <Entry Index="1180"></Entry>
+  <Entry Index="1181"></Entry>
+  <Entry Index="1182"></Entry>
+  <Entry Index="1183"></Entry>
+  <Entry Index="1184"></Entry>
+  <Entry Index="1185"></Entry>
+  <Entry Index="1186"></Entry>
+  <Entry Index="1187"></Entry>
+  <Entry Index="1188"></Entry>
+  <Entry Index="1189"></Entry>
+  <Entry Index="1190"></Entry>
+  <Entry Index="1191"></Entry>
+  <Entry Index="1192"></Entry>
+  <Entry Index="1193"></Entry>
+  <Entry Index="1194"></Entry>
+  <Entry Index="1195"></Entry>
+  <Entry Index="1196"></Entry>
+  <Entry Index="1197"></Entry>
+  <Entry Index="1198"></Entry>
+  <Entry Index="1199"></Entry>
+  <Entry Index="1200"></Entry>
+  <Entry Index="1201"></Entry>
+  <Entry Index="1202"></Entry>
+  <Entry Index="1203"></Entry>
+  <Entry Index="1204"></Entry>
+  <Entry Index="1205"></Entry>
+  <Entry Index="1206"></Entry>
+  <Entry Index="1207"></Entry>
+  <Entry Index="1208"></Entry>
+  <Entry Index="1209"></Entry>
+  <Entry Index="1210"></Entry>
+  <Entry Index="1211"></Entry>
+  <Entry Index="1212"></Entry>
+  <Entry Index="1213"></Entry>
+  <Entry Index="1214"></Entry>
+  <Entry Index="1215"></Entry>
+  <Entry Index="1216"></Entry>
+  <Entry Index="1217"></Entry>
+</Entries>
